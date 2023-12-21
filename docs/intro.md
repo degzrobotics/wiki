@@ -2,46 +2,78 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# wiki Hakkında 
 
-Let's discover **Docusaurus in less than 5 minutes**.
+wiki.degzrobotics.com(dokümanlar) Degz Robotik Sanayi tarafından üretilen araçlar ve ürünler için herkesin hızlı bilgiye ve doğru şekilde ulaşmasını hedeflemektedir. 
 
-## Getting Started
 
-Get started by **creating a new site**.
+| # | İçerikler                                                 |
+|---|-----------------------------------------------------------|
+| 1 | [Degz Mizu Rp2040](/docs/category/mizu-rp2040-dokümanlar) |
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Dokümanlara katkı sağlama
 
-### What you'll need
+### Var olan sayfadaki içerikleri düzenleme
+Her dokümanın altındaki `Bu sayfayı düzenle` butonuna basarak sayfanın bulunduğu github reposuna gidebilirsiniz. 
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
 
-## Generate a new site
+**Todo**
+- [x] Giriş metni yazıldı.
+- [ ] Githubdan sonra nasıl düzenleneceği yazılacak
 
-Generate a new Docusaurus site using the **classic template**.
 
-The classic template will automatically be added to your project after you run the command:
+### Bilgisayarınızdan nasıl düzenleyebilirsiniz (Tavsiye edilen)
 
-```bash
-npm init docusaurus@latest my-website classic
-```
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+**Todo**
+- [ ] Giriş metni yazıldı.
+- [ ] Githubtan repo nasıl clonelanır.
+- [ ] VSCode gibi yazılım kullanarak markdown nasıl düzenlenir. 
+- [ ] Yapılan Değişikler nasıl tekrar sunucuya yollanır. 
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+## Markdown Hakkında
 
-## Start your site
+Sitede içerik paylaşmak için markdown bilmeniz gerekmektedir. Markdown, metinleri basit bir şekilde biçimlendirmek için kullanılan bir işaretleme dilidir. Web içeriği yazarken kullanılır ve metni başlıklar, listeler, bağlantılar gibi öğelere dönüştürmek için basit işaretler ve semboller kullanır. Örneğin, `*içerik*` -> *içerik* şeklinde italik metin, `**metin**` -> **metin** ise kalın metin yapar. Markdown, okunabilirliği ve yazım kolaylığını ön planda tutar.
 
-Run the development server:
+**Genişletilmiş Markdown Todo Listesi**
 
-```bash
-cd my-website
-npm run start
-```
+- [x] Giriş metni yazımı
+- [ ] Başlıkların kullanımı (`#`, `##`, `###`, ...)
+- [ ] Paragraf oluşturma
+- [ ] Kalın metin formatlaması (`**kalın**`)
+- [ ] İtalik metin formatlaması (`*italik*`)
+- [ ] Üstü çizili metin (`~~üstü çizili~~`)
+- [ ] Inline kod (`\`kod\``)
+- [ ] Kod blokları (` ``` `)
+- [ ] Bağlantı ekleme (`[Metin](URL)`)
+- [ ] Resim ekleme (`![Açıklama](URL)`)
+- [ ] Sıralı liste oluşturma (`1.`, `2.`, ...)
+- [ ] Sırasız liste oluşturma (`-`, `*`)
+- [ ] Görev listesi oluşturma (`- [ ] `, `- [x]`)
+- [ ] Alıntı yapma (`> alıntı`)
+- [ ] Yatay çizgi ekleme (`---` veya `***`)
+- [ ] Tablo oluşturma (`| Başlık 1 | Başlık 2 |`, `| --- | --- |`, `| İçerik 1 | İçerik 2 |`)
+- [ ] Kaçış karakterleri kullanımı (`\`, özel karakterlerin önüne konarak)
+- [ ] HTML kullanımı (HTML etiketleri)
+- [ ] Emojilerin kullanımı (`:emoji_adı:`)
+- [ ] Özel notlar ve uyarılar için bloklar oluşturma
+- [ ] Kolon ve satır içi düzenlemeler (hücrelerin biçimlendirilmesi)
+- [ ] Markdown içinde CSS stilleri kullanma (ilgili platformların desteklemesi durumunda)
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+**Not:** Bu liste, Markdown'ın genişletilmiş özelliklerini içermektedir ve belirli platformlarda desteklenen bazı özel özell
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+## Hazırlama Todo Listesi
+
+**Docusaurus için Temel Düzey Blog İçeriği Hazırlama Todo Listesi**
+
+- [ ] Docusaurus'ta blog klasörünü bulma ve anlama
+- [ ] Yeni bir blog yazısı dosyası oluşturma (.md formatında)
+- [ ] Blog yazısına başlık, yazar adı ve tarih eklemek
+- [ ] Basit giriş paragrafı yazma
+- [ ] Ana içeriği oluşturma (net ve anlaşılır metin)
+- [ ] Basit resimler eklemek (örneğin, projenin `static` klasörüne yükleyerek)
+- [ ] Temel Markdown formatlamasını kullanma (kalın, italik, başlıklar)
+- [ ] Yazının önizlemesini yaparak formatlama ve yazım hatalarını kontrol etme
+- [ ] Blog yazısını yayınlama (dosyayı ilgili klasöre yerleştirerek)
+- [ ] Yayınlanan içeriği web sitesinde kontrol etme

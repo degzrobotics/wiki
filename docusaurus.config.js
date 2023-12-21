@@ -68,21 +68,24 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: '',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Degz Robotics Logo',
+          src: 'img/logo.png',
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Dökümanlar',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            to: 'https://degzrobotics.com/komponentler/',
+            label: 'Market',
+            position: 'left'},
+          {
+            href: 'https://github.com/degzrobotics/wiki/',
             label: 'GitHub',
             position: 'right',
           },
@@ -92,28 +95,24 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Dökümanlar',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Degz Robotics Mizu RP2040',
+                to: '/docs/mizu-rp2040/overview',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Komünite',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Forum',
+                href: 'https://forum.degzrobotics.com',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Mucif',
+                href: 'https://www.mucif.com',
               },
             ],
           },
@@ -131,7 +130,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} wiki.degzrobotics.com`,
       },
       prism: {
         theme: prismThemes.github,
