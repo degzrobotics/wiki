@@ -83,10 +83,15 @@ const config = {
           {
             to: 'https://degzrobotics.com/komponentler/',
             label: 'Market',
-            position: 'left'},
+            position: 'left'
+          },
           {
             href: 'https://github.com/degzrobotics/wiki/',
             label: 'GitHub',
+            position: 'right',
+          },
+          {
+            type: 'localeDropdown',
             position: 'right',
           },
         ],
