@@ -1,0 +1,18 @@
+{
+  "logo.alt": {
+    "message": "Degz Robotics Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Dökümanlar": {
+    "message": "Documentations",
+    "description": "Navbar item with label Dökümanlar"
+  },
+  "item.label.Market": {
+    "message": "Shop",
+    "description": "Navbar item with label Market"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}

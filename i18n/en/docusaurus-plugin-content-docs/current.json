@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Mizu RP2040 Dokümanlar": {
+    "message": "Mizu RP2040 Documentation",
+    "description": "The label for category Mizu RP2040 Dokümanlar in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Mizu RP2040 Dokümanlar.link.generated-index.description": {
+    "message": "Learn the most important features of the Mizu RP2040 in 5 minutes.",
+    "description": "The generated-index page description for category Mizu RP2040 Dokümanlar in sidebar tutorialSidebar"
+  }
+}
