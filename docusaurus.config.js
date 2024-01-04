@@ -82,7 +82,7 @@ const config = {
           },
           {
             to: 'https://degzrobotics.com/komponentler/',
-            label: 'Market',
+            label: 'Mağaza',
             position: 'left'
           },
           {
@@ -109,7 +109,7 @@ const config = {
             ],
           },
           {
-            title: 'Komünite',
+            title: 'Topluluk',
             items: [
               {
                 label: 'Forum',
@@ -122,7 +122,7 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Daha Fazla',
             items: [
               {
                 label: 'Blog',
