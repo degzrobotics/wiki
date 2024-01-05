@@ -74,21 +74,17 @@ const config = {
         theme: {
           customCss: './src/css/custom.css',
         },
-      }),
-    ],
-    [
-      '@docusaurus/preset-classic',
-      {
         sitemap: {
-          changefreq: 'weekly',
+          changefreq: 'hourly',
           priority: 0.5,
           ignorePatterns: ['/tags/**'],
           filename: 'sitemap.xml',
         },
-      },
+      }),
     ],
   ],
-
+  
+  
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
