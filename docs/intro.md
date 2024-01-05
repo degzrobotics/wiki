@@ -3,30 +3,36 @@ sidebar_position: 1
 slug: /
 ---
 
-# wiki Hakkında 
+# Wiki Hakkında
 
-wiki.degzrobotics.com(dokümanlar) Degz Robotik Sanayi tarafından üretilen araçlar ve ürünler için herkesin hızlı bilgiye ve doğru şekilde ulaşmasını hedeflemektedir. 
-
-
-| # | İçerikler                                                 |
-|---|-----------------------------------------------------------|
-| 1 | Degz Mizu Rp2040 |
+wiki.degzrobotics.com(dokümanlar) Degz Robotik Sanayi tarafından üretilen araçlar ve ürünler için herkesin hızlı bilgiye ve doğru şekilde ulaşmasını hedeflemektedir.
 
 ## Dokümanlara katkı sağlama
 
 ### Var olan sayfadaki içerikleri düzenleme
+
 Her dokümanın altındaki `Bu sayfayı düzenle` butonuna basarak sayfanın bulunduğu github reposuna gidebilirsiniz. 
-
-
-**Todo**
-- [x] Giriş metni yazıldı.
-- [ ] Githubdan sonra nasıl düzenleneceği yazılacak
-
 
 ### Bilgisayarınızdan nasıl düzenleyebilirsiniz (Tavsiye edilen)
 
+#### Gerekli programların yüklenmesi
 
-**Todo**
+1. [VSCode](https://code.visualstudio.com/download) linkten indirip kurun.
+2. [Git (versiyon takip yazılımı)](https://git-scm.com/) linkten indirip kurun.
+3. [GitHub Desktop (versiyonları takip etmenize yarar.)](https://desktop.github.com/) indirip kurunuz. 
+
+#### Eklentilerin kurulması
+
+VSCodeda eklenti kısımına gelip. Aşağıdaki eklentileri kurunuz.
+
+* [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+* [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+
+#### Reponun kopyalanması
+
+
+Todo
+
 - [ ] Giriş metni yazıldı.
 - [ ] Githubtan repo nasıl clonelanır.
 - [ ] VSCode gibi yazılım kullanarak markdown nasıl düzenlenir. 
