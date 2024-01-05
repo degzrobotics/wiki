@@ -102,6 +102,11 @@ const config = {
             position: 'left'
           },
           {
+            to: 'https://forum.degzrobotics.com/',
+            label: 'Forum',
+            position: 'left'
+          },
+          {
             href: 'https://github.com/degzrobotics/wiki/',
             label: 'GitHub',
             position: 'right',
@@ -118,10 +123,7 @@ const config = {
           {
             title: 'Dökümanlar',
             items: [
-              {
-                label: 'Degz Robotics',
-                to: '/docs/intro',
-              },
+
             ],
           },
           {

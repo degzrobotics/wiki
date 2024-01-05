@@ -9,7 +9,7 @@ wiki.degzrobotics.com(dokümanlar) Degz Robotik Sanayi tarafından üretilen ara
 
 | # | İçerikler                                                 |
 |---|-----------------------------------------------------------|
-| 1 | [Degz Mizu Rp2040](/docs/category/mizu-rp2040-dokümanlar) |
+| 1 | Degz Mizu Rp2040 |
 
 ## Dokümanlara katkı sağlama
 
