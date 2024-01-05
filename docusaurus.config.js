@@ -103,8 +103,8 @@ const config = {
             title: 'Dökümanlar',
             items: [
               {
-                label: 'Degz Robotics Mizu RP2040',
-                to: '/docs/mizu-rp2040/overview',
+                label: 'Degz Robotics',
+                to: '/docs/intro',
               },
             ],
           },
