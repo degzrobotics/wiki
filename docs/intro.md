@@ -11,7 +11,7 @@ wiki.degzrobotics.com(dokümanlar) Degz Robotik Sanayi tarafından üretilen ara
 
 ### Var olan sayfadaki içerikleri düzenleme
 
-Her dokümanın altındaki `Bu sayfayı düzenle` butonuna basarak sayfanın bulunduğu github reposuna gidebilirsiniz. 
+Her dokümanın altındaki `Bu sayfayı düzenle` butonuna basarak sayfanın bulunduğu github reposuna gidebilirsiniz.
 
 ### Bilgisayarınızdan nasıl düzenleyebilirsiniz (Tavsiye edilen)
 
@@ -19,7 +19,7 @@ Her dokümanın altındaki `Bu sayfayı düzenle` butonuna basarak sayfanın bul
 
 1. [VSCode](https://code.visualstudio.com/download) linkten indirip kurun.
 2. [Git (versiyon takip yazılımı)](https://git-scm.com/) linkten indirip kurun.
-3. [GitHub Desktop (versiyonları takip etmenize yarar.)](https://desktop.github.com/) indirip kurunuz. 
+3. [GitHub Desktop (versiyonları takip etmenize yarar.)](https://desktop.github.com/) indirip kurunuz.
 
 #### Eklentilerin kurulması
 
@@ -30,13 +30,36 @@ VSCodeda eklenti kısımına gelip. Aşağıdaki eklentileri kurunuz.
 
 #### Reponun kopyalanması
 
+1. İlk olarak GitHub Desktop uygulamasını açın.
+![Github Desktop Arayüzü](/static/img/dcsrsgthb01.png)
+2. Kayıtlı olduğunuz repolardan `degzrobotics/wiki` reposunu arayıp tıklayın.
+![Arama sonucu](../static/img/dcsrsgthb02.png)
+3. Kurulacak dizini kontrol edip. Clone butonuna basınız.
+![Dizin popup](/static/img/dcsrsgthb03.png)
+4. Gelen arayüzde projede değişiklik olduğunda güncelleme olup olmadığını gösterir.
+![Github Desktop Repo Arayüzü](../static/img/dcsrsgthb04.png)
+5. `Open in Visual Studio Code` butonuna basarak vscode ile dokümanları düzenleyebilirsiniz. 
+![Vscode open](../static/img/dcsrsgthb05.png)
+6. VSCode açılacaktır. Sol kısımdaki dosyalardan `docs` klasörüne tıklayıp genişletin.
+![VSCode Anasayfa](../static/img/dcsrsgthb06.png)
+7. Açılan klasörde daha önceden oluşturulmuş olan sayfalar bulunmaktadır.
+![Klasörler](/static/img/dcsrsgthb07.png)
+8. Örnek olarak birini düzenleyelim. 
+![Dosya düzenleme](/static/img/dcsrsgthb08.png)
+9. Düzenledikten sonra dosyayı `CTRL + S` butonu ile kaydetmeyi unutma. Ve Github Desktop uygulamasını aç. 
+![Github Destop değişiklik olduktan sonraki ekran](/static/img/dcsrsgthb09.png)
+10. Yaptığın değişikliklere ait bir yorum yap ve `Commit to Main` butonuna basarak yaptığın değişiklere yorum yap.
+![Github Destop değişiklik olduktan sonraki ekran](/static/img/dcsrsgthb10.png)
+11. Son olarak yaptığın değişikleri `push` butonuna basarak githuba gönder.
 
-Todo
+Not: Eğer sistemi bozmadıysanız birkaç dakika için websayfası güncellenecektir.
 
-- [ ] Giriş metni yazıldı.
-- [ ] Githubtan repo nasıl clonelanır.
-- [ ] VSCode gibi yazılım kullanarak markdown nasıl düzenlenir. 
-- [ ] Yapılan Değişikler nasıl tekrar sunucuya yollanır. 
+## Todo
+
+* [x] Giriş metni yazıldı.
+* [x] Githubtan repo nasıl clonelanır.
+* [ ] VSCode gibi yazılım kullanarak markdown nasıl düzenlenir.
+* [ ] Yapılan Değişikler nasıl tekrar sunucuya yollanır.
 
 ## Markdown Hakkında
 
