@@ -48,7 +48,8 @@ const config = {
         language: ["en", "tr"],
         // ```
       })
-    ]
+    ],
+    '@saucelabs/theme-github-codeblock'
   ],
 
   presets: [
