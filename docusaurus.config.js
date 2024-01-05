@@ -36,6 +36,21 @@ const config = {
     locales: ['tr', 'en'],
   },
 
+  themes: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      ({
+        // ... Your options.
+        // `hashed` is recommended as long-term-cache of index file is possible.
+        hashed: true,
+        // For Docs using Chinese, The `language` is recommended to set to:
+        // ```
+        language: ["en", "tr"],
+        // ```
+      })
+    ]
+  ],
+
   presets: [
     [
       'classic',
@@ -145,3 +160,4 @@ const config = {
 };
 
 export default config;
+
