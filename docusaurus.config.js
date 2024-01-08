@@ -37,6 +37,10 @@ const config = {
   },
 
 
+  plugins: [ 
+    require.resolve("docusaurus-plugin-image-zoom")
+
+  ],
 
   themes: [
     [
@@ -169,6 +173,20 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      zoom: {
+        selector: '.markdown :not(em) > img',
+        config: {
+          // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
+          background: {
+            light: 'rgb(255, 255, 255)',
+            dark: 'rgb(50, 50, 50)'
+          },
+          margin: 10,
+          scrollOffset: 200,
+
+        }
+      }
+
     }),
 };
 
