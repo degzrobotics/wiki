@@ -20,6 +20,8 @@ Her dokümanın altındaki `Bu sayfayı düzenle` butonuna basarak sayfanın bul
 1. [VSCode](https://code.visualstudio.com/download) linkten indirip kurun.
 2. [Git (versiyon takip yazılımı)](https://git-scm.com/) linkten indirip kurun.
 3. [GitHub Desktop (versiyonları takip etmenize yarar.)](https://desktop.github.com/) indirip kurunuz.
+4. Node.js kurulması
+5. Yarn kurulması
 
 #### Eklentilerin kurulması
 
@@ -44,15 +46,42 @@ VSCodeda eklenti kısımına gelip. Aşağıdaki eklentileri kurunuz.
 ![VSCode Anasayfa](/img/dcsrsgthb06.png)
 7. Açılan klasörde daha önceden oluşturulmuş olan sayfalar bulunmaktadır.
 ![Klasörler](/img/dcsrsgthb07.png)
-8. Örnek olarak birini düzenleyelim. 
+8. Örnek olarak birini düzenleyelim.
 ![Dosya düzenleme](/img/dcsrsgthb08.png)
-9. Düzenledikten sonra dosyayı `CTRL + S` butonu ile kaydetmeyi unutma. Ve Github Desktop uygulamasını aç.
+9. Projenin gereksinimlerini kurunuz. Ayrıca derlenme adımlarını uygulayınız. [Derlenme adımları](#kurulum-ve-derlenme)
+10. Düzenledikten sonra dosyayı `CTRL + S` butonu ile kaydetmeyi unutma. Ve Github Desktop uygulamasını aç.
 ![Github Destop değişiklik olduktan sonraki ekran](/img/dcsrsgthb09.png)
-10. Yaptığın değişikliklere ait bir yorum yap ve `Commit to Main` butonuna basarak yaptığın değişiklere yorum yap.
+11. Yaptığın değişikliklere ait bir yorum yap ve `Commit to Main` butonuna basarak yaptığın değişiklere yorum yap.
 ![Github Destop değişiklik olduktan sonraki ekran](/img/dcsrsgthb10.png)
-11. Son olarak yaptığın değişikleri `push` butonuna basarak githuba gönder.
+12. Son olarak yaptığın değişikleri `push` butonuna basarak githuba gönder.
 
 Not: Eğer sistemi bozmadıysanız birkaç dakika için websayfası güncellenecektir.
+
+## Kurulum ve Derlenme
+
+```bash
+yarn
+```
+
+Bu komutla daha önceki eklenen tüm kütüphaneleri indirmenizi sağlar.
+
+Local(kendi) bilgisayarınızda yaptığınız değişikleri görmek için canlı bir server oluşturun.
+  
+```bash
+yarn start
+```
+
+Sunucuya commit etmeden projeyi `build` edip localde build edilen dosyayı `run` etmeniz gerekmektedir. Şu şekilde yapılır.
+
+```bash
+yarn build
+```
+
+Şimdi build edilen dosyalarla serveri başlatalım.
+
+```bash
+yarn run serve
+```
 
 ## Todo
 
@@ -65,25 +94,25 @@ Not: Eğer sistemi bozmadıysanız birkaç dakika için websayfası güncellenec
 
 Sitede içerik paylaşmak için markdown bilmeniz gerekmektedir. Markdown, metinleri basit bir şekilde biçimlendirmek için kullanılan bir işaretleme dilidir. Web içeriği yazarken kullanılır ve metni başlıklar, listeler, bağlantılar gibi öğelere dönüştürmek için basit işaretler ve semboller kullanır. Örneğin, `*içerik*` -> *içerik* şeklinde italik metin, `**metin**` -> **metin** ise kalın metin yapar. Markdown, okunabilirliği ve yazım kolaylığını ön planda tutar.
 
-**Genişletilmiş Markdown Todo Listesi**
+### Genişletilmiş Markdown Todo Listesi
 
-- [x] Giriş metni yazımı
-- [ ] Başlıkların kullanımı (`#`, `##`, `###`, ...)
-- [ ] Paragraf oluşturma
-- [ ] Kalın metin formatlaması (`**kalın**`)
-- [ ] İtalik metin formatlaması (`*italik*`)
-- [ ] Üstü çizili metin (`~~üstü çizili~~`)
-- [ ] Inline kod (`\`kod\``)
-- [ ] Kod blokları (` ``` `)
-- [ ] Bağlantı ekleme (`[Metin](URL)`)
-- [ ] Resim ekleme (`![Açıklama](URL)`)
-- [ ] Sıralı liste oluşturma (`1.`, `2.`, ...)
-- [ ] Sırasız liste oluşturma (`-`, `*`)
-- [ ] Görev listesi oluşturma (`- [ ] `, `- [x]`)
-- [ ] Alıntı yapma (`> alıntı`)
-- [ ] Yatay çizgi ekleme (`---` veya `***`)
-- [ ] Tablo oluşturma (`| Başlık 1 | Başlık 2 |`, `| --- | --- |`, `| İçerik 1 | İçerik 2 |`)
-- [ ] Kaçış karakterleri kullanımı (`\`, özel karakterlerin önüne konarak)
+* [x] Giriş metni yazımı
+* [ ] Başlıkların kullanımı (`#`, `##`, `###`, ...)
+* [ ] Paragraf oluşturma
+* [ ] Kalın metin formatlaması (`**kalın**`)
+* [ ] İtalik metin formatlaması (`*italik*`)
+* [ ] Üstü çizili metin (`~~üstü çizili~~`)
+* [ ] Inline kod (`\`kod\``)
+* [ ] Kod blokları (` ``` `)
+* [ ] Bağlantı ekleme (`[Metin](URL)`)
+* [ ] Resim ekleme (`![Açıklama](URL)`)
+* [ ] Sıralı liste oluşturma (`1.`, `2.`, ...)
+* [ ] Sırasız liste oluşturma (`-`, `*`)
+* [ ] Görev listesi oluşturma (`- [ ] `, `- [x]`)
+* [ ] Alıntı yapma (`> alıntı`)
+* [ ] Yatay çizgi ekleme (`---` veya `***`)
+* [ ] Tablo oluşturma (`| Başlık 1 | Başlık 2 |`, *| --- | --- |`, `| İçerik 1 | İçerik 2 |`)
+* [ ] Kaçış karakterleri kullanımı (`\`, özel karakterlerin önüne konarak)
 - [ ] HTML kullanımı (HTML etiketleri)
 - [ ] Emojilerin kullanımı (`:emoji_adı:`)
 - [ ] Özel notlar ve uyarılar için bloklar oluşturma
