@@ -48,7 +48,7 @@ VSCodeda eklenti kısımına gelip. Aşağıdaki eklentileri kurunuz.
 ![Klasörler](/img/dcsrsgthb07.png)
 8. Örnek olarak birini düzenleyelim.
 ![Dosya düzenleme](/img/dcsrsgthb08.png)
-9. Projenin gereksinimlerini kurunuz. Ayrıca derlenme adımlarını uygulayınız. [Derlenme adımları](#kurulum-ve-derlenme)
+9. Projenin gereksinimlerini kurunuz. Ayrıca derlenme adımlarını uygulayınız. Çünkü doğru derlenmeyen bir proje GitHub'da çalışmayacaktır. Commit etmeden önce kendi bilgisayarınızda denemeniz tavsiye edilir. Eğer sorun yoksa commit edip güncelleyebilirsiz. [Derleme ve kurulum adımları](#kurulum-ve-derlenme)
 10. Düzenledikten sonra dosyayı `CTRL + S` butonu ile kaydetmeyi unutma. Ve Github Desktop uygulamasını aç.
 ![Github Destop değişiklik olduktan sonraki ekran](/img/dcsrsgthb09.png)
 11. Yaptığın değişikliklere ait bir yorum yap ve `Commit to Main` butonuna basarak yaptığın değişiklere yorum yap.
@@ -83,56 +83,18 @@ yarn build
 yarn run serve
 ```
 
-## Todo
-
-* [x] Giriş metni yazıldı.
-* [x] Githubtan repo nasıl clonelanır.
-* [ ] VSCode gibi yazılım kullanarak markdown nasıl düzenlenir.
-* [ ] Yapılan Değişikler nasıl tekrar sunucuya yollanır.
-
 ## Markdown Hakkında
 
 Sitede içerik paylaşmak için markdown bilmeniz gerekmektedir. Markdown, metinleri basit bir şekilde biçimlendirmek için kullanılan bir işaretleme dilidir. Web içeriği yazarken kullanılır ve metni başlıklar, listeler, bağlantılar gibi öğelere dönüştürmek için basit işaretler ve semboller kullanır. Örneğin, `*içerik*` -> *içerik* şeklinde italik metin, `**metin**` -> **metin** ise kalın metin yapar. Markdown, okunabilirliği ve yazım kolaylığını ön planda tutar.
 
-### Genişletilmiş Markdown Todo Listesi
+### Markdown nasıl öğrenebilirim
 
-* [x] Giriş metni yazımı
-* [ ] Başlıkların kullanımı (`#`, `##`, `###`, ...)
-* [ ] Paragraf oluşturma
-* [ ] Kalın metin formatlaması (`**kalın**`)
-* [ ] İtalik metin formatlaması (`*italik*`)
-* [ ] Üstü çizili metin (`~~üstü çizili~~`)
-* [ ] Inline kod (`\`kod\``)
-* [ ] Kod blokları (` ``` `)
-* [ ] Bağlantı ekleme (`[Metin](URL)`)
-* [ ] Resim ekleme (`![Açıklama](URL)`)
-* [ ] Sıralı liste oluşturma (`1.`, `2.`, ...)
-* [ ] Sırasız liste oluşturma (`-`, `*`)
-* [ ] Görev listesi oluşturma (`- [ ] `, `- [x]`)
-* [ ] Alıntı yapma (`> alıntı`)
-* [ ] Yatay çizgi ekleme (`---` veya `***`)
-* [ ] Tablo oluşturma (`| Başlık 1 | Başlık 2 |`, *| --- | --- |`, `| İçerik 1 | İçerik 2 |`)
-* [ ] Kaçış karakterleri kullanımı (`\`, özel karakterlerin önüne konarak)
-- [ ] HTML kullanımı (HTML etiketleri)
-- [ ] Emojilerin kullanımı (`:emoji_adı:`)
-- [ ] Özel notlar ve uyarılar için bloklar oluşturma
-- [ ] Kolon ve satır içi düzenlemeler (hücrelerin biçimlendirilmesi)
-- [ ] Markdown içinde CSS stilleri kullanma (ilgili platformların desteklemesi durumunda)
+Markdown öğrenmenin en hızlı yolu denemektir. Kaynak olarak [gruntwork.io](https://docs.gruntwork.io/guides/style/markdown-style-guide/) sitesinde bu dokümanı takip edebilirsin.
 
-**Not:** Bu liste, Markdown'ın genişletilmiş özelliklerini içermektedir ve belirli platformlarda desteklenen bazı özel özell
+### Docusarus Önemli özellikleri
 
+Websitesi docusarus kullandığı için site ile uyumlu özellikleri efektif şekilde kullanmak için bu [Markdown Özellikleri](https://docusaurus.io/docs/markdown-features) sayfasını takip edebilirsin.
 
-## Hazırlama Todo Listesi
+## wiki.degzrobotics.com
 
-**Docusaurus için Temel Düzey Blog İçeriği Hazırlama Todo Listesi**
-
-- [ ] Docusaurus'ta blog klasörünü bulma ve anlama
-- [ ] Yeni bir blog yazısı dosyası oluşturma (.md formatında)
-- [ ] Blog yazısına başlık, yazar adı ve tarih eklemek
-- [ ] Basit giriş paragrafı yazma
-- [ ] Ana içeriği oluşturma (net ve anlaşılır metin)
-- [ ] Basit resimler eklemek (örneğin, projenin `static` klasörüne yükleyerek)
-- [ ] Temel Markdown formatlamasını kullanma (kalın, italik, başlıklar)
-- [ ] Yazının önizlemesini yaparak formatlama ve yazım hatalarını kontrol etme
-- [ ] Blog yazısını yayınlama (dosyayı ilgili klasöre yerleştirerek)
-- [ ] Yayınlanan içeriği web sitesinde kontrol etme
+[wiki](https://wiki.degzrobotics.com) bir Degz Robotik ve topluluğunun ürünüdür.

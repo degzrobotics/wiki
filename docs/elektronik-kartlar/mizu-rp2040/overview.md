@@ -2,7 +2,7 @@
 sidebar_position : 1
 ---
 
-# Genel Bakış
+# Ürün Hakkında
 
 
 ```py reference title="py"
