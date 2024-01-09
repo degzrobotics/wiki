@@ -55,7 +55,7 @@ VSCodeda eklenti kısımına gelip. Aşağıdaki eklentileri kurunuz.
 ![Github Destop değişiklik olduktan sonraki ekran](/img/dcsrsgthb10.png)
 12. Son olarak yaptığın değişikleri `push` butonuna basarak githuba gönder.
 
-Not: Eğer sistemi bozmadıysanız birkaç dakika için websayfası güncellenecektir.
+Not: Herhangi bir sorun yoksa birkaç dakika için websayfası güncellenecektir.
 
 ## Kurulum ve Derlenme
 
@@ -71,17 +71,19 @@ Local(kendi) bilgisayarınızda yaptığınız değişikleri görmek için canl�
 yarn start
 ```
 
-Sunucuya commit etmeden projeyi `build` edip localde build edilen dosyayı `run` etmeniz gerekmektedir. Şu şekilde yapılır.
+Sunucuya commit etmeden önce projeyi `build` edip localde build edilen dosyayı `run` etmeniz gerekmektedir. Şu şekilde yapılır.
 
 ```bash
 yarn build
 ```
 
-Şimdi build edilen dosyalarla serveri başlatalım.
+Şimdi build edilen dosyalarla serveri başlatalirsin.
 
 ```bash
 yarn run serve
 ```
+
+Eğer çalışan serverdaki sitede hata gözükmüyorsa websitesine ilgili değişiklikleri iletebilirsin.
 
 ## Markdown Hakkında
 
@@ -93,7 +95,7 @@ Markdown öğrenmenin en hızlı yolu denemektir. Kaynak olarak [gruntwork.io](h
 
 ### Docusarus Önemli özellikleri
 
-Websitesi docusarus kullandığı için site ile uyumlu özellikleri efektif şekilde kullanmak için bu [Markdown Özellikleri](https://docusaurus.io/docs/markdown-features) sayfasını takip edebilirsin.
+Bu websitesi docusaurus kullanıyor. Docusaurus ile uyumlu özellikleri efektif şekilde kullanmak için bu [Markdown Özellikleri](https://docusaurus.io/docs/markdown-features) sayfasını takip edebilirsin.
 
 ## wiki.degzrobotics.com
 
