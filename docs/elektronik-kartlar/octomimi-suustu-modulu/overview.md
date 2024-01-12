@@ -6,6 +6,7 @@ sidebar_position : 1
 
 :::warning
 Bu ürünün üretimi sonlandırılmıştır, stok bitiminde devamı üretilmeyecektir.
+:::
 
 Octomini ile kullanabileceğiniz arduino temelli kumanda modülü.
 
