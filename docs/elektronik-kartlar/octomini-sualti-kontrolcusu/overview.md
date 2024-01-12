@@ -3,7 +3,7 @@ sidebar_position : 1
 ---
 
 # Ürün Hakkında
-::warning
+:::warning
 Bu ürünün üretimi sonlandırılmıştır, stok bitiminde devamı üretilmeyecektir.
 :::
 
