@@ -8,7 +8,7 @@ sidebar_position : 1
 Bu ürünün üretimi sonlandırılmıştır, stok bitiminde devamı üretilmeyecektir.
 :::
 
-##Octomini ile kullanabileceğiniz arduino temelli kumanda modülü.
+## Octomini ile kullanabileceğiniz arduino temelli kumanda modülü.
 
 Joystick tasarımını sadeleştirmek için üretilen bu modüle şunları bağlayabilirsiniz;
 - 2 adet 2 Eksen joystick
