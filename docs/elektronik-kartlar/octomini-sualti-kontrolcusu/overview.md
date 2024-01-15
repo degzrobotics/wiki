@@ -18,13 +18,16 @@ _Dış çapı 55mm'den daha küçük_
 Üzerindeki anahtarlama elemanları ile aydınlatma, tutucu kol, örnekleme gibi 3 farklı cihazın açma kapama kontrolünü _yüzeyden_ yapabilirsiniz.
 
 ## Teknik Özellikler
-- Çıkış pwm pin sayısı : 5+1 Pin
-- Mikro denetleyici : Arduino Nano
-- Dengeleme : Gyro - Mpu6050
-- İletişim modülü : Canbus
-- Mesafe : 400 metre (teorik)
-- Besleme voltajı : 7-12 Volt
-- Anahtarlama : 3 cihaz, Azami 5amper
+| Özellik              | Değer                 |
+|----------------------|-----------------------|
+| Çıkış pwm pin sayısı | 5+1 Pin               |
+| Mikro denetleyici    | Arduino Nano          |
+| Dengeleme            | Gyro - Mpu6050        |
+| İletişim modülü      | Canbus                |
+| Mesafe               | 400 metre (teorik)    |
+| Besleme voltajı      | 7-12 Volt             |
+| Anahtarlama          | 3 cihaz, Azami 5amper |
+
 ## Ek Özellikler
 - Basınç sensörü girişi
 - Gerilim ölçümü
