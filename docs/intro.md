@@ -93,7 +93,7 @@ Sitede içerik paylaşmak için markdown bilmeniz gerekmektedir. Markdown, metin
 
 Markdown öğrenmenin en hızlı yolu denemektir. Kaynak olarak [gruntwork.io](https://docs.gruntwork.io/guides/style/markdown-style-guide/) sitesinde bu dokümanı takip edebilirsin.
 
-### Docusarus Önemli özellikleri
+### Docusaurus Önemli özellikleri
 
 Bu websitesi docusaurus kullanıyor. Docusaurus ile uyumlu özellikleri efektif şekilde kullanmak için bu [Markdown Özellikleri](https://docusaurus.io/docs/markdown-features) sayfasını takip edebilirsin.
 
