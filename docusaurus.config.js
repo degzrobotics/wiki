@@ -4,7 +4,7 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -22,7 +22,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'degzrobotics', // Usually your GitHub org/user name.
   projectName: 'wiki', // Usually your repo name.
-  deploymentBranch : 'gh-pages',
+  deploymentBranch: 'gh-pages',
   // trailingSlash: false,
 
   onBrokenLinks: 'throw',
@@ -37,7 +37,7 @@ const config = {
   },
 
 
-  plugins: [ 
+  plugins: [
     require.resolve("docusaurus-plugin-image-zoom")
 
   ],
@@ -90,8 +90,8 @@ const config = {
       }),
     ],
   ],
-  
-  
+
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -105,30 +105,28 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Dökümanlar',
-          },
-          {
             to: 'https://degzrobotics.com/komponentler/',
             label: 'Mağaza',
-            position: 'left'
+            position: 'left',
+            className: 'navbar__icon navbar__shop',
           },
           {
             to: 'https://forum.degzrobotics.com/',
             label: 'Forum',
-            position: 'left'
-          },
-          {
-            href: 'https://github.com/degzrobotics/wiki/',
-            label: 'GitHub',
-            position: 'right',
+            position: 'left',
+            className: 'navbar__icon navbar__forum',
           },
           {
             type: 'localeDropdown',
             position: 'right',
           },
+          {
+            position: 'right',
+            href: 'https://github.com/degzrobotics/wiki/',
+            className: 'header-github-link',
+            'aria-label': 'GitHub repository',
+          }
+
         ],
       },
       footer: {
