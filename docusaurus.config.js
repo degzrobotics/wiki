@@ -51,8 +51,10 @@ const config = {
         hashed: true,
         // For Docs using Chinese, The `language` is recommended to set to:
         // ```
-        language: ["en", "tr"],
-        // ```
+        language: ["tr", "en"],
+        indexBlog: false,
+        indexDocs: true,
+        docsRouteBasePath: "/",
       })
     ],
     '@saucelabs/theme-github-codeblock'
@@ -70,14 +72,11 @@ const config = {
           editUrl:
             'https://github.com/degzrobotics/wiki/tree/main/',
           routeBasePath: '/',
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
+
         },
-        blog: {
-          showReadingTime: false,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/degzrobotics/wiki/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -154,10 +153,6 @@ const config = {
           {
             title: 'Daha Fazla',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/facebook/docusaurus',
