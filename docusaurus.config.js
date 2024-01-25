@@ -72,8 +72,9 @@ const config = {
           editUrl:
             'https://github.com/degzrobotics/wiki/tree/main/',
           routeBasePath: '/',
-          showLastUpdateAuthor: true,
+          showLastUpdateAuthor: false,
           showLastUpdateTime: true,
+
 
         },
         blog: false,
