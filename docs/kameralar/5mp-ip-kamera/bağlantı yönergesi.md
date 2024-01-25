@@ -15,13 +15,14 @@ gösterilmiş)
 Bu aşama sonrasında bir IP kamera çözücü yazılımı (Örn. IP Camera Viewer) kullanarak veya tarayıcıya bu adresi girerek kamera görüntünüzü izleyebilirsiniz.
 
 :::info
-Kamera erişim şifreleri aşağıdaki kombinasyonlardan biridir:
 
-Kullanıcı adı: “boş” Şifre: “boş”
+Kamera erişim şifreleri aşağıdaki kombinasyonlardan biridir.
 
-Kullanıcı adı: admin Şifre: admin
+| # | Kullanıcı adı | Şifre  |
+|---|---------------|--------|
+| 1 | admin         | admin  |
+| 2 | "boş"         | "boş"  |
+| 3 | admin         | 123456 |
+| 4 | admin         | "boş"  |
 
-Kullanıcı adı: admin Şifre: “boş”
-
-Kullanıcı adı: admin Şifre: 123456
 :::

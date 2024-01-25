@@ -3,7 +3,7 @@ sidebar_position: 1
 slug: /
 ---
 
-# Wiki Hakkında
+# 🔭 Wiki Hakkında
 
 wiki.degzrobotics.com(dokümanlar) Degz Robotik Sanayi tarafından üretilen araçlar ve ürünler için herkesin hızlı bilgiye ve doğru şekilde ulaşmasını hedeflemektedir.
 
@@ -33,26 +33,26 @@ VSCodeda eklenti kısımına gelip. Aşağıdaki eklentileri kurunuz.
 #### Reponun kopyalanması
 
 1. İlk olarak GitHub Desktop uygulamasını açın.
-![Github Desktop Arayüzü](/img/dcsrsgthb01.png)
+![Github Desktop Arayüzü](/img/intro-docs/dcsrsgthb01.png)
 2. Kayıtlı olduğunuz repolardan `degzrobotics/wiki` reposunu arayıp tıklayın.
-![Arama sonucu](/img/dcsrsgthb02.png)
+![Arama sonucu](/img/intro-docs/dcsrsgthb02.png)
 3. Kurulacak dizini kontrol edip. Clone butonuna basınız.
-![Dizin popup](/img/dcsrsgthb03.png)
+![Dizin popup](/img/intro-docs/dcsrsgthb03.png)
 4. Gelen arayüzde projede değişiklik olduğunda güncelleme olup olmadığını gösterir.
-![Github Desktop Repo Arayüzü](/img/dcsrsgthb04.png)
+![Github Desktop Repo Arayüzü](/img/intro-docs/dcsrsgthb04.png)
 5. `Open in Visual Studio Code` butonuna basarak vscode ile dokümanları düzenleyebilirsiniz.
-![Vscode open](/img/dcsrsgthb05.png)
+![Vscode open](/img/intro-docs/dcsrsgthb05.png)
 6. VSCode açılacaktır. Sol kısımdaki dosyalardan `docs` klasörüne tıklayıp genişletin.
-![VSCode Anasayfa](/img/dcsrsgthb06.png)
+![VSCode Anasayfa](/img/intro-docs/dcsrsgthb06.png)
 7. Açılan klasörde daha önceden oluşturulmuş olan sayfalar bulunmaktadır.
-![Klasörler](/img/dcsrsgthb07.png)
+![Klasörler](/img/intro-docs/dcsrsgthb07.png)
 8. Örnek olarak birini düzenleyelim.
-![Dosya düzenleme](/img/dcsrsgthb08.png)
+![Dosya düzenleme](/img/intro-docs/dcsrsgthb08.png)
 9. Projenin gereksinimlerini kurunuz. Ayrıca derlenme adımlarını uygulayınız. Çünkü doğru derlenmeyen bir proje GitHub'da çalışmayacaktır. Commit etmeden önce kendi bilgisayarınızda denemeniz tavsiye edilir. Eğer sorun yoksa commit edip güncelleyebilirsiz. [Derleme ve kurulum adımları](#kurulum-ve-derlenme)
 10. Düzenledikten sonra dosyayı `CTRL + S` butonu ile kaydetmeyi unutma. Ve Github Desktop uygulamasını aç.
-![Github Destop değişiklik olduktan sonraki ekran](/img/dcsrsgthb09.png)
+![Github Destop değişiklik olduktan sonraki ekran](/img/intro-docs/dcsrsgthb09.png)
 11. Yaptığın değişikliklere ait bir yorum yap ve `Commit to Main` butonuna basarak yaptığın değişiklere yorum yap.
-![Github Destop değişiklik olduktan sonraki ekran](/img/dcsrsgthb10.png)
+![Github Destop değişiklik olduktan sonraki ekran](/img/intro-docs/dcsrsgthb10.png)
 12. Son olarak yaptığın değişikleri `push` butonuna basarak githuba gönder.
 
 Not: Herhangi bir sorun yoksa birkaç dakika için websayfası güncellenecektir.
@@ -96,6 +96,10 @@ Markdown öğrenmenin en hızlı yolu denemektir. Kaynak olarak [gruntwork.io](h
 ### Docusaurus Önemli özellikleri
 
 Bu websitesi docusaurus kullanıyor. Docusaurus ile uyumlu özellikleri efektif şekilde kullanmak için bu [Markdown Özellikleri](https://docusaurus.io/docs/markdown-features) sayfasını takip edebilirsin.
+
+### Tablo oluşturma
+
+Siteye tablo eklerken hızlıca oluşturabilmek adına tablo kulanabiliriz. [Markdown Table Generator](https://www.tablesgenerator.com/markdown_tables)
 
 ## wiki.degzrobotics.com
 
