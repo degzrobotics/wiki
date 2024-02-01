@@ -135,29 +135,37 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Dökümanlar',
+            title: '📑 Dökümanlar',
             items: [
+              {
+                label: "🦕 English",
+                to: 'https://wiki.degzrobotics.com/en/',
+              },
+              {
+                label: "🦖 Türkçe",
+                to: 'https://wiki.degzrobotics.com/',
+              },
 
             ],
           },
           {
-            title: 'Topluluk',
+            title: '🚀 Topluluk',
             items: [
               {
-                label: 'Forum',
+                label: '🍒 Forum',
                 href: 'https://forum.degzrobotics.com',
               },
               {
-                label: 'Mucif',
+                label: '🍊 Mucif',
                 href: 'https://www.mucif.com',
               },
             ],
           },
           {
-            title: 'Daha Fazla',
+            title: '🐧 Daha Fazla',
             items: [
               {
-                label: 'GitHub',
+                label: '🐠 GitHub',
                 href: 'https://github.com/facebook/docusaurus',
               },
             ],

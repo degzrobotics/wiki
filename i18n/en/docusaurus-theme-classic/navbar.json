@@ -1,0 +1,14 @@
+{
+  "logo.alt": {
+    "message": "Degz Robotics",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Mağaza": {
+    "message": "Shop",
+    "description": "Navbar item with label Mağaza"
+  },
+  "item.label.Forum": {
+    "message": "Forum",
+    "description": "Navbar item with label Forum"
+  }
+}
