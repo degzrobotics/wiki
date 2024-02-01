@@ -4,6 +4,8 @@ sidebar_position : 1
 
 # Ürün Hakkında
 
+![Blu Esc](./image/escblu.jpg)
+
 Daha iyi performans, daha uygun fiyata!
 30A ESC – Fırçasız Motor Sürücü Mitras ve M1 motor kullanılarak üretilen motor türevleri için özelleştirilmiş en uygun fiyatlı motor sürücü olarak karşınızda!
 
@@ -21,6 +23,8 @@ Daha iyi performans, daha uygun fiyata!
 - PWM – 2000 Mikrosaniye Tam İleri, 1500 Mikrosaniye Durma, 1000 Mikrosaniye - Tam Geri çalışma
 - PWM Durma Hassasiyeti +-1 Mikrosaniye
 - Kutu içeriği
+
+![Blu Esc](./image/escblu2.jpg)
 
 :::tip
 Blu30A Motor Sürücü kutudan çıkar çıkmaz kullanıma hazır.

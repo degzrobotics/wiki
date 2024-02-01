@@ -33,26 +33,26 @@ VSCodeda eklenti kısımına gelip. Aşağıdaki eklentileri kurunuz.
 #### Reponun kopyalanması
 
 1. İlk olarak GitHub Desktop uygulamasını açın.
-![Github Desktop Arayüzü](/img/intro-docs/dcsrsgthb01.png)
+![Github Desktop Arayüzü](./intro-images/dcsrsgthb01.png)
 2. Kayıtlı olduğunuz repolardan `degzrobotics/wiki` reposunu arayıp tıklayın.
-![Arama sonucu](/img/intro-docs/dcsrsgthb02.png)
+![Arama sonucu](./intro-images/dcsrsgthb02.png)
 3. Kurulacak dizini kontrol edip. Clone butonuna basınız.
-![Dizin popup](/img/intro-docs/dcsrsgthb03.png)
+![Dizin popup](./intro-images/dcsrsgthb03.png)
 4. Gelen arayüzde projede değişiklik olduğunda güncelleme olup olmadığını gösterir.
-![Github Desktop Repo Arayüzü](/img/intro-docs/dcsrsgthb04.png)
+![Github Desktop Repo Arayüzü](./intro-images/dcsrsgthb04.png)
 5. `Open in Visual Studio Code` butonuna basarak vscode ile dokümanları düzenleyebilirsiniz.
-![Vscode open](/img/intro-docs/dcsrsgthb05.png)
+![Vscode open](./intro-images/dcsrsgthb05.png)
 6. VSCode açılacaktır. Sol kısımdaki dosyalardan `docs` klasörüne tıklayıp genişletin.
-![VSCode Anasayfa](/img/intro-docs/dcsrsgthb06.png)
+![VSCode Anasayfa](./intro-images/dcsrsgthb06.png)
 7. Açılan klasörde daha önceden oluşturulmuş olan sayfalar bulunmaktadır.
-![Klasörler](/img/intro-docs/dcsrsgthb07.png)
+![Klasörler](./intro-images/dcsrsgthb07.png)
 8. Örnek olarak birini düzenleyelim.
-![Dosya düzenleme](/img/intro-docs/dcsrsgthb08.png)
+![Dosya düzenleme](./intro-images/dcsrsgthb08.png)
 9. Projenin gereksinimlerini kurunuz. Ayrıca derlenme adımlarını uygulayınız. Çünkü doğru derlenmeyen bir proje GitHub'da çalışmayacaktır. Commit etmeden önce kendi bilgisayarınızda denemeniz tavsiye edilir. Eğer sorun yoksa commit edip güncelleyebilirsiz. [Derleme ve kurulum adımları](#kurulum-ve-derlenme)
 10. Düzenledikten sonra dosyayı `CTRL + S` butonu ile kaydetmeyi unutma. Ve Github Desktop uygulamasını aç.
-![Github Destop değişiklik olduktan sonraki ekran](/img/intro-docs/dcsrsgthb09.png)
+![Github Destop değişiklik olduktan sonraki ekran](./intro-images/dcsrsgthb09.png)
 11. Yaptığın değişikliklere ait bir yorum yap ve `Commit to Main` butonuna basarak yaptığın değişiklere yorum yap.
-![Github Destop değişiklik olduktan sonraki ekran](/img/intro-docs/dcsrsgthb10.png)
+![Github Destop değişiklik olduktan sonraki ekran](./intro-images/dcsrsgthb10.png)
 12. Son olarak yaptığın değişikleri `push` butonuna basarak githuba gönder.
 
 Not: Herhangi bir sorun yoksa birkaç dakika için websayfası güncellenecektir.
