@@ -25,5 +25,4 @@ Yükleme başarılı ise MissionPlanner veya QGroundControl üzerinden karta eri
 
 İngilizce kılavuz indirmek için [tıklayınız](https://store-fhxxhuiq8q.mybigcommerce.com/product_images/img_SpeedyBee_F405_WING_APP/SpeedyBee_F405_WING_APP_Manual_V1.1-EN.pdf)
 
-## Youtube Link 
-Bu [linkten](https://www.youtube.com/watch?v=xKeFuM6WxUY) ingilizce kurulum videosuna ulaşabilirsin.
+<iframe width="100%" height="611" src="https://www.youtube.com/embed/xKeFuM6WxUY" title="FX-61 Phantom Upgrade - Speedybee F405 Wing - Setup and Install INAV 6.1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

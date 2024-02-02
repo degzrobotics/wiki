@@ -4,6 +4,8 @@ sidebar_position : 1
 
 # Ürün Hakkında
 
+![Subdrive Lo-Base](./image/6S-BASE.jpg)
+
 :::info
 Yeni tasarımıyla Subdrive Lo-Base Güç Dağıtım Kartı çok yakında karşınızda!
 :::
@@ -12,9 +14,13 @@ Subdrive Lo-Base Güç Dağıtım Kartı üzerindeki anahtarlama elemanları say
 
 Statik manyetik anahtarlama ile güvenli bir şekilde sisteminizin gücünü kesebilir, açma-kapatma işlemlerini gerçekleştirebilirsiniz.
 
+![Subdrive Lo-Base](./image/6S-BASE-ARKA.jpg)
+
+
 Yenilenen harici regülatör ile hem 5v hem de 12v kullanan cihazlarınızı aynı anda çalıştırabilirsiniz.
 
 ## Yenilikler 
+
 - Akım ölçüm sensörü ile sisteminizin kullandığı akımı sürekli olarak ölçebilir ve güç tüketimini hesaplayabilirsiniz
 - Bağımsız anahtarlama elemanı sayesinde aydınlatmalar, tutucu kol veya görev birimi gibi  iki farklı cihazı cihazınız üzerinden anahtarlayabilirsiniz.
 
@@ -32,6 +38,7 @@ Yenilenen harici regülatör ile hem 5v hem de 12v kullanan cihazlarınızı ayn
 | Regülatör Akımı          | 3a @ 5Vdc – 1a @12Vdc |
 
 ## Sık Sorulan Sorular
+
 **Anahtarlama hattına ne kadar motor sürücü bağlayabilirim?**
 
 Ana hatta 200 amperi aşmayacak şekilde istediğiniz kadar bağlantı sağlayabilirsiniz. Burada tek hesaplamanız gereken, takacağınız cihazların toplam asgari akım yüküdür. Örnek olarak, asgari 10A akımla çalışan 20 motor sürücüyü(10Ax20=200A) buraya bağlayabilirsiniz.
@@ -51,6 +58,7 @@ Subdrive Lo-Base kullanarak sistemin çektiği amperi okuyabilirim ?
 Subdrive Lo-Base üzerinde bulunduğu akım sensörü ile 100 ampere kadar akım ölçümü yapabilmektedir.
 
 ## Kutu İçeriği
+
 - Subdrive Lo-Base
 - Hall Effect Sensör
 - 14 Awg Siyah Silikon Kablo (8cm)

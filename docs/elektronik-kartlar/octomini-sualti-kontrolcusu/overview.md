@@ -3,21 +3,23 @@ sidebar_position : 1
 ---
 
 # Ürün Hakkında
+
+![Octomini Sualtı](./image/octomini2-Ozel.jpg)
+
 :::warning
 Bu ürünün üretimi sonlandırılmıştır, stok bitiminde devamı üretilmeyecektir.
 :::
 
 Octomini **arduino-nano** temelli bir geliştirici kartıdır.
 
-Artık insansız sualtı aracı üretmek çok kolay!
+Artık insansız sualtı aracı üretmek çok kolay! Fpv stackden ilham alarak geliştirdiğimiz yöntem ile tüm elektronik sisteminiz avcunuzun içine sığıyor!
 
-Fpv stackden ilham alarak geliştirdiğimiz yöntem ile tüm elektronik sisteminiz avcunuzun içine sığıyor!
+![Octomini Sualtı](./image/octomini4-Ozel.jpg)
 
-_Dış çapı 55mm'den daha küçük_
-
-Üzerindeki anahtarlama elemanları ile aydınlatma, tutucu kol, örnekleme gibi 3 farklı cihazın açma kapama kontrolünü _yüzeyden_ yapabilirsiniz.
+Dış çapı 55mm'den *daha küçük*. Üzerindeki anahtarlama elemanları ile aydınlatma, tutucu kol, örnekleme gibi 3 farklı cihazın açma kapama kontrolünü *yüzeyden* yapabilirsiniz.
 
 ## Teknik Özellikler
+
 | Özellik              | Değer                 |
 |----------------------|-----------------------|
 | Çıkış pwm pin sayısı | 5+1 Pin               |
@@ -29,6 +31,7 @@ _Dış çapı 55mm'den daha küçük_
 | Anahtarlama          | 3 cihaz, Azami 5amper |
 
 ## Ek Özellikler
+
 - Basınç sensörü girişi
 - Gerilim ölçümü
 - Yardımcı analog pinler
