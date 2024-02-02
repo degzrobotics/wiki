@@ -6,7 +6,6 @@ sidebar_position : 1
 
 ![Bağlantı Şeması](./image/vesc67-70a-motor-surucu.jpg)
 
-
 **Dünyanın en güçlü açık kaynaklı motor sürücüleri Degz aracılığı ile sizlerle!**
 
 Dünyanın en güçlü açık kaynaklı motor sürücüleri Degz ile şimdi sizlerle buluşuyor! VESC motor sürücüsü, kara, hava ve deniz araçlarının kalbinde yer alarak dünya genelinde kendini ispatlamış bir performans sunuyor. 60V’a kadar yüksek gerilimle çalışabilme özelliğiyle dikkat çeken VESC, projelerinizi ileri taşımaya hazır. Kapsamlı sürücü ayarlama yazılımı VESC Tool ile motor sürücünüzü kolayca programlayabilir, rejeneratif frenleme özelliği sayesinde elektrikli araçlarınızın geri besleme ihtiyacını karşılayabilirsiniz. Dört kontrol modunu destekleyen VESC, aynı zamanda çeşitli koruma fonksiyonları ve ivmeölçer modüllerini destekleyerek güvenli ve esnek bir kullanım sunar. Motor sürücünüzü keşfedin, projelerinizi hayata geçirin!
