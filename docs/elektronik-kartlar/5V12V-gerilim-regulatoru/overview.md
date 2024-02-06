@@ -5,10 +5,13 @@ image: /img/kartlar/regulator/regulator.jpg
 
 # Ürün Hakkında
 
+## İhtiyacınıza Göre Tek Regülatör
+
+Degz’in yeni regülatörü ile tanışın. Projeleriniz için güvenle kullanabileceğiniz bu kart sizlere ayarlanabilir çıkış gerilimi sunuyor. 
+
 ![5V 12V Regülator](./image/regulator.jpg)
 
-İhtiyacınıza Göre Tek Regülatör!
-Degz’in yeni regülatörü ile tanışın. Projeleriniz için güvenle kullanabileceğiniz bu kart sizlere ayarlanabilir çıkış gerilimi sunuyor. Nvidia veya Raspberry Pi gibi bilgisayarlarınızın akım ihtiyacını da rahatça karşılayan bu regülatör otonom sistemleriniz için özel olarak geliştirildi.
+Nvidia veya Raspberry Pi gibi bilgisayarlarınızın akım ihtiyacını da rahatça karşılayan bu regülatör otonom sistemleriniz için özel olarak geliştirildi.
 
 ## 5V ve 12V Çıkış Gerilimi Aynı Kartta
 

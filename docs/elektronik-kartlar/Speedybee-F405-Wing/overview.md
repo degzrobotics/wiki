@@ -6,9 +6,11 @@ sidebar_position : 1
 
 ## SpeedyBee F405 Wing Uçuş Kartı
 
+SpeedyBee uçuş kartı seti, Ardupilot ve Inav destekli bir otopilot kartı olarak tasarlanmıştır. Bu sayede otonom uçuş projelerinizde mükemmel bir performans sunar.
+
 ![SpeedyBee F405 Wing Uçuş Kartı](./image/speedy-bee-3.jpg)
 
-SpeedyBee uçuş kartı seti, Ardupilot ve Inav destekli bir otopilot kartı olarak tasarlanmıştır. Bu sayede otonom uçuş projelerinizde mükemmel bir performans sunar. Ardupilot desteği sayesinde, kartı ArduSub olarak kurarak Pixhawk’a alternatif olarak kullanabilirsiniz. Su altı sistemlerinde kullanmak istiyorsanız, I2C portuna bir pusula sensörü bağlamanız gerekmektedir. Örneğin HMC5883L gibi pusula sensörleri I2C üzerinden bağlanabilir. I2C bağlantısı yapıldıktan sonra MissionPlanner üzerinden External Compass seçeneğini etkinleştirmeniz gerekmektedir.
+Ardupilot desteği sayesinde, kartı ArduSub olarak kurarak Pixhawk’a alternatif olarak kullanabilirsiniz. Su altı sistemlerinde kullanmak istiyorsanız, I2C portuna bir pusula sensörü bağlamanız gerekmektedir. Örneğin HMC5883L gibi pusula sensörleri I2C üzerinden bağlanabilir. I2C bağlantısı yapıldıktan sonra MissionPlanner üzerinden External Compass seçeneğini etkinleştirmeniz gerekmektedir.
 
 ## Üç Kart Birlikte
 

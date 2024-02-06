@@ -4,22 +4,21 @@ sidebar_position : 1
 
 # Ürün Hakkında
 
-![Subdrive Lo-Base](./image/6S-BASE.jpg)
-
 :::info
 Yeni tasarımıyla Subdrive Lo-Base Güç Dağıtım Kartı çok yakında karşınızda!
 :::
 
 Subdrive Lo-Base Güç Dağıtım Kartı üzerindeki anahtarlama elemanları sayesinde elektronik haznenin dışarısından anahtarlama yapmanızı sağlar.
 
+![Subdrive Lo-Base](./image/6S-BASE.jpg)
+
 Statik manyetik anahtarlama ile güvenli bir şekilde sisteminizin gücünü kesebilir, açma-kapatma işlemlerini gerçekleştirebilirsiniz.
 
 ![Subdrive Lo-Base](./image/6S-BASE-ARKA.jpg)
 
-
 Yenilenen harici regülatör ile hem 5v hem de 12v kullanan cihazlarınızı aynı anda çalıştırabilirsiniz.
 
-## Yenilikler 
+## Yenilikler
 
 - Akım ölçüm sensörü ile sisteminizin kullandığı akımı sürekli olarak ölçebilir ve güç tüketimini hesaplayabilirsiniz
 - Bağımsız anahtarlama elemanı sayesinde aydınlatmalar, tutucu kol veya görev birimi gibi  iki farklı cihazı cihazınız üzerinden anahtarlayabilirsiniz.

@@ -4,11 +4,11 @@ sidebar_position : 1
 
 # Ürün Hakkında
 
-![Octomini Suüstü](./image/octomini-Ozel.jpg)
-
 :::warning
 Bu ürünün üretimi sonlandırılmıştır, stok bitiminde devamı üretilmeyecektir.
 :::
+
+![Octomini Suüstü](./image/octomini-Ozel.jpg)
 
 ## Octomini ile kumanda modülü
 

@@ -4,11 +4,11 @@ sidebar_position : 1
 
 # Ürün Hakkında
 
-![Octomini Sualtı](./image/octomini2-Ozel.jpg)
-
 :::warning
 Bu ürünün üretimi sonlandırılmıştır, stok bitiminde devamı üretilmeyecektir.
 :::
+
+![Octomini Sualtı](./image/octomini2-Ozel.jpg)
 
 Octomini **arduino-nano** temelli bir geliştirici kartıdır.
 

@@ -4,7 +4,11 @@ sidebar_position : 1
 
 # Ürün Hakkında
 
-Sızdırmaz haznemiz sualtı araçlarında elektronik sistemi korumak amacıyla geliştirilmiştir. Patenli aktarım teknolojisi kullanılarak geliştirilmiş tek sızdırmaz haznedir. Haznenin dış yüzeyinde yer alan PCB aktarım kartı sayesinde her türlü sualtı tasarımında kolaylıkla kullanılmaktadır. Sualtı aracınızın su içerisinde sert bir yüzeye çarpması sonucunda elektronik sisteminizi korumaktadır. Denizde ve havuzda test edilmiştir. Manuel ve otonom sualtı araçları için uygundur. Haznemizin montaj ve lehimleme videolarını izleyerek hızlı bir şekilde kullanmaya başlayabilirsiniz.
+Sızdırmaz haznemiz sualtı araçlarında elektronik sistemi korumak amacıyla geliştirilmiştir. Patenli aktarım teknolojisi kullanılarak geliştirilmiş tek sızdırmaz haznedir. Haznenin dış yüzeyinde yer alan PCB aktarım kartı sayesinde her türlü sualtı tasarımında kolaylıkla kullanılmaktadır.
+
+![h50 hazne](./image/h50-1-scaled.jpg)
+
+ Sualtı aracınızın su içerisinde sert bir yüzeye çarpması sonucunda elektronik sisteminizi korumaktadır. Denizde ve havuzda test edilmiştir. Manuel ve otonom sualtı araçları için uygundur. Haznemizin montaj ve lehimleme videolarını izleyerek hızlı bir şekilde kullanmaya başlayabilirsiniz.
 
 ## Özellikleri
 
@@ -28,3 +32,4 @@ Sızdırmaz haznemiz sualtı araçlarında elektronik sistemi korumak amacıyla 
 - 2×37 O-ring (7 adet)
 - Gress
 - M3x12 Bombebaş Vida (10 adet)
+

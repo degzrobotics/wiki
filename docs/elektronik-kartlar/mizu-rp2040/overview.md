@@ -6,9 +6,11 @@ sidebar_position : 1
 
 ## Mizu dalışa hazır
 
+Mizu su altı kontrol kartı, su altı projeleriniz için özel olarak tasarlanmış bir geliştirme kartıdır. Mizucom yüzey kontrolcüsü ile entegre edilmiş ve insansız su altı sistemleriniz için açık kaynaklı bir yazılım sunmaktadır.
+
 ![Degz Mizu](./image/DegzMizuRp2040KontrolKarti1.jpg)
 
-Mizu su altı kontrol kartı, su altı projeleriniz için özel olarak tasarlanmış bir geliştirme kartıdır. Mizucom yüzey kontrolcüsü ile entegre edilmiş ve insansız su altı sistemleriniz için açık kaynaklı bir yazılım sunmaktadır. Deringezen-X ile uyumlu olan Mizu geliştirme kartı, boyutlarıyla dikkat çekerken, FPV stack geleneğini sürdürerek ek kartlarla projelerinize uyum sağlar. Esneklik açısından zengin olan Mizu, 16 motoru aynı anda kontrol edebilir ve çeşitli iletişim tiplerini destekler. 10 eksen dengeleme özelliği ve otonomi için gerekli sensörlerle donatılmış olan Mizu, insansız su altı araçlarından roket kontrol kartlarına kadar geniş bir kullanım yelpazesi sunar. Teknik özellikler arasında çift çekirdekli ARM M0 mikrodenetleyici, 8 Mb harici flash, IMU sensörü, pusula, barometre (yalnızca Mizu-b modeli), programlanabilir LED ve daha fazlası bulunmaktadır. Mizu su altı kontrol kartı, projelerinizi daha küçük, daha esnek ve daha güçlü hale getirmek için ideal bir seçenektir.
+Deringezen-X ile uyumlu olan Mizu geliştirme kartı, boyutlarıyla dikkat çekerken, FPV stack geleneğini sürdürerek ek kartlarla projelerinize uyum sağlar. Esneklik açısından zengin olan Mizu, 16 motoru aynı anda kontrol edebilir ve çeşitli iletişim tiplerini destekler. 10 eksen dengeleme özelliği ve otonomi için gerekli sensörlerle donatılmış olan Mizu, insansız su altı araçlarından roket kontrol kartlarına kadar geniş bir kullanım yelpazesi sunar. Teknik özellikler arasında çift çekirdekli ARM M0 mikrodenetleyici, 8 Mb harici flash, IMU sensörü, pusula, barometre (yalnızca Mizu-b modeli), programlanabilir LED ve daha fazlası bulunmaktadır. Mizu su altı kontrol kartı, projelerinizi daha küçük, daha esnek ve daha güçlü hale getirmek için ideal bir seçenektir.
 
 ![Degz Mizu](./image/DegzMizuRp2040KontrolKarti2.jpg)
 

@@ -4,11 +4,11 @@ sidebar_position : 1
 
 # Ürün Hakkında
 
+30A ESC – Fırçasız Motor Sürücü Mitras ve M1 motor kullanılarak üretilen motor türevleri için özelleştirilmiş en uygun fiyatlı motor sürücü olarak karşınızda!
+
 ![Blu Esc](./image/escblu.jpg)
 
 Daha iyi performans, daha uygun fiyata!
-30A ESC – Fırçasız Motor Sürücü Mitras ve M1 motor kullanılarak üretilen motor türevleri için özelleştirilmiş en uygun fiyatlı motor sürücü olarak karşınızda!
-
 ## Teknik Özellikler
 
 - Su altı motorlarına uygun konfigure edilmiş, çift yönlü

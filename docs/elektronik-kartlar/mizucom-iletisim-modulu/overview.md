@@ -6,9 +6,11 @@ sidebar_position : 1
 
 ## Yüksek performans, düşük fiyat
 
+Yüksek performans, düşük fiyat prensibiyle tasarlanan Mizucom iletişim modülü ile kablolu kontrol artık daha etkili ve uygun maliyetli. RS-485 iletişim mimarisi üzerine kurulan bu iletişim kartı, özel robotik sistemlerde düşük gecikme ve yüksek performans sağlamak için özel olarak geliştirildi. 
+
 ![Mizucom iletişim Modülü](./image/commshield2-Buyuk.jpg)
 
-Yüksek performans, düşük fiyat prensibiyle tasarlanan Mizucom iletişim modülü ile kablolu kontrol artık daha etkili ve uygun maliyetli. RS-485 iletişim mimarisi üzerine kurulan bu iletişim kartı, özel robotik sistemlerde düşük gecikme ve yüksek performans sağlamak için özel olarak geliştirildi. Hot-plug özelliği sayesinde çalışırken takılıp çıkarılabilir ve güvenli bağlantı sunar. Mizucom iletişim modülü, tek kablo üzerinden hem yüksek çözünürlüklü görüntü hem de kontrol sinyali iletişimini USB arayüzü üzerinden bilgisayarınıza aktarır.
+Hot-plug özelliği sayesinde çalışırken takılıp çıkarılabilir ve güvenli bağlantı sunar. Mizucom iletişim modülü, tek kablo üzerinden hem yüksek çözünürlüklü görüntü hem de kontrol sinyali iletişimini USB arayüzü üzerinden bilgisayarınıza aktarır.
 
 ![Mizucom iletişim Modülü](./image/serialusb3-Buyuk.jpg)
 

@@ -4,9 +4,11 @@ sidebar_position : 1
 
 # Ürün Hakkında
 
+Sublink Hi-com ile iletişimde kolaylık ve hızı keşfedin! Küçük boyutları (43×38 mm), ürünlerinizde minimum yer kaplamak için idealdir ve küçük cihazlar için mükemmel bir çözümdür.
+
 ![Sublink Hi-com iletişim modülü](./image/IMG_5853-scaled.jpg)
 
-Sublink Hi-com ile iletişimde kolaylık ve hızı keşfedin! Küçük boyutları (43×38 mm), ürünlerinizde minimum yer kaplamak için idealdir ve küçük cihazlar için mükemmel bir çözümdür. İletişim modülü, sadece 2 kablo üzerinden 300 metreye kadar yüksek hızda ethernet iletişimi sağlar. AC_L ve AC_N kablosunu bağlayarak hemen iletişime geçebilir ve standart bir ethernet bağlantısı kurabilirsiniz. Düşük enerji tüketimi ile saatlik 3.3W ile bataryalı sistemlerde uzun kullanım süresi sunar. Sublink Hi-com, sualtı araçlarında test edilmiş ve geliştirilmiş bir iletişim modülüdür, bu sayede su altı projelerinizde güvenilir performans elde edebilirsiniz.
+İletişim modülü, sadece 2 kablo üzerinden 300 metreye kadar yüksek hızda ethernet iletişimi sağlar. AC_L ve AC_N kablosunu bağlayarak hemen iletişime geçebilir ve standart bir ethernet bağlantısı kurabilirsiniz. Düşük enerji tüketimi ile saatlik 3.3W ile bataryalı sistemlerde uzun kullanım süresi sunar. Sublink Hi-com, sualtı araçlarında test edilmiş ve geliştirilmiş bir iletişim modülüdür, bu sayede su altı projelerinizde güvenilir performans elde edebilirsiniz.
 
 ## Kolay kullanım
 
