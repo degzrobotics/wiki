@@ -4,31 +4,20 @@ sidebar_position : 1
 
 # Ürün Hakkında
 
-Dünyanın en güçlü açık kaynaklı motor sürücüleri Degz aracılığı ile sizlerle!
-Degz ile dünyanın en güçlü açık kaynaklı VESC motor sürücüyü keşfedin!
+
 
 ![Vesc Motor Sürücü](./image/vesc69-100a-motor-surucu.jpg)
 
-VESC motor sürücü yüksek performanslı kara, hava ve deniz araçlarının kalbinde yer alıyor. 60V’a kadar yüksek gerilimle çalışabilme özelliğiyle dikkat çekerken, kapsamlı sürücü ayarlama yazılımı VESC Tool ile kolayca programlanabilirsiniz. Rejeneratif frenleme özelliği sayesinde enerji geri kazanımı mümkün. Teknik özellikler arasında 100A sürekli akım, 200A anlık akım, ve çeşitli kontrol modları bulunur. Ayrıca VESC motor sürücü, çeşitli koruma fonksiyonları ve sensör destekleriyle öne çıkan bu motor sürücüler, elektrikli araç projelerinizin gücünü artırıyor.
 
-![Vesc Motor Sürücü](./image/vesc69-100a-motor-surucu2.jpg)
 
-Dünya genelinde kendini ispatlamış, bir çok yüksek performanslı kara, hava ve deniz aracının kalbini oluşturan motor sürücüsü VESC projelerinizde yer almak için hazır. VESC 60V’a kadar yüksek gerilim ile çalıştığı için dikkatli kullanılması gerekmektedir!
-
-VESC motor sürücü ile;
-
-- Utras’ı yüksek performanslı olarak kullanabilirsiniz.
-- Kendi scooterınızı tasarlayabilir veya scooterınızı modifiye edebilirsiniz.
-- Yüksek performanslı sualtı araçları tasarlayıp üretebilirsiniz.
 
 ## Kapsamlı Sürücü Ayarlama Yazılımı VESC Tool
 
 Motor sürücünüzü VESC arayüzü ile kolaylıkla programlayabilirsiniz.
 Programlayıcıyı indirmek için [bu linki](https://vesc-project.com/vesc_tool) kullanabilirsiniz.
 
-Rejeneratif Frenleme Özelliği
 
-Elektrikli araçlarınızın ihtiyaç duyduğu geri beslemeyi motor sürücü üzerinden doğrudan alabilirsiniz. Bu daha uzun menzil veya daha fazla batarya ömrü demektir. (Bataryaların BMS’e sahip olması önerilir)
+
 
 ## Teknik Özellikler
 
@@ -56,18 +45,3 @@ Elektrikli araçlarınızın ihtiyaç duyduğu geri beslemeyi motor sürücü ü
 Fabrika çıkışlı firmware sürümü olan 5.2 sürümünü kullanmanız önerilir, yeni firmware güncellemesi ESC’ye zarar verebilir.
 :::
 
-## Kabloların bağlantı şeması
-
-![Bağlantı Diagramı](./image/vesc69-100a-motor-surucu4.png)
-
-## Gyro ile Dengelemeye Hazır (İngilizce içerik)
-
-VESC IMU ile dengeleme sağlayan tek tekerlekli araçlarla çalışmaya uygun halde gelir.
-
-<iframe width="100%" height="574" src="https://www.youtube.com/embed/iGgNuo6o_Ug" title="VESC IMU Accelerometer Calibration - How To" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## VESC board için ayarlama (İngilizce İçerik)
-
-Vesc’nin elektrikli kaykaylar ile nasıl ayarlanması gerektiğini aşağıdan izleyebilirsiniz.
-
-<iframe width="100%" height="574" src="https://www.youtube.com/embed/lDuV8cnPRmI" title="VESC® Tool 2020 Tutorial - How to Program Vesc for DIY Electric Skateboards" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

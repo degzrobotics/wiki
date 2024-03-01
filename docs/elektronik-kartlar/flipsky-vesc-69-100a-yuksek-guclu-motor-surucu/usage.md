@@ -5,7 +5,7 @@ sidebar_position : 2
 
 
 
-# VESC 6.7 100A Yüksek Güçlü Motor Sürücü'nün Kullanımı
+# VESC 6.9 100A Yüksek Güçlü Motor Sürücü'nün Kullanımı
 
 
 ## Bağlantı şeması:
@@ -56,3 +56,18 @@ TMP             | Sıcaklık sensörünün veri çıkışını almak için kulla
 :::info
 VESC 6.7 100A Yüksek Güçlü Motor Sürücü'nün  bizim iticiler ve bizim üzerinde  degz yazan bir pil ve suibo ile bir şematik yapılabilir buraya . Başlıkta suibo ile kulalnımı deriz .Güzel olur .
 ::: 
+
+
+
+
+## Gyro ile Dengelemeye Hazır (İngilizce içerik)
+
+VESC IMU ile dengeleme sağlayan tek tekerlekli araçlarla çalışmaya uygun halde gelir.
+
+<iframe width="100%" height="574" src="https://www.youtube.com/embed/iGgNuo6o_Ug" title="VESC IMU Accelerometer Calibration - How To" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## VESC board için ayarlama (İngilizce İçerik)
+
+Vesc’nin elektrikli kaykaylar ile nasıl ayarlanması gerektiğini aşağıdan izleyebilirsiniz.
+
+<iframe width="100%" height="574" src="https://www.youtube.com/embed/lDuV8cnPRmI" title="VESC® Tool 2020 Tutorial - How to Program Vesc for DIY Electric Skateboards" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

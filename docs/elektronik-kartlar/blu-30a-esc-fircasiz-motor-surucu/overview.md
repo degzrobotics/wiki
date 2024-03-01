@@ -4,28 +4,31 @@ sidebar_position : 1
 
 # Ürün Hakkında
 
-30A ESC – Fırçasız Motor Sürücü Mitras ve M1 motor kullanılarak üretilen motor türevleri için özelleştirilmiş en uygun fiyatlı motor sürücü olarak karşınızda!
+
 
 ![Blu Esc](./image/escblu.jpg)
 
-Daha iyi performans, daha uygun fiyata!
+
 ## Teknik Özellikler
 
-- Su altı motorlarına uygun konfigure edilmiş, çift yönlü
-- Blheli, Blheli_S Konfigrasyon Sistemine Uyumlu
-- Dshot150/300/600 protokollerini destekler
-- 8v-24v gerilim aralığı (2s-6s)
-- Aşırı ısı koruma
-- Azami Akım 30 Amper
-- Anlık Akım 35 Amper
-- Boyutlar 36x20x5mm
-- Ağırlık (Kablolarla Birlikte) 13gr
-- PWM – 2000 Mikrosaniye Tam İleri, 1500 Mikrosaniye Durma, 1000 Mikrosaniye - Tam Geri çalışma
-- PWM Durma Hassasiyeti +-1 Mikrosaniye
-- Kutu içeriği
+|Özellik                  | Açıklama                                                                                                                                                                                                                                   |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Konfigürasyon   |  Su altı motorlarına uygun konfigure edilmiş, çift yönlü.|
+Konfigrasyon Sistemi | Blheli ve Blheli_S Konfigrasyon Sistemine uyumlu.|
+|Protokoller| Dshot150, Dshot300 ve Dshot600 protokollerini destekler.|
+|Gerilim Aralığı| 8v'den 24v'ye kadar (2s'den 6s'ye kadar olan pillerle uyumlu)|
+|Aşırı Isı Koruma| Aşırı ısınmaya karşı koruma özelliği mevcut.|
+|Azami Akım| 30 Amper maksimum sürekli akım kapasitesi.|
+|Anlık Akım| 35 Amper anlık akım kapasitesi.
+|  Boyutlar| 36mm uzunluk, 20mm genişlik ve 5mm yükseklik.|
+|Ağırlık| Kablolarla birlikte toplam 13 gram.|
+|PWM – Tam İleri| 2000 Mikrosaniye tam ileri için PWM sinyali.|
+|PWM – Durma| 1500 Mikrosaniye durma için PWM sinyali.|
+|PWM – Tam Geri| 1000 Mikrosaniye tam geri için PWM sinyali.|
+|PWM Durma Hassasiyeti |Durma konumunda PWM hassasiyeti +-1 Mikrosaniye.|
+
+
+
 
 ![Blu Esc](./image/escblu2.jpg)
 
-:::tip
-Blu30A Motor Sürücü kutudan çıkar çıkmaz kullanıma hazır.
-:::
