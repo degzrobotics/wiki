@@ -4,70 +4,80 @@ sidebar_position : 1
 
 # Ürün Hakkında
 
-## Mizu dalışa hazır
+## Suibo dalışa hazır
 
-Mizu su altı kontrol kartı, su altı projeleriniz için özel olarak tasarlanmış bir geliştirme kartıdır. Mizucom yüzey kontrolcüsü ile entegre edilmiş ve insansız su altı sistemleriniz için açık kaynaklı bir yazılım sunmaktadır.
+Suibo su altı kontrol kartı, su altı teknoloji projeleriniz için özel olarak tasarlanmış, gelişmiş bir geliştirme kartıdır.  Bu yenilikçi kart,insansız su altı sistemleriniz için zengin özelliklere sahip derindriver yazılım ve arayüz ile birlikte verilecektir . 
 
 ![Degz Mizu](./image/DegzMizuRp2040KontrolKarti1.jpg)
 
-Deringezen-X ile uyumlu olan Mizu geliştirme kartı, boyutlarıyla dikkat çekerken, FPV stack geleneğini sürdürerek ek kartlarla projelerinize uyum sağlar. Esneklik açısından zengin olan Mizu, 16 motoru aynı anda kontrol edebilir ve çeşitli iletişim tiplerini destekler. 10 eksen dengeleme özelliği ve otonomi için gerekli sensörlerle donatılmış olan Mizu, insansız su altı araçlarından roket kontrol kartlarına kadar geniş bir kullanım yelpazesi sunar. Teknik özellikler arasında çift çekirdekli ARM M0 mikrodenetleyici, 8 Mb harici flash, IMU sensörü, pusula, barometre (yalnızca Mizu-b modeli), programlanabilir LED ve daha fazlası bulunmaktadır. Mizu su altı kontrol kartı, projelerinizi daha küçük, daha esnek ve daha güçlü hale getirmek için ideal bir seçenektir.
+
+
+Deringezen-X ile uyumlu olan Suibo geliştirme kartı, boyutlarıyla dikkat çekerken, FPV stack geleneğini sürdürerek ek kartlarla projelerinize uyum sağlar. Suibo , esneklik ve performansı bir arada sunarak, 8 motoru eş zamanlı kontrol edebilme yeteneği ve çeşitli iletişim protokollerini destekleme özelliği ile öne çıkar.
+
+Otonomi ve hassas kontrol için gerekli olan 10 eksen dengeleme özelliği ile donatılmış Suibo, jiroskop, ivmeölçer, pusula  gibi sensörlerle zenginleştirilmiştir. Bu sensörler, insansız su altı araçlarından roket kontrol sistemlerine kadar geniş bir kullanım alanı sağlar. Teknik açıdan zengin özelliklere sahip olan Suibo , çift çekirdekli ARM M0 mikrodenetleyici, 8 Mb harici flash bellek, IMU sensörü ve programlanabilir LED'ler gibi donanımlarla donatılmıştır. 
+
+
+
 
 ![Degz Mizu](./image/DegzMizuRp2040KontrolKarti2.jpg)
 
-İnsansız su altı sistemleri için özelleştirilmiş açık kaynaklı bir yazılım sunulmuş olup, yüzey kontrolcüsü olan Mizucom ile kullanıma hazırdır. Diğer sistemler için bazı özelleştirmeler geliştirilerek rahatlıkla kullanılabilir. Octomini kartlarının devamı niteliğinde olan Mizu, tüm su altı projelerinde kolaylıkla kullanılabilecek bir geliştirme kartıdır.
+ Bu yenilikçi kart,insansız su altı sistemleriniz için zengin özelliklere sahip derindriver yazılım ve arayüz ile birlikte verilecektir . 
 
-Deringezen-1, Mizu ile çalışmaktadır.
 
-## Boyutlar daha da küçüldü
+Deringezen-1, Suibo ile çalışmaktadır.
 
-36x36mm boyutları ile en küçük projelerde dahi işinizi kolaylaştıracak. FPV stack geleneğinin sürdürüldüğü Mizu, ek kartlar ile tüm projelere uyumluluk sağlayabilir.(Ek kartlar tasarım aşamasındadır, özel olarak tasarlanabilir)
+## Değişen tasarımla daha uyumlu ve güçlü 
 
+45x45mm boyutları ile en küçük projelerde dahi işinizi kolaylaştıracak. FPV stack geleneğinin sürdürüldüğü Suibo, ek kartlar ile tüm projelere uyumluluk sağlayabilir.
+Teknik olarak , Suibo 3.3V ile 6V arasında bir besleme gerilimi sağlayarak, projelerinizin güç ihtiyacını esnek bir şekilde karşılar. Projenizin bağlantı gereksinimlerine uyum sağlayabilmek için dört adet I2C uyumlu JST bağlantısı vardır.Bir UART ve bir RS485 uyumlu JST bağlantısı  ayrıca, base kartıyla entegrasyonu kolaylaştıracak bir JST bağlantısı da mevcuttur. Bu geniş bağlantı yelpazesi, projelerinize gereken çeşitliliği ve adaptasyon kabiliyetini sağlar. Programlama ve sıfırlama işlemleri için ise kullanıcı dostu boot ve reset tuşları bulunur, bu da geliştirme sürecini daha da kolaylaştırır.
 ## Farklı projeler için esnek hale getirildi
 
 ![Degz Mizu](./image/DegzMizuRp2040KontrolKarti3.jpg)
 
-Mizu ile 16 motoru aynı anda kontrol edebilirsiniz. I2c, SPI, UART ve bir çok farklı iletişim tipini desteklemektedir. Arduino projelerinde kullanılan tüm sensörleri Mizu’ya rahatlıkla entegre edebilirsiniz.
+Suibo ile 8 motoru aynı anda kontrol edebilirsiniz. I2c, SPI, UART ve bir çok farklı iletişim tipini desteklemektedir. Arduino projelerinde kullanılan tüm sensörleri Suibo’ya rahatlıkla entegre edebilirsiniz.
 
 ## 10 eksen dengeleme
 
-Mizu’nun üzerindeki jiroskop, ivmeölçer, pusula ve basınç* sensörü ile yarı otonom ve otonom araç projelerinizde rahatlıkla kullanabilirsiniz.
+Suibo’nun üzerindeki jiroskop, ivmeölçer, pusula sensörü ile yarı otonom ve otonom araç projelerinizde rahatlıkla kullanabilirsiniz.
 
 ## Otonomi için gerekli tüm sensörler üzerinde
 
-Mizu tüm robotik projelerinizde kullanabileceğiniz kontrol kartıdır. Robotik projeler için gerekli jiroskop, ivmeölçer, pusula ve basınç* sensörü gibi gerekli tüm sensörleri içerisinde barındırmaktadır. Bu sensörlerle birlikte Mizu’yu;
+Suibo  tüm robotik projelerinizde kullanabileceğiniz kontrol kartıdır. Robotik projeler için gerekli jiroskop, ivmeölçer, pusula  sensörü gibi gerekli tüm sensörleri içerisinde barındırmaktadır. Bu sensörlerle birlikte Suibo’yu;
 
 - İnsansız Su Altı Aracı Kontrol Kartı
 - İnsansız Hava Aracı Kontrol Kartı
 - İnsansız Su Üstü Aracı Kontrol Kartı
 - Roket Kontrol Kartı olarak kullanabilirsiniz!
 
-*Barometre sadece Mizu-b modelinde yerleşik olarak bulunmaktadır.
 
-## Pin diyagramı
-
-![Pin Diagramı](./image/DegzMizuRp2040KontrolKarti4.png)
 
 ## Teknik Özellikler
 
-- Besleme Gerilimi – 3.3V – 5V
-- Pin Gerilim Değeri – 3.3V
-- Programlama USB üzerinden
-- Çift çekirdekli ARM M0 mimarisi mikrodenetleyici
-- 8 Mb harici flash(program hafızası)
-- 4xADC(Analog Digital Converter)
-- 2xUART
-- 2xI2C
-- 2xSPI
-- 16xPWM
-- IMU sensörü LSM6DS3 
-- Pusula QMC6310
-- BMP280 Barometer (Yalnız Mizu-b modeli)
-- Programlanabilir LED
-- Dahili Mikro SD kart yuvası
-
-## Kutu İçeriği
-
-- Mizu Geliştirme Kartı
-- Dişi 2 Pin Jumper
-- Erkek 2 Pin Jumper
-- 2×24 Erkek Header
+| Ana Özellikler              |                                                                                                                                                                                                                                    |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Programlama| USB üzerinden programlama imkanı sunar.|
+|Mikrodenetleyici| Çift çekirdekli ARM M0 mimarisi mikrodenetleyici kullanır.|
+|Harici Flash| 8 Mb harici flash bellek bulunur.|
+|Dahili Mikro SD Kart Yuvası | Mikro SD kart için dahili yuva mevcuttur.|
+| **Elektriksel   Karakteristik**    |                                                                                                                                                                  
+| Besleme Gerilimi | 3.3V – 6V arasında besleme gerilimi sağlar.|
+| Pin Gerilim Değeri | Pinler için 3.3V gerilim değeri kullanılır.|
+|                                                      **Çevre Birimleri**            |                                       
+|ADC| 1 adet Analog Digital Converter (ADC) bulunmaktadır.|
+|UART| 2 adet UART arayüzü mevcuttur.|
+|I2C| 2 adet I2C arayüzü bulunur.|
+|SPI| 2 adet SPI arayüzü mevcuttur.|
+|PWM| 18 adet PWM kanalı sunar.|
+|Buton|İki adet vardır . Biri RESET diğeir BOOT tuşudur |
+| **Sensörler**            |                                                                                                                                                                                                                              
+|IMU Sensörü| LSM6DS3 IMU sensörü bulunur.|
+|Pusula| QMC6310 model pusula sensörü kullanır.|
+|Programlanabilir LED| Programlanabilir LED'ler kart üzerinde bulunur.|
+|**Fiziksel**             |                                       
+|Boyut|  45 x 45 mm |
+|Konnektör| 2,54 mm Header |
+|**Üzerinde Bulunan  JST Çıkışları**         |                                        
+|I2C Uyumlu JST Bağlantısı | Kart üzerinde 5V, SCL, SDA ve GND bağlantı noktaları içeren bir adet I2C uyumlu JST bulunur.|
+|UART Uyumlu JST Bağlantısı| TX ve RX pinlerini içeren UART iletişimine uyumlu bir adet JST bağlantısı mevcuttur.|
+|RS485 Uyumlu JST Bağlantısı| RS485 iletişim protokolü için uyumlu bir adet JST bağlantısı kart üzerinde bulunur.|
+|Base Kartı Uyumlu JST Bağlantısı| 3.3V, ADC0, ADC1 ve GND içeren base kartı ile uyumlu bir adet JST bağlantısı mevcuttur.|

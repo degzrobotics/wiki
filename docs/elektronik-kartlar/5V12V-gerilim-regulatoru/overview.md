@@ -5,34 +5,28 @@ image: /img/kartlar/regulator/regulator.jpg
 
 # Ürün Hakkında
 
-## İhtiyacınıza Göre Tek Regülatör
-
-Degz’in yeni regülatörü ile tanışın. Projeleriniz için güvenle kullanabileceğiniz bu kart sizlere ayarlanabilir çıkış gerilimi sunuyor. 
 
 ![5V 12V Regülator](./image/regulator.jpg)
 
-Nvidia veya Raspberry Pi gibi bilgisayarlarınızın akım ihtiyacını da rahatça karşılayan bu regülatör otonom sistemleriniz için özel olarak geliştirildi.
 
-## 5V ve 12V Çıkış Gerilimi Aynı Kartta
 
-Yüksek güç çıkışı sağlayabilen bu regülatör, 5 Volt ve 12 Volt arasında ayarlanabilen iki çıkış bulundurur. Bu sayede iki adet 5V/5A veya iki adet 12V/4A veya 1 adet 5V ve 1 adet 12V çıkış olarak kullanabilirsiniz.
+Bu regülatör, yüksek güç çıkışı sağlar ve 5V ile 12V arasında ayarlanabilir iki çıkışa sahiptir. İki çıkıştan biri 5V 5A, diğeri 12V 4A olmak üzere farklı kombinasyonlarda kullanılabilir: ya iki 5V/5A, iki 12V/4A çıkışı ya da biri 5V diğeri 12V olacak şekilde. 
 
-Kart üzerinde belirtilen Volt1 ve Volt 2 çıkışlarından farklı voltaj ve akım çıkışları alabilirsiniz. Şematikte verildiği gibi pedler birleştirildiğinde alabileceğiniz çıkışlar şu şekilde olacaktır:
+Çıkış ayarları, kart üzerindeki Volt1 ve Volt2 olarak belirtilen yerlerden yapılır. Pedlerin birleştirilmesiyle elde edilen çıkışlar şöyledir:
 
-- Volt1: 12V 4000mA
-- Volt2: 5V 5000mA
+Volt1 için 12V 4A,
+Volt2 için 5V 5A.
+
+
 
 ![Regulator Çıkış](./image/regulator2.jpg)
 
-Aynı zamanda çıkışların ikisini de aynı anda 5V veya 12V olarak kullanabilirsiniz.
 
 :::note
-Kart arkasındaki pedler birleştirilmeden voltaj çıkışı alınmamaktadır.
+Ayrıca, her iki çıkışı da aynı anda 5V veya 12V olarak ayarlayabilirsiniz. Ancak, kartın arkasındaki pedler birleştirilmeden voltaj çıkışı alınamaz.
 :::
 
-## Konnektörlü Bağlantı
 
-Standart XT30 ile kullanılabilen kart, özellikle otonom projelerin güç ihtiyacını rahatlıkla karşılayabilir.
 
 ## Özellikler
 
