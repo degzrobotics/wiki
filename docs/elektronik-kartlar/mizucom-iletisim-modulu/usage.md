@@ -14,7 +14,7 @@ sidebar_position : 2
 
 
 
- ## Pin Portlarının  Açıklamaları:
+ ## Pin Portlarının  Açıklamaları 
 
  |Pinler                                         |Özellikleri       |
 |------------------------------------------------|-------------------|
