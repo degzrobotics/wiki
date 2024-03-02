@@ -10,26 +10,21 @@ Suibo su altı kontrol kartı, su altı teknoloji projeleriniz için özel olara
 
 ![Degz Mizu](./image/DegzMizuRp2040KontrolKarti1.jpg)
 
-
-
 Deringezen-X ile uyumlu olan Suibo geliştirme kartı, boyutlarıyla dikkat çekerken, FPV stack geleneğini sürdürerek ek kartlarla projelerinize uyum sağlar. Suibo , esneklik ve performansı bir arada sunarak, 8 motoru eş zamanlı kontrol edebilme yeteneği ve çeşitli iletişim protokollerini destekleme özelliği ile öne çıkar.
 
 Otonomi ve hassas kontrol için gerekli olan 10 eksen dengeleme özelliği ile donatılmış Suibo, jiroskop, ivmeölçer, pusula  gibi sensörlerle zenginleştirilmiştir. Bu sensörler, insansız su altı araçlarından roket kontrol sistemlerine kadar geniş bir kullanım alanı sağlar. Teknik açıdan zengin özelliklere sahip olan Suibo , çift çekirdekli ARM M0 mikrodenetleyici, 8 Mb harici flash bellek, IMU sensörü ve programlanabilir LED'ler gibi donanımlarla donatılmıştır. 
-
-
-
 
 ![Degz Mizu](./image/DegzMizuRp2040KontrolKarti2.jpg)
 
  Bu yenilikçi kart,insansız su altı sistemleriniz için zengin özelliklere sahip derindriver yazılım ve arayüz ile birlikte verilecektir . 
 
-
 Deringezen-1, Suibo ile çalışmaktadır.
 
-## Değişen tasarımla daha uyumlu ve güçlü 
+## Değişen tasarımla daha uyumlu ve güçlü
 
 45x45mm boyutları ile en küçük projelerde dahi işinizi kolaylaştıracak. FPV stack geleneğinin sürdürüldüğü Suibo, ek kartlar ile tüm projelere uyumluluk sağlayabilir.
 Teknik olarak , Suibo 3.3V ile 6V arasında bir besleme gerilimi sağlayarak, projelerinizin güç ihtiyacını esnek bir şekilde karşılar. Projenizin bağlantı gereksinimlerine uyum sağlayabilmek için dört adet I2C uyumlu JST bağlantısı vardır.Bir UART ve bir RS485 uyumlu JST bağlantısı  ayrıca, base kartıyla entegrasyonu kolaylaştıracak bir JST bağlantısı da mevcuttur. Bu geniş bağlantı yelpazesi, projelerinize gereken çeşitliliği ve adaptasyon kabiliyetini sağlar. Programlama ve sıfırlama işlemleri için ise kullanıcı dostu boot ve reset tuşları bulunur, bu da geliştirme sürecini daha da kolaylaştırır.
+
 ## Farklı projeler için esnek hale getirildi
 
 ![Degz Mizu](./image/DegzMizuRp2040KontrolKarti3.jpg)
@@ -48,8 +43,6 @@ Suibo  tüm robotik projelerinizde kullanabileceğiniz kontrol kartıdır. Robot
 - İnsansız Hava Aracı Kontrol Kartı
 - İnsansız Su Üstü Aracı Kontrol Kartı
 - Roket Kontrol Kartı olarak kullanabilirsiniz!
-
-
 
 ## Teknik Özellikler
 

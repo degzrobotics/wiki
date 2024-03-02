@@ -1,22 +1,16 @@
 ---
-sidebar_position : 2
+sidebar_position : 3
 ---
 
+# Ürünün Kullanımı
 
-
-
-# MIZUCOM İletişim  Modeli'nin Kullanımı
-
-
-## Bağlantı şeması:
+## Bağlantı şeması
 
 ![Mizucom iletişim Modülü](./image/sublink.png)
 
+## Pin Portlarının  Açıklamaları
 
-
- ## Pin Portlarının  Açıklamaları:
-
- |Pinler                                         |Özellikleri       |
+|Pinler                                         |Özellikleri       |
 |------------------------------------------------|-------------------|
 | TX                               | Verici (Transmitter) pinidir. Modül bu pin üzerinden seri veriyi USB'den çevre birimine gönderir.|
 |RX  | Alıcı (Receiver) pinidir. Modül bu pin üzerinden çevre biriminden seri veriyi alır.|

@@ -1,5 +1,7 @@
 ---
 sidebar_position : 1
+unlisted: false
+slug: /
 ---
 
 # Ürün Hakkında

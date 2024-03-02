@@ -1,22 +1,14 @@
 ---
-sidebar_position : 2
+sidebar_position : 3
 ---
 
+# Ürünün Kullanımı
 
+## Bağlantı şeması
 
-
-# VESC 6.9 100A Yüksek Güçlü Motor Sürücü'nün Kullanımı
-
-
-## Bağlantı şeması:
 ![Bağlantı Diagramı](./image/vesc69-100a-motor-surucu4.png)
 
-
-
- ## Pin Portlarının  Açıklamaları:
-
-
-
+## Pin Portlarının  Açıklamaları
  
 | CAN Portu                   | Özellik                                                                                                                                                                                                                                     |
 |----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -56,9 +48,6 @@ TMP             | Sıcaklık sensörünün veri çıkışını almak için kulla
 :::info
 VESC 6.7 100A Yüksek Güçlü Motor Sürücü'nün  bizim iticiler ve bizim üzerinde  degz yazan bir pil ve suibo ile bir şematik yapılabilir buraya . Başlıkta suibo ile kulalnımı deriz .Güzel olur .
 ::: 
-
-
-
 
 ## Gyro ile Dengelemeye Hazır (İngilizce içerik)
 
