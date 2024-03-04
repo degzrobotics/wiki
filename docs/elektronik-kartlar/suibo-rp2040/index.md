@@ -1,6 +1,10 @@
 ---
 sidebar_position : 1
+pagination_next: null
+pagination_prev: null
 ---
+
+import DocCardList from '@theme/DocCardList';
 
 # Ürün Hakkında
 
@@ -74,3 +78,5 @@ Suibo  tüm robotik projelerinizde kullanabileceğiniz kontrol kartıdır. Robot
 |UART Uyumlu JST Bağlantısı| TX ve RX pinlerini içeren UART iletişimine uyumlu bir adet JST bağlantısı mevcuttur.|
 |RS485 Uyumlu JST Bağlantısı| RS485 iletişim protokolü için uyumlu bir adet JST bağlantısı kart üzerinde bulunur.|
 |Base Kartı Uyumlu JST Bağlantısı| 3.3V, ADC0, ADC1 ve GND içeren base kartı ile uyumlu bir adet JST bağlantısı mevcuttur.|
+
+<DocCardList />

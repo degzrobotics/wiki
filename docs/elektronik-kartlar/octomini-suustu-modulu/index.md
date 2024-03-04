@@ -1,6 +1,10 @@
 ---
 sidebar_position : 1
+pagination_next: null
+pagination_prev: null
 ---
+
+import DocCardList from '@theme/DocCardList';
 
 # Ürün Hakkında
 
@@ -29,3 +33,5 @@ Yazılımı indirmek veya katkıda bulunmak isterseniz [buraya](https://github.c
 Tether diagramı;
 
 ![Octomini Suüstü](./image/konnektor_pin.jpg)
+
+<DocCardList />

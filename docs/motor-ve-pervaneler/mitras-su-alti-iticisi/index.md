@@ -1,6 +1,10 @@
 ---
 sidebar_position : 1
+pagination_next: null
+pagination_prev: null
 ---
+
+import DocCardList from '@theme/DocCardList';
 
 # Ürün Hakkında
 
@@ -40,3 +44,5 @@ Küçük boyutlar, yüksek gerilim ve yüksek itme gücü bu iticide! Enjeksiyon
 
 - Mitras İtici
 - M5x16 Havşabaş (2 adet)
+
+<DocCardList />

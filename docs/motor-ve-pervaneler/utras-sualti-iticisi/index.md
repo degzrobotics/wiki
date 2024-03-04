@@ -1,6 +1,10 @@
 ---
 sidebar_position : 1
+pagination_next: null
+pagination_prev: null
 ---
+
+import DocCardList from '@theme/DocCardList';
 
 # Ürün Hakkında
 
@@ -36,3 +40,6 @@ Yüksek itme gücü ve yüksek verimlilik arıyorsanız, Utras Su Altı İticisi
 - Utras İtici
 - M5x16 Havşabaş (4 adet)
 - (Utras, patent başvurusunda bulunulan tek kollu dayanak parçası kullanılarak üretilmektedir.)
+
+<DocCardList />
+

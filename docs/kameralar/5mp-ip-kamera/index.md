@@ -1,6 +1,10 @@
 ---
 sidebar_position : 1
+pagination_next: null
+pagination_prev: null
 ---
+
+import DocCardList from '@theme/DocCardList';
 
 # Ürün Hakkında
 
@@ -38,3 +42,5 @@ Dahili olarak bir mikrodenetleyicileri ile paket yapısı kullanılarak görünt
 - LM7512 Lineer Regülatör
 - Lens
 - Lens Sabitleme ve Vidaları
+
+<DocCardList />

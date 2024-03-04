@@ -1,6 +1,10 @@
 ---
 sidebar_position : 1
+pagination_next: null
+pagination_prev: null
 ---
+
+import DocCardList from '@theme/DocCardList';
 
 # Ürün Hakkında
 
@@ -25,3 +29,5 @@ Utras iticinin çekirdeğini oluşturan bu yüksek performanslı motor, uygun ta
 - Anodize alüminyum gövde
 - Tuzlu suya dayanıklı rulmanlar
 - Tamamen izole edilmiş, sargılar.
+
+<DocCardList />

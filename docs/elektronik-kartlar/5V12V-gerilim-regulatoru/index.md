@@ -1,47 +1,17 @@
 ---
 sidebar_position : 1
-image: /img/kartlar/regulator/regulator.jpg
+# image: /img/kartlar/regulator/regulator.jpg
+pagination_next: null
+pagination_prev: null
 ---
+import DocCardList from '@theme/DocCardList';
 
-# Ürün Hakkında
-
+# 5V 12V Gerilim Regülatörü
 
 ![5V 12V Regülator](./image/regulator.jpg)
 
+Bu regülatör, geniş bir kullanım yelpazesi sunarak yüksek güç çıkışı sağlar ve esnekliğiyle dikkat çeker. Ayarlanabilir iki çıkışıyla, kullanıcıya 5V ile 12V arasında seçenekler sunar. Her iki çıkış da tek başına kullanılabilir ya da bir kombinasyon halinde tercih edilebilir: İki adet 5V/5A çıkışı, iki adet 12V/4A çıkışı veya biri 5V diğeri 12V olan çıkış. Ayarlamalar, kart üzerindeki belirtilen yerlerden kolayca yapılabilmektedir. Ayrıca, her iki çıkışı da aynı anda 5V veya 12V olarak ayarlamak mümkündür. Ürün, giriş voltajı aralığında esneklik sunar ve güvenilirlik için ters bağlantı korumasıyla donatılmıştır. Fiziksel olarak kompakt bir tasarıma sahip olan regülatör, çeşitli projelerde kullanılmak üzere idealdir.
 
+Bu ürünü almak için [tıklayınız](https://degzrobotics.com/product/5v-12v-gerilim-regulatoru/).  
 
-Bu regülatör, yüksek güç çıkışı sağlar ve 5V ile 12V arasında ayarlanabilir iki çıkışa sahiptir. İki çıkıştan biri 5V 5A, diğeri 12V 4A olmak üzere farklı kombinasyonlarda kullanılabilir: ya iki 5V/5A, iki 12V/4A çıkışı ya da biri 5V diğeri 12V olacak şekilde. 
-
-Çıkış ayarları, kart üzerindeki Volt1 ve Volt2 olarak belirtilen yerlerden yapılır. Pedlerin birleştirilmesiyle elde edilen çıkışlar şöyledir:
-
-Volt1 için 12V 4A,
-Volt2 için 5V 5A.
-
-
-
-![Regulator Çıkış](./image/regulator2.jpg)
-
-
-:::note
-Ayrıca, her iki çıkışı da aynı anda 5V veya 12V olarak ayarlayabilirsiniz. Ancak, kartın arkasındaki pedler birleştirilmeden voltaj çıkışı alınamaz.
-:::
-
-
-
-## Özellikler
-
-### Genel Özellikler
-
-- Giriş voltajı : 8-36V / 3s-8s li-po
-- 5V Azami Çıkış Akımı : 5000 mA
-- 12V Azami Çıkış Akımı : 4000 mA
-- 5V/12V Çıkış sayısı : 3+3 Pin
-- Giriş ters bağlantı koruması: Hayır ( Yüksek akımlı bir diyot seri bağlanabilir. )
-  
-### Fiziksel Özellikler**
-
-- Boyut: 45 x 45 mm
-- Header Konnektör: 2.54 mm Header
-- Güç Konnektör: XT30
-
-![Çalışma Sıcaklığı](./image/WorkingTemp.png)
+<DocCardList />

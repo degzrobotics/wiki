@@ -1,6 +1,10 @@
 ---
 sidebar_position : 1
+pagination_next: null
+pagination_prev: null
 ---
+
+import DocCardList from '@theme/DocCardList';
 
 # Ürün Hakkında
 
@@ -37,25 +41,4 @@ Mizucom 400 metreye kadar kablolu iletişim sağlayabilir. İnsansız sualtı si
 
 Standart analog kamera ve yüksek çözünürlüklü ahd kamera ile satın alınan analog çözücüler direkt olarak Mizucom kartının üzerine entegre edilebilir.
 
-## Teknik Özellikler
-
-
-| Veriyolu Standardı                             | RS485             |
-|------------------------------------------------|-------------------|
-| Kamera İletişimi                               | Analog, Analog HD |
-| Su altı istasyonu ile 4’lü kablo ile iletişim  | (A, B, AV ve GND) |
-| Besleme Gerilimi                               | 5v                |
-| Uyumlu Yazılımlar                              | Windows / MacOS   |
-
-## Kutu İçeriği
-
-- Serial İletişim Modülü
-- Comm Shield
-- JST SH 1.0mm 4 Pin Kablo
-- JST SH 1.0mm 2 Pin Kablo
-- Dişi 2 Pin Jumper
-- Erkek 2 Pin Jumper
-
-## Kullanım Diyagramı
-
-![Kullanım Diagramı](./image/Sublink-L-Diagram-Datasheet.jpeg)
+<DocCardList />

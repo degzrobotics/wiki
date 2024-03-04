@@ -1,6 +1,10 @@
 ---
 sidebar_position : 1
+pagination_next: null
+pagination_prev: null
 ---
+
+import DocCardList from '@theme/DocCardList';
 
 # Ürün Hakkında
 
@@ -26,3 +30,5 @@ Sualtındaki nesneleri hızlı bir şekilde toplayabilirsiniz. 10 cm boyuta kada
 - 4mm Pnömatik Tahliye Hortumu (30 metre)
 
 <iframe width="100%" height="574" src="https://www.youtube.com/embed/rv21GLY30Vw" title="180 NEWTON KAVRAMA GÜCÜ | Degz Su Altı Pinomatik Tutucu Kolu İnceledik !" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<DocCardList />

@@ -81,7 +81,10 @@ const config = {
         },
         blog: false,
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: [
+          './src/css/custom.css',
+          './src/css/announcement-bar.css'
+        ],
         },
         sitemap: {
           changefreq: 'hourly',
@@ -100,6 +103,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
+        hideOnScroll: true,
         title: '',
         logo: {
           alt: 'Degz Robotics Logo',
@@ -189,6 +193,13 @@ const config = {
           scrollOffset: 200,
 
         }
+      },
+      announcementBar: {
+        id: 'supportus-5', // Güncelleme yaptıkça id arttırılacak
+        content:
+        'Suibo yakında satışta! <a target="_blank" rel="noopener noreferrer" href="https://degzrobotics.com/komponentler/">Diğer Ürünlere Gözat!</a>',
+      isCloseable: true,
+      
       }
 
     }),

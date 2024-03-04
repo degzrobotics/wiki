@@ -1,6 +1,10 @@
 ---
 sidebar_position : 1
+pagination_next: null
+pagination_prev: null
 ---
+
+import DocCardList from '@theme/DocCardList';
 
 # Ürün Hakkında
 
@@ -33,3 +37,4 @@ Sızdırmaz haznemiz sualtı araçlarında elektronik sistemi korumak amacıyla 
 - Gress
 - M3x12 Bombebaş Vida (10 adet)
 
+<DocCardList />

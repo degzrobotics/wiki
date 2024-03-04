@@ -2,10 +2,8 @@
 sidebar_position : 3
 ---
 
+# Ürünün Kullanımı
 
-
-
-# MIZU RP2040'ın Kullanımı
 
 
 ## Pin diyagramı

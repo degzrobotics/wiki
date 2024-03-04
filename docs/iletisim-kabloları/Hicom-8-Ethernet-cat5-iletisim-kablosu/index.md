@@ -1,6 +1,10 @@
 ---
 sidebar_position : 1
+pagination_next: null
+pagination_prev: null
 ---
+
+import DocCardList from '@theme/DocCardList';
 
 # Ürün Hakkında
 
@@ -34,3 +38,5 @@ Kablonun esnekliği, Deringezen’lere bolca özgürlük sağlayacak kadar yüks
 | DC Direnci @ 20°C            | 0,127 Ω/m              | 0,146Ω/m      |
 | Yalıtım Direnci @ 500 VDC    | > 1640 MΩ/km           | –             |
 | Voltaj derecesi              | 300 VDC                |               |
+
+<DocCardList />

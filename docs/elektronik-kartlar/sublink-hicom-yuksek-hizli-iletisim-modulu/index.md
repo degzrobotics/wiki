@@ -1,6 +1,10 @@
 ---
 sidebar_position : 1
+pagination_next: null
+pagination_prev: null
 ---
+
+import DocCardList from '@theme/DocCardList';
 
 # Ürün Hakkında
 
@@ -62,3 +66,6 @@ Sublink Hi-com yüksen hızlı modülü insansız sualtı araçları üzerinde t
 - JST-SH 1.0mm 4 Pin Kablo
 - Dişi 2 Pin Jumper (2 adet)
 - Erkek 2 Pin Jumper (2 adet)
+
+<DocCardList />
+

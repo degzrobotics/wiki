@@ -1,6 +1,10 @@
 ---
 sidebar_position : 1
+pagination_next: null
+pagination_prev: null
 ---
+
+import DocCardList from '@theme/DocCardList';
 
 # Ürün Hakkında
 
@@ -33,3 +37,5 @@ Her bir set için;
 
 2 adet M5 Motor ( 1x Pervane – 1x M5 Motor)
 4 adet Montaj vidası (1x Pervane – 2x M3x6mm Vida)
+
+<DocCardList />

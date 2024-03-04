@@ -1,6 +1,10 @@
 ---
 sidebar_position : 1
+pagination_next: null
+pagination_prev: null
 ---
+
+import DocCardList from '@theme/DocCardList';
 
 # Ürün Hakkında
 
@@ -34,3 +38,6 @@ Analog görüntülerin aktarıldığı kablolar elektromanyetik gürültüden ci
 - LM7512 Lineer Regülatör
 - Lens
 - Lens Sabitleme ve Vidaları
+
+<DocCardList />
+
