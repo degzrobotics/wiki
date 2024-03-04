@@ -1,9 +1,5 @@
 {
     "label": "VESC 6.7 70A Yüksek Güçlü Motor Sürücü - Flipsky", 
-    "position": 4 ,
-    "link": {
-      "type": "generated-index",
-      "description": "Mizu kontrol kartı RP2040'ın en önemli özellikleri 5 dakikada öğrenenin."
-    }
+    "position": 4
   }
   

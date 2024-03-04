@@ -2,13 +2,9 @@
 sidebar_position : 2
 ---
 
+# Ürünün Kullanımı
 
-
-
-# VESC 6.7 70A Yüksek Güçlü Motor Sürücü'nün Kullanımı
-
-
-## Bağlantı şeması:
+## Bağlantı şeması
 
 ![Bağlantı Şeması](./image/vesc67-70a-motor-surucu2.png)
 
@@ -24,10 +20,7 @@ sidebar_position : 2
 |4 ) SWD                      |  Serial Wire Debug (SWD) portu, mikrodenetleyicinin programlanması ve hata ayıklaması için kullanılır. SWCLK (Serial Wire Clock) ve SWDIO (Serial Wire Data I/O) pinleri, programlama ve hata ayıklama sırasında veri aktarımı ve senkronizasyonu için gereklidir.|
 |5 ) USB  | Bu, Universal Serial Bus (USB) bağlantı noktasıdır ve kartın bilgisayar üzerinden programlanması veya bilgisayar ile veri alışverişi yapması için kullanılır.|
 
- ## Pin Portlarının  Açıklamaları:
-
-
-
+## Pin Portlarının  Açıklamaları
  
 | CAN Portu                   | Özellik                                                                                                                                                                                                                                     |
 |----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -67,10 +60,7 @@ SWCLK             |Serial Wire Clock, yani seri saat hattı. SWD (Serial Wire De
 
 :::info
 VESC 6.7 70A Yüksek Güçlü Motor Sürücü'nün  bizim iticiler bizim üzerinde  degz yazan bir pil ve suibo ile bir şematik yapılabilir buraya . Başlıkta suibo ile kulalnımı deriz .
-::: 
-
-
-
+:::
 
 ## Gyro ile Dengelemeye Hazır
 
@@ -83,4 +73,3 @@ VESC IMU ile dengeleme sağlayan tek tekerlekli araçlarla çalışmaya uygun ha
 Vesc’nin elektrikli kaykaylar ile nasıl ayarlanması gerektiğini aşağıdan izleyebilirsiniz.
 
 <iframe width="100%" height="574" src="https://www.youtube.com/embed/lDuV8cnPRmI" title="VESC® Tool 2020 Tutorial - How to Program Vesc for DIY Electric Skateboards" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-

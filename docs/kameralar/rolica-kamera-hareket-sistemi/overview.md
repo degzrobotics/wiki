@@ -1,6 +1,10 @@
 ---
 sidebar_position : 1
+pagination_next: null
+pagination_prev: null
 ---
+
+import DocCardList from '@theme/DocCardList';
 
 # Ürün Hakkında
 
@@ -49,3 +53,5 @@ Sisteme kamera dahil değildir, dilediğiniz kamerayı ek olarak satın alırsan
 - Dişi 2 Pin Jumper (2 adet)
 - Erkek 2 Pin Jumper (2 adet)
 - LM2596 Ayarlanabilir Regülatör
+
+<DocCardList />

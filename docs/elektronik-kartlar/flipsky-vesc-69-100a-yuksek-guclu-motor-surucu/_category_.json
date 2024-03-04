@@ -1,9 +1,4 @@
 {
-    "label": "VESC 6.9 - 100A(Max 200A) Yüksek Güçlü Motor Sürücü- Flipsky", 
-    "position": 5 ,
-    "link": {
-      "type": "generated-index",
-      "description": "VESC 6.9 - 100A(Max 200A) Yüksek Güçlü Motor Sürücünün en önemli özellikleri 5 dakikada öğrenenin."
-    }
-  }
-  
+    "label": "VESC 6.9 100A(Max 200A) Yüksek Güçlü Motor Sürücü- Flipsky", 
+    "position": 5
+}
