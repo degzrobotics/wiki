@@ -12,13 +12,13 @@ import DocCardList from '@theme/DocCardList';
 
 Suibo su altı kontrol kartı, su altı teknoloji projeleriniz için özel olarak tasarlanmış, gelişmiş bir geliştirme kartıdır.  Bu yenilikçi kart,insansız su altı sistemleriniz için zengin özelliklere sahip derindriver yazılım ve arayüz ile birlikte verilecektir . 
 
-![Degz Mizu](./image/DegzMizuRp2040KontrolKarti1.jpg)
+![Degz suibo](./image/suibo-kontrol-karti-1.jpg)
 
 Deringezen-X ile uyumlu olan Suibo geliştirme kartı, boyutlarıyla dikkat çekerken, FPV stack geleneğini sürdürerek ek kartlarla projelerinize uyum sağlar. Suibo , esneklik ve performansı bir arada sunarak, 8 motoru eş zamanlı kontrol edebilme yeteneği ve çeşitli iletişim protokollerini destekleme özelliği ile öne çıkar.
 
 Otonomi ve hassas kontrol için gerekli olan 10 eksen dengeleme özelliği ile donatılmış Suibo, jiroskop, ivmeölçer, pusula  gibi sensörlerle zenginleştirilmiştir. Bu sensörler, insansız su altı araçlarından roket kontrol sistemlerine kadar geniş bir kullanım alanı sağlar. Teknik açıdan zengin özelliklere sahip olan Suibo , çift çekirdekli ARM M0 mikrodenetleyici, 8 Mb harici flash bellek, IMU sensörü ve programlanabilir LED'ler gibi donanımlarla donatılmıştır. 
 
-![Degz Mizu](./image/DegzMizuRp2040KontrolKarti2.jpg)
+![Degz Suibo](./image/suibo-kontrol-karti-3.jpg)
 
  Bu yenilikçi kart,insansız su altı sistemleriniz için zengin özelliklere sahip derindriver yazılım ve arayüz ile birlikte verilecektir . 
 
@@ -31,7 +31,7 @@ Teknik olarak , Suibo 3.3V ile 6V arasında bir besleme gerilimi sağlayarak, pr
 
 ## Farklı projeler için esnek hale getirildi
 
-![Degz Mizu](./image/DegzMizuRp2040KontrolKarti3.jpg)
+![Degz Mizu](./image/suibo-kontrol-karti-4.jpg)
 
 Suibo ile 8 motoru aynı anda kontrol edebilirsiniz. I2c, SPI, UART ve bir çok farklı iletişim tipini desteklemektedir. Arduino projelerinde kullanılan tüm sensörleri Suibo’ya rahatlıkla entegre edebilirsiniz.
 
