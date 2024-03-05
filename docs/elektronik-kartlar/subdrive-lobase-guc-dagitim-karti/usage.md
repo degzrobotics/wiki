@@ -4,6 +4,7 @@ sidebar_position : 3
 
 # Ürünün Kullanımı
 
-:::info
-Detay Eklenecektir.
-:::
+## Pin Diyagramı
+
+![Hi-Base](./image/hibase-pin-diyagramı.png) 
+

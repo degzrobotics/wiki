@@ -8,8 +8,6 @@ sidebar_position : 3
 
 ## Pin diyagramı
 
-![Pin Diagramı](./image/DegzMizuRp2040KontrolKarti4.png)
-
 
  ## Pin  Açıklamaları:
 

@@ -4,24 +4,22 @@ sidebar_position : 2
 
 # Ürünün Teknik Özellikleri
 
-![Subdrive Lo-Base](./image/6S-BASE-ARKA.jpg)
+![Hi-Base](./image/hibase-gucdagıtım-karti-11.jpg) 
 
-| Özellik                  | Değer                 |
+|      Ana Özellikler           |              |
 |--------------------------|-----------------------|
-| Azami Akım               | 150 Amper             |
-| Soğutma İle Sürekli Akım | 80 amper              |
-| Sürekli Akım             | 40 Amper              |
-| Dahili Regülatör         | Opsiyonel             |
-| Giriş Gerilimi           | 6-26 Vdc              |
-| Pil Türleri              | 2s – 6s               |
-| Regülatör Voltajı        | 5 Vdc – 12Vdc         |
-| Regülatör Akımı          | 3a @ 5Vdc – 1a @12Vdc |
+|Anlık akım voltaj ve güç izleme|Kullanıcının enerji tüketimini detaylı bir şekilde izlemesini sağlar.|
+|Manyetik anahtarlama|Fiziksel temas gerektirmeden, manyetik bir alan aracılığıyla cihazın açılıp kapanmasını sağlar.|
+|Harici anahtar|Kullanıcıların cihazı dışarıdan bir anahtar aracılığıyla kontrol etmesine olanak tanır.|
+|**Elektriksel Karakteristik**|
+|Azami Akım| 120 Amper(120 ampere kadar test edilmiştir.)|
+|Sürekli Akım| 60 Amper|
+|Giriş Gerilimi| 6-48 Vdc|
+|Pil Türleri| 2s – 12s|
+|**Sensörler**|
+|INA219 Akım sensörü|	Cihazın akımı hassas bir şekilde ölçmesini yardımcı olur .|
+|**Fiziksel**|
+|Boyut: 45 x 45 mm|
 
-## Kutu İçeriği
 
-- Subdrive Lo-Base
-- Hall Effect Sensör
-- 14 Awg Siyah Silikon Kablo (8cm)
-- 14 Awg Kırmızı Silikon Kablo (8cm)
-- Erkek XT60 Konnektör
-- Dişi XT60 Konnektör
+![Hi-Base](./image/hıbase-tablo.png) 

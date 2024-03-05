@@ -7,23 +7,37 @@ pagination_prev: null
 import DocCardList from '@theme/DocCardList';
 
 # Ürün Hakkında
+Hi Base Güç Dağıtım Kartı üzerindeki anahtarlama elemanları sayesinde elektronik haznenin dışarısından anahtarlama yapmanızı sağlar.
+Statik manyetik anahtarlama ile güvenli bir şekilde sisteminizin gücünü kesebilir, açma-kapatma işlemlerini gerçekleştirebilirsiniz.
 
 ![Subdrive Lo-Base](./image/6S-BASE.jpg)
 
-:::info
-Yeni tasarımıyla Subdrive Lo-Base Güç Dağıtım Kartı çok yakında karşınızda!
-:::
-
-Subdrive Lo-Base Güç Dağıtım Kartı üzerindeki anahtarlama elemanları sayesinde elektronik haznenin dışarısından anahtarlama yapmanızı sağlar.
-Statik manyetik anahtarlama ile güvenli bir şekilde sisteminizin gücünü kesebilir, açma-kapatma işlemlerini gerçekleştirebilirsiniz.
 
 
-Yenilenen harici regülatör ile hem 5v hem de 12v kullanan cihazlarınızı aynı anda çalıştırabilirsiniz.
 
-## Yenilikler
+|      Ana Özellikler           |              |
+|--------------------------|-----------------------|
+|Anlık akım voltaj ve güç izleme|Kullanıcının enerji tüketimini detaylı bir şekilde izlemesini sağlar.|
+|Manyetik anahtarlama|Fiziksel temas gerektirmeden, manyetik bir alan aracılığıyla cihazın açılıp kapanmasını sağlar.|
+|Harici anahtar|Kullanıcıların cihazı dışarıdan bir anahtar aracılığıyla kontrol etmesine olanak tanır.|
+|**Elektriksel Karakteristik**|
+|Azami Akım| 120 Amper(120 ampere kadar test edilmiştir.)|
+|Sürekli Akım| 60 Amper|
+|Giriş Gerilimi| 6-48 Vdc|
+|Pil Türleri| 2s – 12s|
+|**Sensörler**|
+|INA219 Akım sensörü|	Cihazın akımı hassas bir şekilde ölçmesini yardımcı olur .|
+|**Fiziksel**|
+|Boyut: 45 x 45 mm|
 
-- Akım ölçüm sensörü ile sisteminizin kullandığı akımı sürekli olarak ölçebilir ve güç tüketimini hesaplayabilirsiniz
-- Bağımsız anahtarlama elemanı sayesinde aydınlatmalar, tutucu kol veya görev birimi gibi  iki farklı cihazı cihazınız üzerinden anahtarlayabilirsiniz.
+## Kutu İçeriği
+
+- Hi-Base
+- Hall Effect Sensör
+- 14 Awg Siyah Silikon Kablo (8cm)
+- 14 Awg Kırmızı Silikon Kablo (8cm)
+- Erkek XT60 Konnektör
+- Dişi XT60 Konnektör
 
 ## Sık Sorulan Sorular
 
