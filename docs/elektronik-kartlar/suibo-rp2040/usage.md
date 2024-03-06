@@ -8,7 +8,7 @@ sidebar_position : 3
 
 ## Pin diyagramı
 
-![Pin Diagramı](./image/DegzMizuRp2040KontrolKarti4.png)
+![Pin Diagramı](./image/suibo-kontrol-karti-5.png)
 
 
  ## Pin  Açıklamaları:
