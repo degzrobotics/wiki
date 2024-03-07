@@ -33,7 +33,7 @@ HiBase kartımız, anlık enerji izleme ve kontrol imkanı sunuyor ve bu özelli
 
 ![Hi-Base](./image/hibase-gucdagıtım-karti-10.jpg)
 
-## Özelleştirlebilir Soğutma Sistemi 
+## Özelleştirilebilir Soğutma Sistemi 
 
 Kartımızın temel versiyonu alüminyum levha içermese de, performansı öncelik veren müşterilerimiz için özelleştirilebilir bir seçenek olarak sunuyoruz: İsteğiniz üzerine kartınıza entegre edilebilecek bir alüminyum levha. Bu yenilikçi özellik, kartınızın çalışırken ısınmasını yavaşlatır ve aşırı sıcaklıkları önleyerek soğutma işlevi görür, bu sayede cihazınızın performansını artırır. Yoğun kullanım sırasında dahi, bu özel tasarım kartınızın sürekli ve güvenilir bir şekilde çalışmasını sağlar, böylece sistemleriniz her zaman serin ve stabil kalır. Alüminyum levha, özellikle yüksek performans gerektiren projelerde ve sıcaklık yönetiminin kritik olduğu enerji yönetimi uygulamalarında büyük bir avantaj sağlar. Performansınızı maksimize etmek, ısınma sorunlarını minimize etmek ve projelerinizi güçlendirmek için bu özelliği projelerinize entegre edebilirsiniz.
 

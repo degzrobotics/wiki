@@ -13,7 +13,7 @@ Sualtı teknolojisinde çığır açan bir yenilik olan Neo Penetratör, yüksek
 
 ## Üstün Malzeme ve Yapı Kalitesi 
 
-Her türlü zorlu sualtı koşuluna dayanıklı olarak tasarlanmış Neo Penetratör, metal ve plastik seçenekleriyle her projenin ihtiyacına uygun çözümler sunar. Epoksi uygulama imkanı sayesinde daha da güçlendirilen bu yapı, sualtı araçlarının en zorlu görevlerde bile yüksek performans göstermesini sağlar.
+Her türlü zorlu sualtı koşuluna dayanıklı olarak tasarlanmış Neo Penetratör,  plastik seçeneği ile her projenin ihtiyacına uygun çözümler sunar. Epoksi uygulama imkanı sayesinde daha da güçlendirilen bu yapı, sualtı araçlarının en zorlu görevlerde bile yüksek performans göstermesini sağlar.
 
 
 ## Kolay Montaj ve Çok Yönlü Kullanım
