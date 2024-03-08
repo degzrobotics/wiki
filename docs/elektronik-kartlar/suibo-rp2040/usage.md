@@ -8,8 +8,8 @@ sidebar_position : 3
 
 ## Pin diyagramı
 
-![Pin Diagramı](./image/suibo-kontrol-karti-5.png)
 
+![Pin Diagramı](./image/suibo-kontrol-karti-5.png)
 
  ## Pin  Açıklamaları:
 
@@ -42,3 +42,4 @@ IO18,IO19|I2C protokolü için SCL (Serial Clock Line) ve SDA (Serial Data Line)
 
 
 
+    
