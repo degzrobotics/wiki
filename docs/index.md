@@ -6,7 +6,7 @@ pagination_prev: null
 ---
 import DocCardList from '@theme/DocCardList';
 
-# 🐳 Wiki Anasayfa
+# Wiki Anasayfa
 
 ## Hoş Geldiniz!
 

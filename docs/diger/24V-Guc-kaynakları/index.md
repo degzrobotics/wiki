@@ -1,5 +1,5 @@
 ---
-sidebar_position : 1
+sidebar_position : 3
 ---
 # Dönüşümün Gücü: 24V SMPS Güç Kaynakları
 ## Enerji Verimliliği ile Tanışın 

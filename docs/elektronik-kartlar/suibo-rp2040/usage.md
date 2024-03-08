@@ -40,3 +40,4 @@ IO18,IO19|I2C protokolü için SCL (Serial Clock Line) ve SDA (Serial Data Line)
 
 
 
+    
