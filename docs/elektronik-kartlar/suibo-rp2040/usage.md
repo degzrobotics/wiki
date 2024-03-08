@@ -9,6 +9,8 @@ sidebar_position : 3
 ## Pin diyagramı
 
 
+![Pin Diagramı](./image/suibo-kontrol-karti-5.png)
+
  ## Pin  Açıklamaları:
 
 
