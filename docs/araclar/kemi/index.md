@@ -9,4 +9,6 @@ import DocCardList from '@theme/DocCardList';
 
 # Kemi
 
+Bu ürünü almak için [tıklayınız]
+
 <DocCardList />

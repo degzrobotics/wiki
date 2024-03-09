@@ -10,4 +10,7 @@ import DocCardList from '@theme/DocCardList';
 
 ![Basınç sensorü](./image/basinc-sensoru.jpg)
 
+
+Bu ürünü almak için [tıklayınız]
+
 <DocCardList />

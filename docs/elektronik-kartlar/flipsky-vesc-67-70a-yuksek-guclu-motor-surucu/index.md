@@ -16,4 +16,7 @@ VESC motor sürücü ile;
 - Kendi scooterınızı tasarlayabilir veya scooterınızı modifiye edebilirsiniz.
 - Yüksek performanslı sualtı araçları tasarlayıp üretebilirsiniz.
 
+
+Bu ürünü almak için [tıklayınız]
+
 <DocCardList />

@@ -7,63 +7,23 @@ pagination_prev: null
 import DocCardList from '@theme/DocCardList';
 
 # Ürün Hakkında
-HiBase Güç Dağıtım Kartı üzerindeki anahtarlama elemanları sayesinde elektronik haznenin dışarısından anahtarlama yapmanızı sağlar. Statik manyetik anahtarlama ile güvenli bir şekilde sisteminizin gücünü kesebilir, açma-kapatma işlemlerini gerçekleştirebilirsiniz
-![Hi-Base](./image/hibase-gucdagıtım-karti-10.jpg)
 
-## Gerçek Zamanlı Enerji İzleme
+![Subdrive Lo-Base](./image/6S-BASE.jpg)
 
-Hi Base, enerji tüketiminizi anlık olarak izlemenize olanak tanır. Anlık voltaj ve güç izleme özelliği ile enerji kullanımınızı detaylıca görebilir ve optimize edebilirsiniz. Manyetik anahtarlama teknolojisi, fiziksel temas olmadan cihazınızı açıp kapatmanıza imkan verir; olumsuz durumlarda işlemci tarafından kapatma özelliği ile kullanım kolaylığı ve güvenliği artırır. Kartın üzerindeki on-off jesti ile işlemciye bağlayarak, karttan base'e 5v verince kartı uzaktan kapatabilir, 0V yollayınca kartı kullanıma açabilirsiniz. 
+:::info
+Yeni tasarımıyla Subdrive Lo-Base Güç Dağıtım Kartı çok yakında karşınızda!
+:::
 
-![Hi-Base](./image/hibase-gucdagıtım-karti-11.jpg)
-
-## Hassas Voltaj Ölçümü
-
-Yenilikçi base kartımız, hassas gerilim bölücü teknolojisi ile voltaj ölçme imkanı sunar ve NTC sensörü ile sıcaklık takibini kolaylaştırır. 45 x 45 mm boyutlarında kompakt bir tasarıma sahip olan kartımız, 6-48 Vdc giriş gerilimi ve 2s'den 12s'e kadar çeşitli pil türleri ile uyumludur, bu da onu geniş bir uygulama yelpazesinde ideal kılar.
-
-![Hi-Base](./image/hibase-gucdagıtım-karti-01.jpg)
-## Güçlü Performans
-Hi Base, 120 Amper'e kadar azami akım ve 60 Amper sürekli akım kapasitesi ile yüksek güç gerektiren projeler için tasarlanmıştır. Yüksek performans ve dayanıklılık sunar. Küçük boyutu ve geniş voltaj ile pil tipi uyumluluğu sayesinde, bu kart DIY projelerinden endüstriyel uygulamalara kadar her türlü enerji yönetimi ihtiyacına uygun bir çözüm sunar. 
+Subdrive Lo-Base Güç Dağıtım Kartı üzerindeki anahtarlama elemanları sayesinde elektronik haznenin dışarısından anahtarlama yapmanızı sağlar.
+Statik manyetik anahtarlama ile güvenli bir şekilde sisteminizin gücünü kesebilir, açma-kapatma işlemlerini gerçekleştirebilirsiniz.
 
 
-![Hi-Base](./image/hibase-gucdagıtım-karti-08.jpg)
+Yenilenen harici regülatör ile hem 5v hem de 12v kullanan cihazlarınızı aynı anda çalıştırabilirsiniz.
 
-## Kullanım Kolaylaştıran Jst Çıkışları
-HiBase kartımız, anlık enerji izleme ve kontrol imkanı sunuyor ve bu özelliklere kolayca erişmenizi sağlayan JST çıkışlarına sahip.**Voltage sensör JST çıkışı** sayesinde, voltaj değerlerinizi gerçek zamanlı olarak izleyebilir ve enerji kullanımınızı optimize edebilirsiniz. **Hall sensörü JST çıkışı**, manyetik alanları algılayan hall sensörlerini kartınıza bağlamanıza olanak tanır; bu sayede akımın yönünü ve şiddetini hassas bir şekilde ölçebilirsiniz. **Thermistör JST çıkışı** ile sıcaklık değişimlerini anlık olarak takip edebilir, sisteminizin her zaman ideal çalışma sıcaklığında olduğundan emin olabilirsiniz. En benzersiz özelliğimiz olan **on/off JST çıkışı** ile kartınızı uzaktan yönetin; 5V uygulayarak kolayca kapatın ve 0V vererek yeniden açın. Bu kart, enerji yönetimini sadece basit, kullanışlı ve etkili kılmakla kalmaz, aynı zamanda projelerinize üstün adaptasyon ve hassasiyet kazandırır. Enerji yönetiminizi bir üst seviyeye taşıyacak bu kartla, projelerinizde yeni ufuklar açın! 
+## Yenilikler
 
-
-![Hi-Base](./image/hibase-gucdagıtım-karti-10.jpg)
-
-## Özelleştirilebilir Soğutma Sistemi 
-
-Kartımızın temel versiyonu alüminyum levha içermese de, performansı öncelik veren müşterilerimiz için özelleştirilebilir bir seçenek olarak sunuyoruz: İsteğiniz üzerine kartınıza entegre edilebilecek bir alüminyum levha. Bu yenilikçi özellik, kartınızın çalışırken ısınmasını yavaşlatır ve aşırı sıcaklıkları önleyerek soğutma işlevi görür, bu sayede cihazınızın performansını artırır. Yoğun kullanım sırasında dahi, bu özel tasarım kartınızın sürekli ve güvenilir bir şekilde çalışmasını sağlar, böylece sistemleriniz her zaman serin ve stabil kalır. Alüminyum levha, özellikle yüksek performans gerektiren projelerde ve sıcaklık yönetiminin kritik olduğu enerji yönetimi uygulamalarında büyük bir avantaj sağlar. Performansınızı maksimize etmek, ısınma sorunlarını minimize etmek ve projelerinizi güçlendirmek için bu özelliği projelerinize entegre edebilirsiniz.
-
-## Özellikler
-
-
-
-
-|      Ana Özellikler           |              |
-|--------------------------|-----------------------|
-|Anlık akım voltaj ve güç izleme|Kullanıcının enerji tüketimini detaylı bir şekilde izlemesini sağlar.|
-|Manyetik anahtarlama|Fiziksel temas gerektirmeden, manyetik bir alan aracılığıyla cihazın açılıp kapanmasını sağlar.|
-|Harici anahtar|Kullanıcıların cihazı dışarıdan bir anahtar aracılığıyla kontrol etmesine olanak tanır.|
-|Soğutma |
-|**Elektriksel Karakteristik**|
-|Azami Akım| 120 Amper(120 ampere kadar test edilmiştir.)|
-|Sürekli Akım| 60 Amper|
-|Giriş Gerilimi| 6-48 Vdc|
-|Pil Türleri| 2s – 12s|
-|**Fiziksel**|
-|Boyut: 45 x 45 mm|
-
-## Kutu İçeriği
-
-- Hi-Base
-- Hall Effect Sensör
-- 14 Awg Siyah Silikon Kablo (8cm)
-- 14 Awg Kırmızı Silikon Kablo (8cm)
-- Erkek XT90 Konnektör
-- Dişi XT90 Konnektör
+- Akım ölçüm sensörü ile sisteminizin kullandığı akımı sürekli olarak ölçebilir ve güç tüketimini hesaplayabilirsiniz
+- Bağımsız anahtarlama elemanı sayesinde aydınlatmalar, tutucu kol veya görev birimi gibi  iki farklı cihazı cihazınız üzerinden anahtarlayabilirsiniz.
 
 ## Sık Sorulan Sorular
 

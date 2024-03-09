@@ -10,4 +10,8 @@ import DocCardList from '@theme/DocCardList';
 
 ![Blu Esc](./image/escblu.jpg)
 
+
+
+Bu ürünü almak için [tıklayınız]
+
 <DocCardList />

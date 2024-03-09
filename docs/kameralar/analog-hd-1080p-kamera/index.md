@@ -34,24 +34,6 @@ Değiştirilebilir lensler ile dilerseniz geniş açı dilerseniz standart gör�
 AHD Kameralar, analog kameralar gibi gürültüden etkilenebilir, bu yüzden analog kameralardakine benzer ekranlı kablolar ile görüntünün aktarılması uygun olacaktır. Ancak sinyal hattını bozabilecek herhangi bir etmen yoksa ekransız kablolar ile de kullanılabilir.
 :::
 
-## Teknik Özellikler
 
-| Özellik             | Değer                |
-|---------------------|----------------------|
-| Görüntü Çözünürlüğü | 1920×1080            |
-| Gecikme             | `<100ms`             |
-| Lens                | 3mm                  |
-| Lens Tipi           | Değiştirilebilir M12 |
-| Besleme Gerilimi    | 12V                  |
-
-## Kutu İçeriği
-
-- Analog HD 1080P Kamera
-- JST XH 2.54mm 3 Pin Kablo
-- LM7512 Lineer Regülatör
-- Lens
-- Lens Sabitleme ve Vidaları
-
-<iframe width="100%" height="574" src="https://www.youtube.com/embed/gdNUwNv4al0" title="ANALOG HD (AHD) KAMERALAR NASIL KULLANILIR" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <DocCardList />

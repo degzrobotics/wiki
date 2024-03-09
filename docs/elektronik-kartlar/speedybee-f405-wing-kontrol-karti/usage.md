@@ -2,7 +2,7 @@
 sidebar_position : 3
 ---
 
-# Kılavuz ve Kurulum
+# Ürünün Kılavuzu ve Kurulumu
 
 ## ArduPilot Stable Firmware
 

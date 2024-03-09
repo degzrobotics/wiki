@@ -8,4 +8,7 @@ import DocCardList from '@theme/DocCardList';
 
 # Deringezen X
 
+
+Bu ürünü almak için [tıklayınız]
+
 <DocCardList />

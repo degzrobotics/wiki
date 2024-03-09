@@ -1,17 +1,15 @@
 ---
 sidebar_position : 1
 ---
-# Sualtı İnovasyonunun Zirvesi: Neo Penetratör
+# Ürünün Kullanımı
+
 ## Sızdırmazlığın Yeniden Tanımı
 
 Sualtı teknolojisinde çığır açan bir yenilik olan Neo Penetratör, yüksek basınç altında bile kusursuz bir sızdırmazlık sunarak, sualtı araçları için vazgeçilmez bir çözüm haline gelmiştir. Bu bağlantı elemanı, sualtı araçlarının kompleks görevlerini sorunsuz bir şekilde yerine getirebilmesi için kabloların güvenli ve sızdırmaz bir şekilde iç mekana taşınmasını sağlar.
 
-
 ![Neo-penetratör](./image/neo-penetrator-3.jpg)
 
-
-
-## Üstün Malzeme ve Yapı Kalitesi 
+## Üstün Malzeme ve Yapı Kalitesi
 
 Her türlü zorlu sualtı koşuluna dayanıklı olarak tasarlanmış Neo Penetratör,  plastik seçeneği ile her projenin ihtiyacına uygun çözümler sunar. Epoksi uygulama imkanı sayesinde daha da güçlendirilen bu yapı, sualtı araçlarının en zorlu görevlerde bile yüksek performans göstermesini sağlar.
 

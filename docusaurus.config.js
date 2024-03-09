@@ -195,11 +195,10 @@ const config = {
         }
       },
       announcementBar: {
-        id: 'supportus-5', // Güncelleme yaptıkça id arttırılacak
+        id: 'duyuru-6', // Güncelleme yaptıkça id arttırılacak
         content:
-        'Suibo yakında satışta! <a target="_blank" rel="noopener noreferrer" href="https://degzrobotics.com/komponentler/">Diğer Ürünlere Gözat!</a>',
+        'Degz\'in yeni ürettiği <b>Suibo, Sublink, Hi-Base</b> ve birçok yeni ürün satışta! <a target="_blank" rel="noopener noreferrer" href="https://degzrobotics.com/komponentler/">Satın almak için mağazaya git!</a>',
       isCloseable: true,
-      
       }
 
     }),
