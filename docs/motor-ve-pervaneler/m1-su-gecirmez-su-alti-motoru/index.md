@@ -16,15 +16,4 @@ Deringezen (insansız sualtı aracı) motoru olarak bilinen bu motor, tamamen se
 
 ![M1 Su geçirmez sualtı motoru](./image/motorlar-5.jpg)
 
-
-## M1 Su Geçirmez Su Altı Motoru Teknik Özellikleri
-
-- Voltaj Aralığı : 3s-6s (12v – 24v)
-- Sürekli Akım : 8A
-- Peak akım : 12a 10sn
-- Voltaj – devir ilişkisi : 350kv
-- Anodize alüminyum gövde
-- Tuzlu suya dayanıklı rulmanlar
-- Tamamen izole edilmiş, sargılar.
-
 <DocCardList />
