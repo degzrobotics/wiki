@@ -9,6 +9,7 @@ sidebar_position : 3
 ## Pin diyagramı
 
 
+![Degz Suibo](./image/suibo.png)
  ## Pin  Açıklamaları:
 
 
