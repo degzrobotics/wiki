@@ -16,7 +16,9 @@ Hot-plug özelliği sayesinde çalışırken takılıp çıkarılabilir ve güve
 
 ![Sublink iletişim Modülü](./image/sublink-5.jpg)
 
- Python tabanlı bilgisayar arayüzü, otonom kontroller için özel olarak kodlandı. 400 metreye kadar iletişim menzili ve analog çözücülerle uyumlu yapısıyla Sublink iletişim modülü, su altı sistemleri ve kablolu robotik uygulamalarda güvenilir bir çözüm sunar. RS485 veri standardına sahip, su altı istasyonuyla 4’lü kablo ile iletişim, 5V besleme gerilimi ve Windows/MacOS uyumlu yazılımlarla Sublink, teknolojiyi verimli bir şekilde kullanmak isteyenler için ideal bir tercihtir.Sublink ile kullanıma tam uygundur.
+ İletişim Kartı Sublink, 400 metreye kadar iletişim menziline sahiptir ve analog çözücülerle uyumlu yapıya sahiptir. Bu özellikleriyle su altı sistemleri ve kablolu robotik uygulamalarda güvenilir bir çözüm sunar.
+
+Derin Diver ekosistemi ile çalışmak üzere tasarlanmıştır. Dive Control Arayüzü ve Derin Commander otopilot komut yazılımı ile tam uyumlu çalışır. 400 metreye kadar iletişim menzili ve analog çözücülerle uyumlu yapısıyla Sublink iletişim modülü, su altı sistemleri ve kablolu robotik uygulamalarda güvenilir bir çözüm sunar. RS485 veri standardına sahip, su altı istasyonuyla 4’lü kablo ile iletişim, 5V besleme gerilimi ve Windows/Linux/MacOS/Android uyumlu yazılımlarla Sublink, teknolojiyi verimli bir şekilde kullanmak isteyenler için ideal bir tercihtir. Su Altı Aracı Kontrol Kartı Suibo ile kullanıma tam uygundur.
 
 ## Güvenli bağlantı
 
@@ -27,7 +29,7 @@ USB arayüzü üzerinden hem yüksek çözünürlüklü görüntü hem de kontro
 ## Otonom sistemler için geliştirildi
 
 
-Sublink’un bilgisayar arayüzü phyton üzerinde kodlanmıştır ve otonom kontroller için özel olarak geliştirilmiştir. Bilgisayar arayüzünden joystick komutlarını veya otonom yönlendirmeleri direkt olarak araca aktarabilirsiniz.
+Sublink, Derin Diver ekosistemi ile birlikte çalışarak otonom sistemler için gereken haberleşmeyi kolaylaştırır. Dive Control arayüzü ile Derin Diver yazılımının tam kontrolünü sağlar. Python ile hazırlanan Derin Commander otopilot komut kütüphanesi ile otonom komutları kolaylıkla yollayabilirsiniz.
 
 ## Yüksek Menzil
 
@@ -48,12 +50,11 @@ Standart analog kamera ve yüksek çözünürlüklü ahd kamera ile satın alın
 | Kamera İletişimi                               | Analog, Analog HD |
 | Su altı istasyonu ile 4’lü kablo ile iletişim  | (A, B, AV ve GND) |
 | Besleme Gerilimi                               | 5v                |
-| Uyumlu Yazılımlar                              | Windows / MacOS   |
+| Uyumlu Yazılımlar                              | Windows / Linux / MacOS / Android |
 
 ## Kutu İçeriği
 
 - Serial İletişim Modülü
-- Comm Shield
 - JST SH 1.0mm 4 Pin Kablo
 - JST SH 1.0mm 2 Pin Kablo
 - Dişi 2 Pin Jumper
