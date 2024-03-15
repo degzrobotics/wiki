@@ -19,12 +19,12 @@ sidebar_position : 3
  
 |Port A                 | Özellikler                                                                                                                                                                                                                                     |
 |----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|VIN| Harici güç kaynağı voltaj girişi.|
-5V| 5 volt güç çıkışı..|
-|GND| Toprak bağlantısı (ground).
-|3V3 |3.3 volt güç çıkışı.
+|VIN| Harici güç kaynağı voltaj girişi|
+5V| 5 volt güç çıkışı|
+|GND| Toprak bağlantısı (ground)
+|3V3 |3.3 volt güç çıkışı
 |BOOT| Bu pin, genellikle geliştirme kartınızın firmware'ini yüklemek veya güncellemek için kullanılır.|
-RUN| Cihazı çalıştırma/kapatma kontrolü.|
+RUN| Cihazı çalıştırma/kapatma kontrolü|
 |SWD|SWD pinleri, kartınızın mikrodenetleyicisinin hata ayıklanması için kullanılan bir protokoldür.
 |IO29, IO28, IO27, IO26| Genel amaçlı giriş/çıkış pinleri.
 
