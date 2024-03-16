@@ -19,6 +19,7 @@ sidebar_position : 3
  
 |Port A                 | Özellikler                                                                                                                                                                                                                                     |
 |----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+<<<<<<< HEAD
 |Vin (5V)| Harici güç kaynağından 5V besleme için kullanılır.|
 |3.3V | Kart üzerindeki sistemler için 3.3V güç çıkışı sağlar.|
 |GND (Ground)| -|
@@ -33,6 +34,16 @@ sidebar_position : 3
 |GP2 (SCL) ve GP3 (SDA)| I2C iletişim protokolü için saat (SCL) ve veri (SDA) hattı olarak kullanılır.|
 |GP6 (MISO), GP7 (MOSI), GP17 (CS), GP16 (SCK)| SPI iletişim protokolü için MISO, Master cihazdan Slave cihaza veri almak, MOSI Slave'ten Master'a veri göndermek, CS (Chip Select) aktif edilecek cihazı seçmek ve SCK (Serial Clock) saat sinyali göndermek için kullanılırlar.|
 |GP10, GP11, GP12, GP13| Genel amaçlı pinlerdir ve çeşitli giriş/çıkış işlevleri için programlanabilirler. |  
+=======
+|VIN| Harici güç kaynağı voltaj girişi|
+5V| 5 volt güç çıkışı|
+|GND| Toprak bağlantısı (ground)
+|3V3 |3.3 volt güç çıkışı
+|BOOT| Bu pin, genellikle geliştirme kartınızın firmware'ini yüklemek veya güncellemek için kullanılır.|
+RUN| Cihazı çalıştırma/kapatma kontrolü|
+|SWD|SWD pinleri, kartınızın mikrodenetleyicisinin hata ayıklanması için kullanılan bir protokoldür.
+|IO29, IO28, IO27, IO26| Genel amaçlı giriş/çıkış pinleri.
+>>>>>>> 28919ba2bf2d2e08cc2b17500a0a5607b95f12ff
 
 
 
