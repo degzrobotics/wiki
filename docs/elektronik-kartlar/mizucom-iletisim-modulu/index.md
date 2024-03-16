@@ -10,40 +10,35 @@ import DocCardList from '@theme/DocCardList';
 
 ## Yüksek performans, düşük fiyat
 
-Yüksek performans, düşük fiyat prensibiyle tasarlanan Mizucom iletişim modülü ile kablolu kontrol artık daha etkili ve uygun maliyetli. RS-485 iletişim mimarisi üzerine kurulan bu iletişim kartı, özel robotik sistemlerde düşük gecikme ve yüksek performans sağlamak için özel olarak geliştirildi.
-
 
 :::warning
-Bu ürünün üretimi sonlandırılmıştır, stok bitiminde devamı üretilmeyecektir.
+Bu ürün satıştan kalkmıştır. Bu yüzden güncellenen [Degz Sublink](https://degzrobotics.com/product/iletisim-karti-degz-sublink/)'e bakabilirsiniz.  
+
 :::
-
-![Mizucom iletişim Modülü](./image/commshield2-Buyuk.jpg)
-
-Hot-plug özelliği sayesinde çalışırken takılıp çıkarılabilir ve güvenli bağlantı sunar. Mizucom iletişim modülü, tek kablo üzerinden hem yüksek çözünürlüklü görüntü hem de kontrol sinyali iletişimini USB arayüzü üzerinden bilgisayarınıza aktarır.
 
 ![Mizucom iletişim Modülü](./image/serialusb3-Buyuk.jpg)
 
- Python tabanlı bilgisayar arayüzü, otonom kontroller için özel olarak kodlandı. 400 metreye kadar iletişim menzili ve analog çözücülerle uyumlu yapısıyla Mizucom iletişim modülü, su altı sistemleri ve kablolu robotik uygulamalarda güvenilir bir çözüm sunar. RS485 veri standardına sahip, su altı istasyonuyla 4’lü kablo ile iletişim, 5V besleme gerilimi ve Windows/MacOS uyumlu yazılımlarla Mizucom, teknolojiyi verimli bir şekilde kullanmak isteyenler için ideal bir tercihtir. Mizu ile kullanıma tam uygundur.
+Mizucom iletişim modülü, RS-485 iletişim standardını kullanarak özellikle su altı ve diğer kablolu robotik sistemler için tasarlanmış bir iletişim kartıdır. Bu modül, yüksek performanslı ve düşük gecikmeli veri iletimi sağlamak üzere geliştirilmiştir. Hot-plug özelliği ile donatılmış olan bu kart, çalışırken güvenli bir şekilde takılıp çıkarılabilir. Tek bir USB kablo üzerinden hem yüksek çözünürlüklü görüntü hem de kontrol sinyallerini bilgisayara aktarabilir. Python tabanlı bir bilgisayar arayüzüne sahiptir ve 400 metreye kadar iletişim menzili sunar. Analog çözücülerle uyumlu yapısı sayesinde, kullanıcılar çeşitli görüntüleme cihazlarını kolayca entegre edebilirler. Mizu geliştirme kartı ile tam uyumlu olan Mizucom, özellikle otonom sistemler için geliştirilen yazılım kontrolleri ile donatılmıştır, bu da onu robotik uygulamalar için güvenilir bir çözüm haline getirir.
 
-## Güvenli bağlantı
+# Ürünün Teknik Özellikleri
 
-Mizucom hot-plug özelliği sayesinde çalışırken takılıp çıkarılabilir ve çalışmaya devam eder. Yazılımsal kontroller sayesinde, araç kablo kopması durumunda ayarlandığı şekilde çalışmaya devam edebilir veya durabilir.
+## Kart Hakkında
 
-## Tek kablo çoklu iletişim
+| Veriyolu Standardı                             | RS485             |
+|------------------------------------------------|-------------------|
+| Kamera İletişimi                               | Analog, Analog HD |
+| Su altı istasyonu ile 4’lü kablo ile iletişim  | (A, B, AV ve GND) |
+| Besleme Gerilimi                               | 5v                |
+| Uyumlu Yazılımlar                              | Windows / MacOS   |
 
-USB arayüzü üzerinden hem yüksek çözünürlüklü görüntü hem de kontrol sinyalini aynı kablodan bilgisayara aktarabilirsiniz.
-
-## Otonom sistemler için geliştirildi
 
 
-Mizucom’un bilgisayar arayüzü phyton üzerinde kodlanmıştır ve otonom kontroller için özel olarak geliştirilmiştir. Bilgisayar arayüzünden joystick komutlarını veya otonom yönlendirmeleri direkt olarak araca aktarabilirsiniz.
+## Kullanım Diyagramı
 
-## Yüksek Menzil
+![Kullanım Diagramı](./image/Sublink-L-Diagram-Datasheet.jpeg)
 
-Mizucom 400 metreye kadar kablolu iletişim sağlayabilir. İnsansız sualtı sistemleri ve diğer kablolu robotik uygulamalarında kullanılabilir.
+:::warning
+Bu ürün satıştan kalkmıştır. Bu yüzden güncellenen [Degz Sublink](https://degzrobotics.com/product/iletisim-karti-degz-sublink/)'e bakabilirsiniz.  
 
-## Analog çözücüler ile kolay kullanım
+:::
 
-Standart analog kamera ve yüksek çözünürlüklü ahd kamera ile satın alınan analog çözücüler direkt olarak Mizucom kartının üzerine entegre edilebilir.
-
-<DocCardList />

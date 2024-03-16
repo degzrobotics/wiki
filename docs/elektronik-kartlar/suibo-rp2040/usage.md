@@ -19,26 +19,21 @@ sidebar_position : 3
  
 |Port A                 | Özellikler                                                                                                                                                                                                                                     |
 |----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|VIN| Harici güç kaynağı voltaj girişi.|
-5V| 5 volt güç çıkışı..|
-|GND| Toprak bağlantısı (ground).
-|3V3 |3.3 volt güç çıkışı.
-|BOOT| Bu pin, genellikle geliştirme kartınızın firmware'ini yüklemek veya güncellemek için kullanılır.|
-RUN| Cihazı çalıştırma/kapatma kontrolü.|
-|SWD|SWD pinleri, kartınızın mikrodenetleyicisinin hata ayıklanması için kullanılan bir protokoldür.
-|IO29, IO28, IO27, IO26| Genel amaçlı giriş/çıkış pinleri.
+|Vin (5V)| Harici güç kaynağından 5V besleme için kullanılır.|
+|3.3V | Kart üzerindeki sistemler için 3.3V güç çıkışı sağlar.|
+|GND (Ground)| -|
+|5V| 5V'luk güç çıkışı sağlar.|
+|Buzzer| Ses çıkışı için kullanılan bir buzzer'a bağlanabilir.|
+|SWD ,SWC | SWC ve SWD pinleri, mikrodenetleyicinin seri tel hata ayıklama (debugging) için kullanılır.|
+|**Port B**               |    **Özellikler** |                                                                                            
+| GP29 | ADC pinidir ve analog sinyalleri dijital verilere dönüştürmek için kullanılır.|
+|GP24, GP23, GP22, GP21, GP20, GP19, GP15| PWM sinyali üretebilen pinlerdir ve LED'lerin parlaklığını ayarlamak veya motor hızını kontrol etmek gibi işler için kullanılırlar.    |                                                                                         
+|**Port C**                 | **Özellikler**                                                                                               
+|GP0 (TX) ve GP1 (RX)| Seri iletişim için kullanılır, TX veri göndermek, RX ise veri almak içindir.|
+|GP2 (SCL) ve GP3 (SDA)| I2C iletişim protokolü için saat (SCL) ve veri (SDA) hattı olarak kullanılır.|
+|GP6 (MISO), GP7 (MOSI), GP17 (CS), GP16 (SCK)| SPI iletişim protokolü için MISO, Master cihazdan Slave cihaza veri almak, MOSI Slave'ten Master'a veri göndermek, CS (Chip Select) aktif edilecek cihazı seçmek ve SCK (Serial Clock) saat sinyali göndermek için kullanılırlar.|
+|GP10, GP11, GP12, GP13| Genel amaçlı pinlerdir ve çeşitli giriş/çıkış işlevleri için programlanabilirler. |  
 
- Port B                | Özellikler                                                                                                                                                                                                                                     |
-|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     IO24,IO25         |      PWM (Pulse Width Modulation) sinyalleri için kullanılır..|
-IO18,IO19|I2C protokolü için SCL (Serial Clock Line) ve SDA (Serial Data Line).       SDA, cihazlar arasında veri iletimini sağlayan veri hattıdır. SCL ise, bu veri transferinin ne zaman yapılacağını belirleyen, yani veri paketlerinin zamanlamasını senkronize eden saat hattıdır. I2C bus'ı üzerinden birden fazla cihaz, bu iki hat üzerinden birbirleriyle haberleşebilir.|
-|IO16,IO17| UART protokolü için RX (Receive Data) ve TX (Transmit Data). RX (Receive Data) ve TX (Transmit Data): UART, seri haberleşme için kullanılan bir protokoldür ve genellikle iki cihaz arasında noktadan noktaya veri aktarımı yapmak için kullanılır. RX, verilerin alındığı hattı belirtirken, TX cihazın veri gönderdiği hattı ifade eder.|
-|IO12,IO15| SPI protokolü için MISO (Master In Slave Out), MOSI (Master Out Slave In), SCK (Serial Clock), ve CS (Chip Select). SPI (Serial Peripheral Interface) protokolünde kullanılır. SPI, yüksek hızda seri veri aktarımı için kullanılan bir protokoldür ve genellikle sensörler, SD kartlar gibi alt sistemlerle haberleşmede kullanılır. MISO ve MOSI, ana cihaz ile alt cihazlar arasında iki yönlü veri akışını sağlar. SCK, veri aktarımının saat sinyalini belirler ve verilerin ne zaman okunup yazılacağını senkronize eder. CS ise bağlı birden fazla alt cihaz arasında, hangi cihazın haberleşme sırasında aktif olacağını belirleyen bir sinyaldir|
-| IO8,IO11 | PWM veya genel amaçlı giriş/çıkış pinleri. |
-
-|Port C                 | Özellikler                                                                                                                                                                                                                                     |
-|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|IO15 - IO24 | Bunlar toprak bağlantısı için GND pinleridir.  
 
 
 

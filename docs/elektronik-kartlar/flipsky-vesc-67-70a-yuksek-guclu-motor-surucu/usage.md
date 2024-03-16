@@ -10,9 +10,9 @@ sidebar_position : 2
 
 
 
-## Pin Açıklamaları:
+## Port Açıklamaları:
 
-| Pin                   | Özellik                                                                                                                                                                                                                                     |
+| Port                  | Özellik                                                                                                                                                                                                                                     |
 |----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |1)  CAN             | Controller Area Network (CAN) bus sistemi için bir bağlantı noktasıdır. CAN, özellikle araçlarda kullanılan ve birçok farklı elektronik kontrol ünitesinin (ECU) birbiriyle iletişim kurmasını sağlayan bir ağ protokolüdür.                                                                                                                                  |
 2 )SENSE     | Bu giriş, genellikle motorun veya bataryanın durumunu algılayan sensörlerden gelen sinyalleri okumak için kullanılır. Örneğin, bir sıcaklık sensörü buraya bağlanarak motorun veya bataryanın aşırı ısınıp ısınmadığını kontrol edebilir.|
@@ -20,37 +20,25 @@ sidebar_position : 2
 |4 ) SWD                      |  Serial Wire Debug (SWD) portu, mikrodenetleyicinin programlanması ve hata ayıklaması için kullanılır. SWCLK (Serial Wire Clock) ve SWDIO (Serial Wire Data I/O) pinleri, programlama ve hata ayıklama sırasında veri aktarımı ve senkronizasyonu için gereklidir.|
 |5 ) USB  | Bu, Universal Serial Bus (USB) bağlantı noktasıdır ve kartın bilgisayar üzerinden programlanması veya bilgisayar ile veri alışverişi yapması için kullanılır.|
 
-## Pin Portlarının  Açıklamaları
+## Pin   Açıklamaları
  
 | CAN Portu                   | Özellik                                                                                                                                                                                                                                     |
 |----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |CAL           | Bu pin, genellikle kalibrasyon için kullanılır.|
 CAH           |Genellikle kalibrasyon veya ayar hatları için kullanılabilir.|
 |5V|  USB üzerinden sağlanan 5 volt güç çıkışı.
-
-
-
-
-
-|  SENSE  Portu                   | Özellik                                                                                                                                                                                                                                     |
-|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  **SENSE  Portu**                   | **Özellik**                                        |                                                          
 |H3, H2, H1      |  Bu pinler genellikle harici cihazlarla iletişim için kullanılır. Özel işlevleri kartın tasarımına ve kullanılan protokole göre değişebilir.
 TMP |bir sıcaklık sensörü için giriş pinidir.|
 |5V|Porta güç sağlayan 5 volt çıkış.|
- 
-
-|COMM  Portu                   | Özellik                                                                                                                                                                                                                                     |
-|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|**COMM  Portu**                  | **Özellik**   |                                               
 |ADC3, ADC2, ADC1         | Analog-Digital Converter, yani analog-dijital dönüştürücü girişleri.Harici sensörlerden analog sinyalleri alır ve mikrodenetleyicinin işleyebileceği dijital sinyallere dönüştürür.
 RX/SDA | Bu pin hem UART alıcı (RX) hem de I²C veri hattı (SDA) olarak işlev görür.|
 TX/SCL |: Bu pin hem UART verici (TX) hem de I²C saat hattı (SCL) olarak işlev görür.|
 |GND| GND|
 |3.3V|Porta güç sağlayan 3.3 volt çıkış.|
 |5V|Porta güç sağlayan 5 volt çıkış.
-
- 
-| SWD Portu                   | Özellik                                                                                                                                                                                                                                     |
-|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **SWD Portu**                   | **Özellik**                                                  |
 |3.3V            | Porta güç sağlayan 3.3 volt çıkış.|
 SWCLK             |Serial Wire Clock, yani seri saat hattı. SWD (Serial Wire Debug) için saat sinyalini sağlar.|
 |GND| GND|

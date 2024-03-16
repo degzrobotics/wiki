@@ -10,32 +10,35 @@ import DocCardList from '@theme/DocCardList';
 
 ![Sublink Hi-com iletişim modülü](./image/IMG_5859-scaled.jpg)
 
-Sublink Hi-com iletişim modülü, kolay kullanım ve minimum alan gereksinimleriyle dikkat çeker. USB ile bağlanabilen bu modül, AC_L ve AC_N kablolarını karşılıklı bağladığınızda hızlı iletişime geçer, standart bir ethernet bağlantısını simgeler.
+Sublink Hi-com, USB üzerinden beslenebilen ve küçük boyutlarda (43x38 mm) tasarlanmış bir iletişim modülüdür. İki tel kullanarak, 300 metre mesafeye kadar 200 Mbps bağlantı hızı ile ethernet iletişimi sağlayabilir. Düşük güç tüketimi özelliği, bataryalı sistemler için verimliliği artırırken, su altı araçları gibi zorlu ortamlarda güvenilir iletişim sunmak için test edilmiş ve optimize edilmiştir. TCP/IP, IGMP, CSMA/CA ve QoS gibi standart protokolleri destekleyen bu modül, güvenli veri transferi için AES 128 bit şifreleme kullanır ve OFDM modülasyon tipi ile çalışır. Windows, Linux ve MacOS işletim sistemleriyle uyumlu olan Sublink Hi-com, küçük boyutlu cihazların yanı sıra çeşitli uygulamalar için esnek ve yüksek hızlı bir çözüm sunar.
 
-Küçük boyutları (43×38 mm), ürünlerinizde minimum yer kaplar ve küçük cihazlar için idealdir. Yüksek hızlı ethernet iletişimi için sadece 2 kablo kullanır ve 300 metre mesafeye kadar iletim sağlar. Saatlik 3.3W düşük güç tüketimi ile bataryalı sistemlerde uzun kullanım süresi sunar. Sublink Hi-com, su altı araçları için test edilmiş ve geliştirilmiş, su altı iletişiminde güvenilir bir çözümdür.
 
-## Kolay kullanım
 
-![Sublink Hi-com iletişim modülü](./image/PLCcommUSB.001-768x330.png)
 
-Sublink – Hi-com USB iki kabloyu (AC_L ve AC_N) karşılıklı bağlayıp güç verdiğiniz anda iletişime hazır hale gelir. Bu basit bağlantı standart bir ethernet bağlantısını simüle eder. Standart ethernet çıkışlarından uyumlu herhangi cihaza direkt bağlantı sağlayabilirsiniz.
+# Ürünün Teknik Özellikleri
 
-## Küçük alanlar için uygun
 
-43×38 mm boyutları ile ürünlerinizde minimum yer kaplar ve küçük boyutlu cihazlar için tam bir biçilmiş kaftan!
+| Özellik                            | Değer                      |
+|------------------------------------|----------------------------|
+| Menzil (En yüksek hız için)        | 300 metre                  |
+| Bağlantı Hızı                      | 200 Mbps                   |
+| Besleme Voltajı                    | 3.7V – 5V                  |
+| USB Güç Besleme ve İetişim         | Mevcut                     |
+| İşletim Sistemi                    | Windows / Linux / MacOS    |
+| Güç Tüketimi                       | 3.3Watt/Saat               |
+| Boyutlar MM (En x Boy x Yükseklik) | 43x38x27                   |
+| Bağlantı Tipi                      | USB Arayüzü                |
+| Çalışma Sıcaklığı                  | 0-70 C°                    |
+| Ağırlık                            | 30 gram                    |
+| İletişim Standardı                 | IEEE 802.3                 |
+| Güvenlik                           | AES 128 Bit Şifreleme      |
+| Protokol                           | TCP/IP, IGMP, CSMA/CA, QoS |
+| Modülasyon Tipi                    | OFDM                       |
+| Sublink Hi-com Uyumluluk           | Tam uyumlu                 |
+| Sublink Lo-com ile Uyumluluk       | Uyumlu Değil               |
 
-## Yüksek hız için yalnız 2 kablo
 
-Sublink – Hi-com iletişim modülü 2 kablo üzerinden yüksek hızda ethernet iletişimi kurulması için geliştirilmiş iletişim modülüdür. Standart ethernet iletişim protokolünü, 2 kablo üzerinden 300 metre mesafeye kadar iletebilir.
+**Bu ürünü almak için [tıklayınız](https://degzrobotics.com/product/sublink-hi-com-usb/).** 
 
-## Düşük enerji tüketimi
-
-Saatlik 3.3W düşük güç tüketimi ile bataryalı sistemlerde yüksek kullanım süresi sağlar. İletişim modülünü standart bir USB modülü üzerinden rahatlıkla besleyebilirsiniz.
-
-## Sualtı araçlarında kullanıma hazır
-
-Sublink – Hi-com yüksek hızlı modülü insansız sualtı araçları üzerinde test edilmiş ve geliştirilmiştir. Örnek kullanım aşağıdaki gibidir.
-
-![Sublink Hi-com iletişim modülü](./image/EthernetUSB.001-711x400.jpeg)
 
 <DocCardList />

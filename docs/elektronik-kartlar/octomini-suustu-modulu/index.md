@@ -9,21 +9,14 @@ import DocCardList from '@theme/DocCardList';
 # Ürün Hakkında
 
 :::warning
-Bu ürünün üretimi sonlandırılmıştır, stok bitiminde devamı üretilmeyecektir.
+Bu ürün satıştan kalkmıştır. Bu yüzden güncellenen [Degz Suibo](/elektronik-kartlar/suibo-rp2040/)'ya bakabilirsiniz.  
+
 :::
 
 ![Octomini Suüstü](./image/octomini-Ozel.jpg)
+Octomini, Arduino tabanlı bir kumanda modülüdür ve özellikle su üstü robotik projeler için tasarlanmıştır. Bu modül, iki adet 2 eksenli joystick, üç adet düğme, bir analog kamera çözücü ve bir OLED ekran bağlanabilmesine olanak tanır. Octomini'nin yazılımı ve donanımı tamamen açık kaynaklıdır, bu da kullanıcıların yazılımı indirip, düzenleyip ve projeye katkıda bulunabilmeleri anlamına gelir. Bu özellikler, kullanıcılara esnek bir kullanım ve projelerine özelleştirilebilir kontrol sağlar. Octomini, kullanıcıların kendi robotik sistemlerini geliştirebilmeleri için gerekli araçları ve adaptasyon kabiliyetini sunar.
 
-## Octomini ile kumanda modülü
 
-Arduino temelli bir proje ile kumanda modülü yapabilirsiniz. Joystick tasarımını sadeleştirmek için üretilen bu modüle şunları bağlayabilirsiniz:
-
-- 2 adet 2 Eksen joystick
-- 3 adet Button
-- Analog Kamera Çözücü
-- Oled Ekran
-
-![Octomini Suüstü](./image/octk2-Ozel.jpg)
 
 :::info
 Octomini tamamiyle açık kaynaklı yazılımı ve donanımdan oluşur.
@@ -34,4 +27,13 @@ Tether diagramı;
 
 ![Octomini Suüstü](./image/konnektor_pin.jpg)
 
-<DocCardList />
+
+
+## Pin Özellikleri 
+| Pin                   | Özellik                                                                                                                                                                                                                                   |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| N/C (No Connection) | Bu pin herhangi bir bağlantı için kullanılmaz.   |
+|GND (Ground) | Cihazın elektriksel topraklaması için kullanılır ve genellikle devrenin negatif kutbuna bağlanır.|
+|AV | Genellikle "Analog Voltage" veya "Audio/Video" için kullanılır. Spesifik kullanım bağlamına bağlı olarak değişebilir.|
+|CANL | CAN (Controller Area Network Low)  bus sisteminde düşük voltaj sinyal hattıdır ve veri iletişiminde kullanılır.|
+|CANH  | CAN (Controller Area Network High) bus sisteminde yüksek voltaj sinyal hattıdır ve veri iletişiminde kullanılır.  |                                               

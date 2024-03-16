@@ -8,7 +8,7 @@ sidebar_position : 3
 
 Degz’in yeni regülatörü ile tanışın. Projeleriniz için güvenle kullanabileceğiniz bu kart sizlere ayarlanabilir çıkış gerilimi sunuyor. 
 
-![5V 12V Regülator Pin Diyagrammı](./image/regulator4.png)
+![5V 12V Regülator Pin Diyagrammı](./image/regulator.png)
 
 ## Pin Bağlantıları
 
