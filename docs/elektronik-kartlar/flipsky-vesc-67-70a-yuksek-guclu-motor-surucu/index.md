@@ -47,9 +47,9 @@ Motor sürücünüzü VESC arayüzü ile kolaylıkla programlayabilirsiniz.
 Programlayıcıyı indirmek için [bu linki](https://vesc-project.com/vesc_tool) kullanabilirsiniz.
 
 
-:::info
+
 
 **Bu ürünü almak için [tıklayınız](https://degzrobotics.com/product/vesc-6-6-70a-yuksek-guclu-motor-surucu-flipsky/).** 
-:::
+
 
 <DocCardList />

@@ -19,3 +19,8 @@ sidebar_position : 3
 | D+                              | USB veri artı hattıdır. USB veri iletişiminde pozitif veri hattı olarak kullanılır.|
 |D-|USB veri eksi hattıdır. USB veri iletişiminde negatif veri hattı olarak kullanılır.|
 |VBUS|USB güç hattıdır ve USB bağlantısı üzerinden 5V besleme voltajını taşır.|
+
+
+## Kullanım Diyagramı
+
+![Kullanım Diagramı](./image/Sublink-L-Diagram-Datasheet.jpeg)

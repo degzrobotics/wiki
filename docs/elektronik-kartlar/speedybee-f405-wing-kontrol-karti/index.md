@@ -54,7 +54,7 @@ SpeedyBee F405 Wing, otonom uçuş yeteneklerine sahip bir uçuş kontrol kartı
 | Wireless Configuration (long press BOOT button for 6 seconds to switch modes)                          	| BLE mode, connect to Speedybee APP. / Wi-Fi mode, connect to QGroundControl APP, Speedybee APP, MissionPlanner, etc. / Classic Bluetooth SPP mode, connect to QGroundControl APP, MissionPlanner 	|
 | LED strip controller (short press BOOT button to switch effects, long press 2 seconds to switch modes) 	|  4x WS2812 LED strip connectors, adjustable colors and flashing modes / Max 5.2V 1.3A, supports around 70pcs 5050 WS2812 LED beads                                                               	|
 | On-board battery level indicator                                                                       	| 4x RGB indicator LED for battery level display by number of lights                                                                                                                                	|
-| Weight                                                                                                 	| 4.2g                                                                                                                                                                                              
+| Weight                                                                                                 	| 4.2g|                                                                                                                                                                                              
 **Bu ürünü almak için [tıklayınız](https://degzrobotics.com/product/speedybee-ucus-karti-seti/).** 
 
 
