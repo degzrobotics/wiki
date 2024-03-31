@@ -8,8 +8,8 @@ import DocCardList from '@theme/DocCardList';
 
 # Deringezen Pro
 
-Endüstriyel kullanım için tasarlanmış olan Deringezen-Pro sizlerin işlerini kolaylaştırarak verimliliğinizi arttıracak. 
+Designed for industrial use, Deringezen-Pro will make your work easier and increase your productivity. 
 
-Bu ürünü almak için [tıklayınız]
+[Click here] to buy this product
 
 <DocCardList />
