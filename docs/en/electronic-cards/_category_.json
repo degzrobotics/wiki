@@ -1,9 +1,9 @@
 {
-    "label": "Elektronik Kartlar", 
-    "position": 3,
-    "link": {
-      "type": "generated-index",
-      "description": "Degz Robotics in tüm elektronik kart modelleri hakkında bilgilere gözatın."
+  "label": "Electronic Cards", 
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Browse information about all electronic board models from Degz Robotics."
     }
   }
   
