@@ -26,5 +26,25 @@
   "link.title.🐧 Daha Fazla": {
     "message": "🐧 More",
     "description": "The title of the footer links column with title=🐧 Daha Fazla in the footer"
+  },
+  "link.item.label.🦕 English": {
+    "message": "🦕 English",
+    "description": "The label of footer link with label=🦕 English linking to https://wiki.degzrobotics.com/en/"
+  },
+  "link.item.label.🦖 Türkçe": {
+    "message": "🦖 Türkçe",
+    "description": "The label of footer link with label=🦖 Türkçe linking to https://wiki.degzrobotics.com/"
+  },
+  "link.item.label.🍒 Forum": {
+    "message": "🍒 Forum",
+    "description": "The label of footer link with label=🍒 Forum linking to https://forum.degzrobotics.com"
+  },
+  "link.item.label.🍊 Mucif": {
+    "message": "🍊 Mucif",
+    "description": "The label of footer link with label=🍊 Mucif linking to https://www.mucif.com"
+  },
+  "link.item.label.🐠 GitHub": {
+    "message": "🐠 GitHub",
+    "description": "The label of footer link with label=🐠 GitHub linking to https://github.com/facebook/docusaurus"
   }
 }

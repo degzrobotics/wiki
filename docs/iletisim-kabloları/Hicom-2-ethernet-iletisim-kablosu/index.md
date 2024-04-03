@@ -11,7 +11,7 @@ import DocCardList from '@theme/DocCardList';
 
 İki Pinli Twisted Pair İletişim Kablosu özellikle su altı ile ilgili çalışma alanlarında tercih edilen yüksek mukavemete ve nötr yüzerliğe sahip iletişim kablosudur.
 
-![hicom 2 kablo](./image/kablo-08.jpg)
+![hicom 2 cable](./image/kablo-08.jpg)
 
 Poliüretan dış kılıf sayesinde yüksek dayanımla birlikte yüksek esnekliğe sahiptir. Poliüretan kılıf, kırılma ve yırtılmalara karşı diğer tip malzemelere göre çok daha dayanıklıdır.
 

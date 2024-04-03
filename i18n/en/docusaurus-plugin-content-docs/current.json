@@ -3,348 +3,184 @@
     "message": "Next",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.🛥️ Araçlar": {
-    "message": "🛥️ Vehicles",
-    "description": "The label for category 🛥️ Araçlar in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Araçlar": {
+    "message": "Vehicles",
+    "description": "The label for category Araçlar in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.🛥️ Araçlar.link.generated-index.description": {
-    "message": "Check out information about all vehicle models from Degz Robotics.",
-    "description": "The generated-index page description for category 🛥️ Araçlar in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Araçlar.link.generated-index.description": {
+    "message": "Take a look at all vehicles made by Degz Robotics.",
+    "description": "The generated-index page description for category Araçlar in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Deringezen-X": {
-    "message": "Deringezen-X",
-    "description": "The label for category Deringezen-X in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Deringezen-X.link.generated-index.description": {
-    "message": "Learn details about Degz Robotics Remotely Operated Vehicle (ROV) - Deringezen - X.",
-    "description": "The generated-index page description for category Deringezen-X in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Deringezen Pro": {
-    "message": "Deringezen Pro",
-    "description": "The label for category Deringezen Pro in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Deringezen Pro.link.generated-index.description": {
-    "message": "Learn details about Degz Robotics Remotely Operated Vehicle (ROV) - Deringezen - Pro.",
-    "description": "The generated-index page description for category Deringezen Pro in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Deringezen X": {
+    "message": "Deringezen X",
+    "description": "The label for category Deringezen X in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Kemi": {
     "message": "Kemi",
     "description": "The label for category Kemi in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Kemi.link.generated-index.description": {
-    "message": "Learn details about Degz Robotics Unmanned Surface Vehicle - Kemi.",
-    "description": "The generated-index page description for category Kemi in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Deringezen Pro": {
+    "message": "Deringezen Pro",
+    "description": "The label for category Deringezen Pro in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.🤖 Elektronik Kartlar": {
-    "message": "🤖 Electronic Cards",
-    "description": "The label for category 🤖 Elektronik Kartlar in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Elektronik Kartlar": {
+    "message": "Electronic Boards",
+    "description": "The label for category Elektronik Kartlar in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.🤖 Elektronik Kartlar.link.generated-index.description": {
-    "message": "Browse information about all electronic board models from Degz Robotics.",
-    "description": "The generated-index page description for category 🤖 Elektronik Kartlar in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Elektronik Kartlar.link.generated-index.description": {
+    "message": "Take a look at all electronic boards made by Degz Robotics.",
+    "description": "The generated-index page description for category Elektronik Kartlar in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.5V 12V Gerilim Regülatörü": {
     "message": "5V 12V Voltage Regulator",
     "description": "The label for category 5V 12V Gerilim Regülatörü in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.5V 12V Gerilim Regülatörü.link.generated-index.description": {
-    "message": "Find out details about Degz Robotics 5V 12V Voltage Regulator.",
-    "description": "The generated-index page description for category 5V 12V Gerilim Regülatörü in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Blu 30A ESC - Fırçasız Motor Sürücü": {
-    "message": "Blu 30A ESC - Brushless Motor Driver",
-    "description": "The label for category Blu 30A ESC - Fırçasız Motor Sürücü in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Blu 30A ESC - Fırçasız Motor Sürücü.link.generated-index.description": {
-    "message": "Blu 30A ESC - Learn the most important features of the Brushless Motor Driver in 5 minutes.",
-    "description": "The generated-index page description for category Blu 30A ESC - Fırçasız Motor Sürücü in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.D300 Derinlik ve Su Sıcaklığı Sensörü": {
+  "sidebar.tutorialSidebar.category.d300-derinlik-ve-su-sicakligi-sensoru": {
     "message": "D300 Depth and Water Temperature Sensor",
     "description": "The label for category D300 Derinlik ve Su Sıcaklığı Sensörü in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.D300 Derinlik ve Su Sıcaklığı Sensörü.link.generated-index.description": {
-    "message": "D300 Learn the most important features of the Depth and Water Temperature Sensor in 5 minutes.",
-    "description": "The generated-index page description for category D300 Derinlik ve Su Sıcaklığı Sensörü in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Güç-Dagıtım-Kartları": {
+    "message": "Power Distribution Boards",
+    "description": "The label for category Güç-Dagıtım-Kartları in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.VESC 6.7 70A Yüksek Güçlü Motor Sürücü - Flipsky": {
-    "message": "VESC 6.7 70A High Power Motor Driver - Flipsky",
-    "description": "The label for category VESC 6.7 70A Yüksek Güçlü Motor Sürücü - Flipsky in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Hi-Base Güç Dağıtım Kartı": {
+    "message": "Hi-Base Power Distribution Board",
+    "description": "The label for category Hi-Base Güç Dağıtım Kartı in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.VESC 6.7 70A Yüksek Güçlü Motor Sürücü - Flipsky.link.generated-index.description": {
-    "message": "Learn the most important features of the Mizu control board RP2040 in 5 minutes.",
-    "description": "The generated-index page description for category VESC 6.7 70A Yüksek Güçlü Motor Sürücü - Flipsky in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Iletişim-Modülleri": {
+    "message": "Communication Modules",
+    "description": "The label for category Iletişim-Modülleri in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.VESC 6.9 - 100A(Max 200A) Yüksek Güçlü Motor Sürücü- Flipsky": {
-    "message": "VESC 6.9 - 100A(Max 200A) High Power Motor Driver- Flipsky",
-    "description": "The label for category VESC 6.9 - 100A(Max 200A) Yüksek Güçlü Motor Sürücü- Flipsky in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.VESC 6.9 - 100A(Max 200A) Yüksek Güçlü Motor Sürücü- Flipsky.link.generated-index.description": {
-    "message": "Learn the most important features of the VESC 6.9 - 100A (Max 200A) High Power Motor Driver in 5 minutes.",
-    "description": "The generated-index page description for category VESC 6.9 - 100A(Max 200A) Yüksek Güçlü Motor Sürücü- Flipsky in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Mizu Kontrol Kartı RP2040 Dokümanlar": {
-    "message": "Mizu Control Board RP2040 Documentation",
-    "description": "The label for category Mizu Kontrol Kartı RP2040 Dokümanlar in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Mizu Kontrol Kartı RP2040 Dokümanlar.link.generated-index.description": {
-    "message": "Learn the most important features of the Mizu control board RP2040 in 5 minutes.",
-    "description": "The generated-index page description for category Mizu Kontrol Kartı RP2040 Dokümanlar in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Mizucom İletişim Modülü": {
-    "message": "Mizucom Communication Module",
-    "description": "The label for category Mizucom İletişim Modülü in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Mizucom İletişim Modülü.link.generated-index.description": {
-    "message": "Learn the most important features of Mizucom Communication Module in 5 minutes.",
-    "description": "The generated-index page description for category Mizucom İletişim Modülü in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Octomini - Su Üstü Modülü": {
-    "message": "Octomini - Surface Module",
-    "description": "The label for category Octomini - Su Üstü Modülü in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Octomini - Su Üstü Modülü.link.generated-index.description": {
-    "message": "Octomini - Learn the most important features of the Surface Module in 5 minutes.",
-    "description": "The generated-index page description for category Octomini - Su Üstü Modülü in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Octomini - Su Altı Kontrolcüsü": {
-    "message": "Octomini - Underwater Controller",
-    "description": "The label for category Octomini - Su Altı Kontrolcüsü in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Octomini - Su Altı Kontrolcüsü.link.generated-index.description": {
-    "message": "Octomini - Learn the most important features of the Underwater Controller in 5 minutes.",
-    "description": "The generated-index page description for category Octomini - Su Altı Kontrolcüsü in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Uçuş Kartı Seti Speedybee F405 Wing Dokümanlar": {
-    "message": "Flight Card Set Speedybee F405 Wing",
-    "description": "The label for category Uçuş Kartı Seti Speedybee F405 Wing Dokümanlar in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Uçuş Kartı Seti Speedybee F405 Wing Dokümanlar.link.generated-index.description": {
-    "message": "Flight Card Set Learn the most important features of the Speedybee F405 Wing in 5 minutes.",
-    "description": "The generated-index page description for category Uçuş Kartı Seti Speedybee F405 Wing Dokümanlar in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Subdrive Lo-Base Güç Dağıtım Kartı": {
-    "message": "Subdrive Lo-Base Power Distribution Board",
-    "description": "The label for category Subdrive Lo-Base Güç Dağıtım Kartı in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Subdrive Lo-Base Güç Dağıtım Kartı.link.generated-index.description": {
-    "message": "Learn the most important features of the Subdrive Lo-Base Power Distribution Board in 5 minutes.",
-    "description": "The generated-index page description for category Subdrive Lo-Base Güç Dağıtım Kartı in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Sublink  İletişim Modülü": {
+    "message": "Sublink Communication Module",
+    "description": "The label for category Sublink  İletişim Modülü in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Sublink Hi-com USB - Yüksek Hızlı İletişim Modülü": {
-    "message": "Learn the most important features of the Subdrive Lo-Base Power Distribution Board in 5 minutes",
+    "message": "Sublink Hi-com USB - High Speed Communication Module",
     "description": "The label for category Sublink Hi-com USB - Yüksek Hızlı İletişim Modülü in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Sublink Hi-com USB - Yüksek Hızlı İletişim Modülü.link.generated-index.description": {
-    "message": "Learn the most important features of the Sublink Hi-com USB - High Speed Communication Module in 5 minutes.",
-    "description": "The generated-index page description for category Sublink Hi-com USB - Yüksek Hızlı İletişim Modülü in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Sublink Hi-com Ethernet - Yüksek Hızlı İletişim Modülü": {
     "message": "Sublink Hi-com Ethernet - High Speed Communication Module",
     "description": "The label for category Sublink Hi-com Ethernet - Yüksek Hızlı İletişim Modülü in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Sublink Hi-com Ethernet - Yüksek Hızlı İletişim Modülü.link.generated-index.description": {
-    "message": "Learn the most important features of the Sublink Hi-com Ethernet - High Speed Communication Module in 5 minutes.",
-    "description": "The generated-index page description for category Sublink Hi-com Ethernet - Yüksek Hızlı İletişim Modülü in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Kontrol-Kartları": {
+    "message": "Controller Boards",
+    "description": "The label for category Kontrol-Kartları in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.🫙 Hazneler": {
-    "message": "🫙 Housing",
-    "description": "The label for category 🫙 Hazneler in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Suibo Kontrol Kartı Rp2040 ": {
+    "message": "Suibo Control Board Rp2040",
+    "description": "The label for category Suibo Kontrol Kartı Rp2040  in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.🫙 Hazneler.link.generated-index.description": {
-    "message": "Degz Robotics in tüm Hazneleri hakkında bilgilere gözatın.",
-    "description": "The generated-index page description for category 🫙 Hazneler in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Mizu Kontrol Kartı RP2040": {
+    "message": "Mizu Control Board RP2040",
+    "description": "The label for category Mizu Kontrol Kartı RP2040 in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.H-100 Sualtı Haznesi": {
-    "message": "H-100 Underwater Housing",
-    "description": "The label for category H-100 Sualtı Haznesi in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Speedybee F405 Wing Uçuş Kartı": {
+    "message": "Speedybee F405 Wing Flight Controller",
+    "description": "The label for category Speedybee F405 Wing Uçuş Kartı in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.H-100 Sualtı Haznesi.link.generated-index.description": {
-    "message": "Learn the most important features of the H-100 Underwater Housing in 5 minutes.",
-    "description": "The generated-index page description for category H-100 Sualtı Haznesi in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Motor-Sürücüler": {
+    "message": "Motor Drivers",
+    "description": "The label for category Motor-Sürücüler in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Blu 30A ESC - Fırçasız Motor Sürücü": {
+    "message": "Blu 30A ESC - Brushless Motor Driver",
+    "description": "The label for category Blu 30A ESC - Fırçasız Motor Sürücü in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.VESC 6.7 70A Yüksek Güçlü Motor Sürücü - Flipsky": {
+    "message": "VESC 6.7 70A High Power Motor Driver - Flipsky",
+    "description": "The label for category VESC 6.7 70A Yüksek Güçlü Motor Sürücü - Flipsky in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.VESC 6.9 100A(Max 200A) Yüksek Güçlü Motor Sürücü- Flipsky": {
+    "message": "VESC 6.9 100A(Max 200A) High Power Motor Driver - Flipsky",
+    "description": "The label for category VESC 6.9 100A(Max 200A) Yüksek Güçlü Motor Sürücü- Flipsky in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Hazneler": {
+    "message": "Housings",
+    "description": "The label for category Hazneler in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Hazneler.link.generated-index.description": {
+    "message": "Take a look at all housings made by Degz Robotics",
+    "description": "The generated-index page description for category Hazneler in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.H-50 Sualtı Haznesi": {
     "message": "H-50 Underwater Housing",
     "description": "The label for category H-50 Sualtı Haznesi in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.H-50 Sualtı Haznesi.link.generated-index.description": {
-    "message": "Learn the most important features of the H-50 Underwater Housing in 5 minutes.",
-    "description": "The generated-index page description for category H-50 Sualtı Haznesi in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.H-100 Sualtı Haznesi": {
+    "message": "H-100 Underwater Housing",
+    "description": "The label for category H-100 Sualtı Haznesi in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.📡 İletişim Kabloları": {
-    "message": "📡 Communication Cables",
-    "description": "The label for category 📡 İletişim Kabloları in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.İletişim Kabloları": {
+    "message": "Communication Cables",
+    "description": "The label for category İletişim Kabloları in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.📡 İletişim Kabloları.link.generated-index.description": {
-    "message": "Browse information about all electronic communication cables from Degz Robotics.",
-    "description": "The generated-index page description for category 📡 İletişim Kabloları in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.İletişim Kabloları.link.generated-index.description": {
+    "message": "Take a look at all communication cables made by Degz Robotics",
+    "description": "The generated-index page description for category İletişim Kabloları in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Hicom 2 - Ethernet İletişim Kablosu - Twisted Pair Poliüretan Yüzer Kablo": {
     "message": "Hicom 2 - Ethernet Communication Cable - Twisted Pair Polyurethane Floating Cable",
     "description": "The label for category Hicom 2 - Ethernet İletişim Kablosu - Twisted Pair Poliüretan Yüzer Kablo in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Hicom 2 - Ethernet İletişim Kablosu - Twisted Pair Poliüretan Yüzer Kablo.link.generated-index.description": {
-    "message": "Learn the most important features of Hicom 2 - Ethernet Communication Cable - Twisted Pair Polyurethane Floating Cable in 5 minutes.",
-    "description": "The generated-index page description for category Hicom 2 - Ethernet İletişim Kablosu - Twisted Pair Poliüretan Yüzer Kablo in sidebar tutorialSidebar"
-  },
   "sidebar.tutorialSidebar.category.Hicom 4 - Ethernet veya Analog Sistem İletişim Kablosu - Twisted Pair Poliüretan Yüzer Kablo": {
-    "message": "Hicom 2 - Ethernet Communication Cable - Twisted Pair Polyurethane Floating Cable",
+    "message": "Hicom 4 - Ethernet or Analog System Communication Cable - Twisted Pair Polyurethane Floating Cable",
     "description": "The label for category Hicom 4 - Ethernet veya Analog Sistem İletişim Kablosu - Twisted Pair Poliüretan Yüzer Kablo in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Hicom 4 - Ethernet veya Analog Sistem İletişim Kablosu - Twisted Pair Poliüretan Yüzer Kablo.link.generated-index.description": {
-    "message": "Learn the most important features of Hicom 4 - Ethernet or Analog System Communication Cable - Twisted Pair Polyurethane Floating Cable in 5 minutes.",
-    "description": "The generated-index page description for category Hicom 4 - Ethernet veya Analog Sistem İletişim Kablosu - Twisted Pair Poliüretan Yüzer Kablo in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Hicom 8 - Ethernet İletişim Kablosu - Twisted Pair Poliüretan Yüzer Kablo - Cat 5": {
     "message": "Hicom 8 - Ethernet Communication Cable - Twisted Pair Polyurethane Floating Cable - Cat 5",
     "description": "The label for category Hicom 8 - Ethernet İletişim Kablosu - Twisted Pair Poliüretan Yüzer Kablo - Cat 5 in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Hicom 8 - Ethernet İletişim Kablosu - Twisted Pair Poliüretan Yüzer Kablo - Cat 5.link.generated-index.description": {
-    "message": "Learn the most important features of Hicom 8 - Ethernet Communication Cable - Twisted Pair Polyurethane Floating Cable - Cat 5 in 5 minutes.",
-    "description": "The generated-index page description for category Hicom 8 - Ethernet İletişim Kablosu - Twisted Pair Poliüretan Yüzer Kablo - Cat 5 in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Kameralar": {
+    "message": "Cameras",
+    "description": "The label for category Kameralar in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.📸 Kameralar": {
-    "message": "📸 Cameras",
-    "description": "The label for category 📸 Kameralar in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.📸 Kameralar.link.generated-index.description": {
-    "message": "Browse information about all electronic cameras from Degz Robotics.",
-    "description": "The generated-index page description for category 📸 Kameralar in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Kameralar.link.generated-index.description": {
+    "message": "Take a look at all cameras sold by Degz Robotics",
+    "description": "The generated-index page description for category Kameralar in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.5 MP IP Kamera": {
     "message": "5 MP IP Camera",
     "description": "The label for category 5 MP IP Kamera in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.5 MP IP Kamera.link.generated-index.description": {
-    "message": "Learn the most important features of your 5 MP IP Camera in 5 minutes.",
-    "description": "The generated-index page description for category 5 MP IP Kamera in sidebar tutorialSidebar"
-  },
   "sidebar.tutorialSidebar.category.1200TVL Analog Kamera": {
     "message": "1200TVL Analog Camera",
     "description": "The label for category 1200TVL Analog Kamera in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.1200TVL Analog Kamera.link.generated-index.description": {
-    "message": "Learn the most important features of the 1200TVL Analog Camera in 5 minutes.",
-    "description": "The generated-index page description for category 1200TVL Analog Kamera in sidebar tutorialSidebar"
-  },
   "sidebar.tutorialSidebar.category.Analog HD 1080P Kamera": {
-    "message": "Analog HD 1080P Kamera",
+    "message": "Analog HD 1080P Camera",
     "description": "The label for category Analog HD 1080P Kamera in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Analog HD 1080P Kamera.link.generated-index.description": {
-    "message": "Learn the most important features of the Analog HD 1080P Camera in 5 minutes.",
-    "description": "The generated-index page description for category Analog HD 1080P Kamera in sidebar tutorialSidebar"
-  },
   "sidebar.tutorialSidebar.category.Rolica Kamera Hareket Sistemi": {
-    "message": "Rolica Camera Motion System",
+    "message": "Rolica Motion Camera System",
     "description": "The label for category Rolica Kamera Hareket Sistemi in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Rolica Kamera Hareket Sistemi.link.generated-index.description": {
-    "message": "Learn the most important features of the Rolica Camera Motion System in 5 minutes.",
-    "description": "The generated-index page description for category Rolica Kamera Hareket Sistemi in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Motor ve Pervaneler": {
+    "message": "Motors and Propellers",
+    "description": "The label for category Motor ve Pervaneler in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.🪛 Motor ve Pervaneler": {
-    "message": "🪛 Motors and Propellers",
-    "description": "The label for category 🪛 Motor ve Pervaneler in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Motor ve Pervaneler.link.generated-index.description": {
+    "message": "Take a look at all motors and propellers made by Degz Robotics",
+    "description": "The generated-index page description for category Motor ve Pervaneler in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.🪛 Motor ve Pervaneler.link.generated-index.description": {
-    "message": "Browse information on all motors and propellers sold at Degz Robotics.",
-    "description": "The generated-index page description for category 🪛 Motor ve Pervaneler in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Mekanik": {
+    "message": "Mechanical Components",
+    "description": "The label for category Mekanik in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.M1 Su Geçirmez Su Altı Motoru": {
-    "message": "M1 Waterproof Underwater Motor",
-    "description": "The label for category M1 Su Geçirmez Su Altı Motoru in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Mekanik.link.generated-index.description": {
+    "message": "Take a look at all mechanic components made by Degz Robotics",
+    "description": "The generated-index page description for category Mekanik in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.M1 Su Geçirmez Su Altı Motoru.link.generated-index.description": {
-    "message": "Learn the most important features of the M1 Waterproof Underwater Motor in 5 minutes.",
-    "description": "The generated-index page description for category M1 Su Geçirmez Su Altı Motoru in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.penetrator": {
+    "message": "Penetrator",
+    "description": "The label for category penetrator in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.M5 Su Geçirmez Su Altı Motoru": {
-    "message": "M5 Waterproof Underwater Motor",
-    "description": "The label for category M5 Su Geçirmez Su Altı Motoru in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Diğer Komponentler": {
+    "message": "Other Components",
+    "description": "The label for category Diğer Komponentler in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.M5 Su Geçirmez Su Altı Motoru.link.generated-index.description": {
-    "message": "Learn the most important features of the M5 Waterproof Underwater Motor in 5 minutes.",
-    "description": "The generated-index page description for category M5 Su Geçirmez Su Altı Motoru in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Mitras Su Altı İticisi": {
-    "message": "Mitras Underwater Thruster",
-    "description": "The label for category Mitras Su Altı İticisi in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Mitras Su Altı İticisi.link.generated-index.description": {
-    "message": "Learn the most important features of the Mitras Underwater Thruster in 5 minutes.",
-    "description": "The generated-index page description for category Mitras Su Altı İticisi in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Mitras Yüksek Güçlü Pervane": {
-    "message": "Mitras High Power Propeller",
-    "description": "The label for category Mitras Yüksek Güçlü Pervane in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Mitras Yüksek Güçlü Pervane.link.generated-index.description": {
-    "message": "Learn the most important features of the Mitras High Power Propeller in 5 minutes.",
-    "description": "The generated-index page description for category Mitras Yüksek Güçlü Pervane in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Utras Su Altı İticisi": {
-    "message": "Utras Underwater Thruster",
-    "description": "The label for category Utras Su Altı İticisi in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Utras Su Altı İticisi.link.generated-index.description": {
-    "message": "Learn the most important features of the Utras Underwater Thruster in 5 minutes.",
-    "description": "The generated-index page description for category Utras Su Altı İticisi in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Utras Yüksek Güçlü Pervane": {
-    "message": "Utras High Power Propeller",
-    "description": "The label for category Utras Yüksek Güçlü Pervane in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Utras Yüksek Güçlü Pervane.link.generated-index.description": {
-    "message": "Learn the most important features of the Utras High Power Propeller in 5 minutes.",
-    "description": "The generated-index page description for category Utras Yüksek Güçlü Pervane in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.🛠️ Mekanik": {
-    "message": "🛠️ Mechanical Products",
-    "description": "The label for category 🛠️ Mekanik in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.🛠️ Mekanik.link.generated-index.description": {
-    "message": "Browse information about mechanical parts sold by Degz Robotics.",
-    "description": "The generated-index page description for category 🛠️ Mekanik in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Pnömatik Su Altı Tutucu Sistemi": {
-    "message": "Pneumatic Underwater Gripper System",
-    "description": "The label for category Pnömatik Su Altı Tutucu Sistemi in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Pnömatik Su Altı Tutucu Sistemi.link.generated-index.description": {
-    "message": "Check out the information about the Pneumatic underwater gripper system sold by Degz Robotics.",
-    "description": "The generated-index page description for category Pnömatik Su Altı Tutucu Sistemi in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Somun Ve Civatalar": {
-    "message": "Nuts and Bolts",
-    "description": "The label for category Somun Ve Civatalar in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Somun Ve Civatalar.link.generated-index.description": {
-    "message": "Check out information on nuts and bolts sold by Degz Robotics",
-    "description": "The generated-index page description for category Somun Ve Civatalar in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Su Geçirmez Epoksi": {
-    "message": "Waterproof Epoxy",
-    "description": "The label for category Su Geçirmez Epoksi in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Su Geçirmez Epoksi.link.generated-index.description": {
-    "message": "Check out the information on waterproof epoxy sold by Degz Robotics..",
-    "description": "The generated-index page description for category Su Geçirmez Epoksi in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.🐢 Diğer Komponentler": {
-    "message": "🐢 Other Components",
-    "description": "The label for category 🐢 Diğer Komponentler in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.🐢 Diğer Komponentler.link.generated-index.description": {
-    "message": "Browse information about the components sold by Degz Robotics.",
-    "description": "The generated-index page description for category 🐢 Diğer Komponentler in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Su Altı Aydınlatması 1500 Lümen": {
-    "message": "Underwater Illumination 1500 Lumens",
-    "description": "The label for category Su Altı Aydınlatması 1500 Lümen in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Su Altı Aydınlatması 1500 Lümen.link.generated-index.description": {
-    "message": "Check out the information on underwater lighting sold by Degz Robotics.",
-    "description": "The generated-index page description for category Su Altı Aydınlatması 1500 Lümen in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Diğer Komponentler.link.generated-index.description": {
+    "message": "Take a look at all other components made by Degz Robotics",
+    "description": "The generated-index page description for category Diğer Komponentler in sidebar tutorialSidebar"
   }
 }
