@@ -19,3 +19,5 @@ sidebar_position : 2
 | Batarya Tipi             | 20Ah (Değiştirilebilir)                                                                                                                                                                                                                                                                                                                                                                            |
 | Eklenebilir Donanımlar      | Aydınlatma , Ek Motorlar , Ek Sensörler , GPS , Çevresel Tarama Sonarı, Tutucular  |
 | Ek Donanımlar            | Küçük Kablo Makarası , USB Kablolu Kontrolcü                                                                                                                                                                                                                                                                                                                                                                |
+
+

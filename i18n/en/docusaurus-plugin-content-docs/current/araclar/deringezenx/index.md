@@ -8,7 +8,6 @@ import DocCardList from '@theme/DocCardList';
 
 # Deringezen X
 
-
 Click here for purchase
 
 <DocCardList />
