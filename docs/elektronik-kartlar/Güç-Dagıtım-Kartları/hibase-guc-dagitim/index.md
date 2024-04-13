@@ -32,3 +32,15 @@ Hi Base kartı, kullanıcıların enerji tüketimlerini anlık olarak izlemeleri
 
 
 ![Hi-Base](./image/hıbase-tablo.png) 
+
+
+## Pin Diyagramı
+
+
+
+![Hi-Base](./image/hibase-pin-diyagramı.png) 
+
+**Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).**  
+
+
+<DocCardList />

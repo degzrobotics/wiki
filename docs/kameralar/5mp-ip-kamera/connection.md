@@ -44,3 +44,6 @@ Kamera erişim şifreleri aşağıdaki kombinasyonlardan biridir.
 :::
 
 Pdf olarak indirmek için [tıklayınız](https://degzrobotics.com/wp-content/uploads/2022/04/IP-Kamera.pdf).
+
+
+**Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).**  

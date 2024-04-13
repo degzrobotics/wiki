@@ -21,3 +21,7 @@ sidebar_position : 2
 | Batarya Tipi             | 20Ah (Değiştirilebilir)                                                                                                                                                                                                                                                                                                                                                                            |
 | Eklenebilir Donanımlar      | Aydınlatma , Ek Motorlar , Ek Sensörler , GPS , Çevresel Tarama Sonarı, Tutucular , Yan Tarama Sonarı ,Multi Frekans Sonar ,USBL , DVL , Ek Kamera  |
 | Ek Donanımlar            | Büyük  Kablo Makarası , Taşıma Çantası , Kablosuz Kumanda                                                                                                                                                                                                                                                                                                                                                      |
+
+
+
+Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).  

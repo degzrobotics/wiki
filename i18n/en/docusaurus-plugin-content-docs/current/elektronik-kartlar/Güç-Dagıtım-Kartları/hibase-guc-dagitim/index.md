@@ -31,4 +31,10 @@ Hi Base board is an electronic circuit board that allows users to monitor their 
 |Size: 45 x 45 mm
 
 
-![Hi-Base](./image/hıbase-tablo.png) 
+![Hi-Base](./image/hibase01.png) 
+
+## Pin Diagram
+
+![Hi-Base](./image/hibase-pin-diyagramı.png) 
+
+<DocCardList />

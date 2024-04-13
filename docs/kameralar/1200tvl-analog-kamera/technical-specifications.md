@@ -19,3 +19,6 @@ sidebar_position : 2
 - LM7512 Lineer Regülatör
 - Lens
 - Lens Sabitleme ve Vidaları
+
+
+**Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).**  

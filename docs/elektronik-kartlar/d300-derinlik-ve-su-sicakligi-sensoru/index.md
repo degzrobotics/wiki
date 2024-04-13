@@ -7,9 +7,8 @@ pagination_prev: null
 import DocCardList from '@theme/DocCardList';
 
 # D300 Derinlik ve Su Sıcaklığı Sensörü
+ ![basınç sensörü](./image/d300-resim.png)
 
-
-![Basınç sensorü](./image/basinc-sensoru.jpg)
 
 Bu derinlik ve sıcaklık sensörü, MS5837-30BA modülü kullanılarak geliştirilmiş olup, 300 metre derinliğe kadar 1cm hassasiyetinde basınç ölçümü ve ±1°C hassasiyette sıcaklık ölçümü yapabilir. I2C protokolü üzerinden veri iletişimi sağlar ve 4.5-5.5V arası bir besleme gerilimi ile çalışırken, 3.3V I2C gerilimini kullanır. Sensör, 5V I2C gerilimi ile çalışan cihazlara bağlandığında zarar görme riskine karşı uyarı içerir. PixHawk ve benzeri uçuş kontrol kartlarıyla uyumlu bu cihaz, ayrıca ArduPilot ve ArduSub destekli araçlarda da kullanılabilir.
 
@@ -34,10 +33,11 @@ Bu cihaz 3.3V i2C Gerilimi ile çalıştığı için 5V i2C gerilimi ile çalı�
 
 ## Sensor çıkışları
 
-![Sensor Çıkışları](./image/basincsensoru2.png)
+![Sensor Çıkışları](./image/d300.png)
 
 
 
 
 **Bu ürünü almak için [tıklayınız](https://degzrobotics.com/product/derinlik-ve-sicaklik-sensoru/).** 
 
+**Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).**  

@@ -31,4 +31,7 @@ Bu ürün güncellenmektedir. Kamera modül fiyatı ürün fiyatına dahil deği
 ![Rolica Hareket Sistemi](./image/rolica-14.jpg)
 
 
+**Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).**  
+
+
 <DocCardList />

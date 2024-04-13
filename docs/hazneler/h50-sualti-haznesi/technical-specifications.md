@@ -26,3 +26,8 @@ sidebar_position : 2
 - 2×37 O-ring (7 adet)
 - Gress
 - M3x12 Bombebaş Vida (10 adet)
+
+
+
+
+**Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).**  

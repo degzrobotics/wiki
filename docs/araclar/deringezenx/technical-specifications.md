@@ -21,3 +21,7 @@ sidebar_position : 2
 | Ek Donanımlar            | Küçük Kablo Makarası , USB Kablolu Kontrolcü                                                                                                                                                                                                                                                                                                                                                                |
 
 
+
+
+
+Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).  

@@ -19,3 +19,6 @@ Kart üzerinde okla gösterilen alanlarda lehim padleri bulunmaktadır. Bu padle
 :::info
 İhtiyacınıza göre aynı anda iki çıkıştan 5 volt yada 12 volt alabilirsiniz.
 :::
+
+
+Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).  

@@ -20,4 +20,7 @@ Kablo mukavemet için Kevlar teller ve boşluk doldurma için Dacron lifler içe
 
 Kablonun esnekliği, Deringezen’lere bolca özgürlük sağlayacak kadar yüksek, ancak kolayca dolaşmayacak kadar sert olacak şekilde tasarlanmıştır.
 
+
+**Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).**  
+
 <DocCardList />

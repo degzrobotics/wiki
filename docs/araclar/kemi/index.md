@@ -11,4 +11,6 @@ import DocCardList from '@theme/DocCardList';
 
 Bu ürünü almak için [tıklayınız]
 
+
+Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).  
 <DocCardList />

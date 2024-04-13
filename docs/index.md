@@ -30,3 +30,6 @@ Bu wiki, ürünler ile ilgili her türlü sorunuza yanıt bulmanıza yardımcı 
 Bu wiki, sürekli gelişmekte olan bir kaynaktır. Eğer katkıda bulunmak isterseniz, lütfen github üzerinden içerik oluşturun veya mevcut içeriği iyileştirin. Her türlü katkıya açığız ve topluluğumuzun büyümesine katkıda bulunmanızı bekliyoruz.
 
 
+
+
+**Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).**  

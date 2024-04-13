@@ -41,10 +41,13 @@ Ayrıca, her iki çıkışı da aynı anda 5V veya 12V olarak ayarlayabilirsiniz
 |Header Konnektör| 2.54 mm Header|
 |Güç Konnektör| XT30|
 
-![Çalışma Sıcaklığı](./image/WorkingTemp.png)
+
+
+![Çalışma Sıcaklığı](./image/regulator-working-tablo.png)
 
 
 
 Bu ürünü almak için [tıklayınız](https://degzrobotics.com/product/5v-12v-gerilim-regulatoru/).  
 
+Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).  
 <DocCardList />

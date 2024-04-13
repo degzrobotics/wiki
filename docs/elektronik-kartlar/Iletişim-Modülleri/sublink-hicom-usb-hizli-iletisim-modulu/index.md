@@ -40,5 +40,5 @@ Sublink Hi-com, USB üzerinden beslenebilen ve küçük boyutlarda (43x38 mm) ta
 
 **Bu ürünü almak için [tıklayınız](https://degzrobotics.com/product/sublink-hi-com-usb/).** 
 
-
+**Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).**  
 <DocCardList />

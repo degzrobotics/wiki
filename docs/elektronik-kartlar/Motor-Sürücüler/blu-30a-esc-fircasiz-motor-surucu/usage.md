@@ -26,3 +26,6 @@ BLU 30A ESC fırçasız motor sürücü  Suibo  kartı ile birlikte PWM (Pulse W
 BLU 30A ESC fırçasız motor sürücüsünün Hi Base kartı ile birlikte kullanım  diyagramı aşağıdaki gibidir .
 
 ![BLU 30 A ESC Fırçasız Motor Sürücü Diyagram](./image/esc2.png)
+
+
+**Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).**  

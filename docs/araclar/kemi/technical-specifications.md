@@ -34,3 +34,5 @@ sidebar_position : 2
 :::info
  Kemi aracı 180 derece haraket edebilen kamera , kolay kilitleme , otonom eve dönüş , otonom yönelim , otonom görev  özelliklerine sahiptir . 
 :::
+
+Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).  

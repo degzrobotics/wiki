@@ -26,3 +26,6 @@ Sisteme kamera dahil değildir, dilediğiniz kamerayı ek olarak satın alırsan
 - Dişi 2 Pin Jumper (2 adet)
 - Erkek 2 Pin Jumper (2 adet)
 - LM2596 Ayarlanabilir Regülatör
+
+
+**Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).**  

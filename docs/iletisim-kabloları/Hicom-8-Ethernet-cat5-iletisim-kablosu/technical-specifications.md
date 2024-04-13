@@ -21,3 +21,6 @@ sidebar_position : 2
 | DC Direnci @ 20°C            | 0,127 Ω/m              | 0,146Ω/m      |
 | Yalıtım Direnci @ 500 VDC    | > 1640 MΩ/km           | –             |
 | Voltaj derecesi              | 300 VDC                |               |
+
+
+**Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).**  

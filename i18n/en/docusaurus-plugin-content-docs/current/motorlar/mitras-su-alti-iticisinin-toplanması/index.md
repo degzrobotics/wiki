@@ -10,7 +10,7 @@ import DocCardList from '@theme/DocCardList';
 
 
 
-![Mitras thruster](./image/mitras.png)
+![Mitras thruster](./image/Mitras-ing.png)
 
 
 ## Step 1: Motor Assembly

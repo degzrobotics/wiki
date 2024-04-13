@@ -26,4 +26,11 @@ Sualtındaki nesneleri hızlı bir şekilde toplayabilirsiniz. 10 cm boyuta kada
 
 <iframe width="100%" height="574" src="https://www.youtube.com/embed/rv21GLY30Vw" title="180 NEWTON KAVRAMA GÜCÜ | Degz Su Altı Pinomatik Tutucu Kolu İnceledik !" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
+
+**Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).**  
+
 <DocCardList />
+
+
+

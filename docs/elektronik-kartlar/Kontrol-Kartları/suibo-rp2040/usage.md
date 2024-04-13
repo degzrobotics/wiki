@@ -59,3 +59,6 @@ Ardından, Araçlar menüsünden port seçimi yaparak UF2 Board'ı seçin ve pro
 Bu adımlar, Suibo'yu programlamak için izlemeniz gereken genel süreci özetlemektedir. Programlama işlemi tamamlandıktan sonra, Suibo artık  kullanıma hazır . 
 
 ![Suibo Arduino Yazılım Yapılandırması ](./image/arduino6.png) 
+
+
+**Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).**  

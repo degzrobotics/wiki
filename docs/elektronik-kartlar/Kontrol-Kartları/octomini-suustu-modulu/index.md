@@ -37,3 +37,8 @@ Tether diagramı;
 |AV | Genellikle "Analog Voltage" veya "Audio/Video" için kullanılır. Spesifik kullanım bağlamına bağlı olarak değişebilir.|
 |CANL | CAN (Controller Area Network Low)  bus sisteminde düşük voltaj sinyal hattıdır ve veri iletişiminde kullanılır.|
 |CANH  | CAN (Controller Area Network High) bus sisteminde yüksek voltaj sinyal hattıdır ve veri iletişiminde kullanılır.  |                                               
+
+
+
+
+**Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).**  

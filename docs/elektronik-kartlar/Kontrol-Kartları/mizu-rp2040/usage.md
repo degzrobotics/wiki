@@ -40,3 +40,6 @@ IO18,IO19|I2C protokolü için SCL (Serial Clock Line) ve SDA (Serial Data Line)
 
 
 
+
+
+**Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).**  

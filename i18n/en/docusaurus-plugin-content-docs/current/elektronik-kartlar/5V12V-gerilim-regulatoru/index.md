@@ -41,7 +41,11 @@ You can also set both outputs to 5V or 12V at the same time. However, the voltag
 |Header Connector| 2.54 mm Header|
 |Power Connector| XT30|
 
-![Working Temperature](./image/WorkingTemp.png)
+
+
+
+![Working Temperature](./image/regulator-operating-tablo.png)
+
 
 
 

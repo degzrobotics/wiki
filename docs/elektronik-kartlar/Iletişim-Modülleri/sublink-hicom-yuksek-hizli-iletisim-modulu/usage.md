@@ -18,3 +18,5 @@ Sublink Hi-com iletişim modülü 2 kablo üzerinden yüksek hızda ethernet ile
 
 
 ![Sublink Hi-com iletişim modülü](./image/EthernetUSB.001-711x400.jpeg)
+
+**Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).**  

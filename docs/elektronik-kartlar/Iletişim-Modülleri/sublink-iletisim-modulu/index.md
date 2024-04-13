@@ -28,6 +28,10 @@ Sublink İletişim Kartı, RS-485 protokolü üzerinden düşük gecikme süresi
 
 
 **Bu ürünü almak için [tıklayınız](https://degzrobotics.com/product/iletisim-karti-degz-sublink/).**  
+
+**Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).**  
+
+
 <DocCardList />
 =======
 

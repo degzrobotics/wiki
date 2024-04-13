@@ -46,4 +46,6 @@ Mizu, insansız su altı araçları ve diğer robotik sistemler için tasarlanm�
 Bu ürün satıştan kalkmıştır. Bu yüzden güncellenen [Degz Suibo](/elektronik-kartlar/Kontrol-Kartları/suibo-rp2040/)'ya bakabilirsiniz.  
 
 :::
+
+**Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).**  
 <DocCardList />

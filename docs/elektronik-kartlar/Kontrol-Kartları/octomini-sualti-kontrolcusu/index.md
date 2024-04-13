@@ -47,3 +47,5 @@ Yazılımı indirmek veya katkıda bulunmak isterseniz [buraya](https://github.c
 Bu ürün satıştan kalkmıştır. Bu yüzden güncellenen [Degz Suibo](/elektronik-kartlar/Kontrol-Kartları/suibo-rp2040/)'ya bakabilirsiniz.  
 
 :::
+
+**Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).**  

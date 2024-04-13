@@ -58,5 +58,8 @@ SpeedyBee F405 Wing, otonom uçuş yeteneklerine sahip bir uçuş kontrol kartı
 **Bu ürünü almak için [tıklayınız](https://degzrobotics.com/product/speedybee-ucus-karti-seti/).** 
 
 
+**Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).**  
+
+
 
 <DocCardList />
