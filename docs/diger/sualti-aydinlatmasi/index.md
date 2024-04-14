@@ -28,4 +28,6 @@ Bu su altı aydınlatması, 1500 lümenlik Cree LED'ler kullanarak güçlü bir 
 
 
 Soru ve önerileriniz için bize [forumdan](https://forum.degzrobotics.com/)    ulaşabilirsiniz .
-<DocCardList />
+
+
+
