@@ -82,4 +82,4 @@ Hazneyi yere düşürmekten, sert nesnelerin çarpmasından, yüksek sıcaklıkt
 <iframe width="100%" height="574" src="https://www.youtube.com/embed/GYWZvBBVTVA" title="Yenilikçi Aktarım Yöntemi | Degz Su Altı Haznesi H-100" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-**Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).**  
+**Soru ve önerileriniz için bize [forumdan](https://forum.degzrobotics.com/)    ulaşabilirsiniz .**

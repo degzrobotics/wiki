@@ -58,5 +58,5 @@ SpeedyBee F405 Wing is a flight control board with autonomous flight capabilitie
 **Click here to buy this product [click here](https://degzrobotics.com/product/speedybee-ucus-karti-seti/).** 
 
 
-
+**You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**
 <DocCardList />

@@ -30,3 +30,4 @@ This wiki is designed to help you find answers to any questions you may have abo
 This wiki is a constantly evolving resource. If you would like to contribute, please create content or improve existing content on github. We welcome contributions of all kinds and look forward to you contributing to the growth of our community.
 
 
+**You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**

@@ -49,5 +49,5 @@ Ayrıca, her iki çıkışı da aynı anda 5V veya 12V olarak ayarlayabilirsiniz
 
 Bu ürünü almak için [tıklayınız](https://degzrobotics.com/product/5v-12v-gerilim-regulatoru/).  
 
-Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).  
+Soru ve önerileriniz için bize [forumdan](https://forum.degzrobotics.com/)    ulaşabilirsiniz .
 <DocCardList />

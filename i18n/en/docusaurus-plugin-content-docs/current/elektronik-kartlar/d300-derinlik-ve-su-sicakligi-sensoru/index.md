@@ -41,6 +41,8 @@ Since this device works with 3.3V i2C Voltage, it will be damaged when connected
 
 **To buy this product [click here](https://degzrobotics.com/product/derinlik-ve-sicaklik-sensoru/).** 
 
+**You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**
+
  
 
 <DocCardList />

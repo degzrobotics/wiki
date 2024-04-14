@@ -74,3 +74,5 @@ Once the tape is in place, we carefully pour epoxy over the solder points of our
 
 
 
+
+**You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**

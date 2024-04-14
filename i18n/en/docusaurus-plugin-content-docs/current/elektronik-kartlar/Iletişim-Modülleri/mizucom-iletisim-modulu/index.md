@@ -42,3 +42,5 @@ This product has been discontinued. So you can check the updated [Degz Sublink](
 
 :::
 
+
+**You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**

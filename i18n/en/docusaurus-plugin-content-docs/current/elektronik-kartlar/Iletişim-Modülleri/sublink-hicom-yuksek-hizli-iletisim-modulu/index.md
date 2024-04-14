@@ -43,5 +43,7 @@ Sublink Hi-com is a communication module designed with compact dimensions (43×3
 
 **Click here to buy this product [click here](https://degzrobotics.com/product/sublink-hi-com-yuksek-hizli-iletisim-modulu/).**  
 
+**You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**
+
 <DocCardList />
 

@@ -28,6 +28,10 @@ The Sublink Communication Board is a communication module that provides high per
 
 
 **Click here to buy this product [click here](https://degzrobotics.com/product/iletisim-karti-degz-sublink/).**  
+
+
+
+**You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**
 <DocCardList />
-=======
+
 

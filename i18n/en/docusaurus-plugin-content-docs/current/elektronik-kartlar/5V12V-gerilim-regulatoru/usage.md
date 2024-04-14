@@ -19,3 +19,6 @@ There are solder pads in the areas indicated by the arrow on the board. When you
 ::::info
 You can get 5 volts or 12 volts from two outputs at the same time according to your needs.
 :::
+
+
+**You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**

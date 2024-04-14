@@ -57,3 +57,5 @@ These steps summarize the general process you should follow to program Suibo. On
 
 ![Suibo  Uploading and Testing the Code](./image/arduino6.png)
 
+**You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**
+

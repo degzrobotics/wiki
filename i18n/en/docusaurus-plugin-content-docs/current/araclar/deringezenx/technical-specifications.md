@@ -19,3 +19,4 @@ sidebar_position : 2
 | Battery Type | 20Ah (Replaceable) |
 | Addable Equipment | Lighting, Additional Motors, Additional Sensors, GPS, Environmental Scanning Sonar, Grippers |
 | Additional Equipment | Small Cable Reel , USB Wired Controller |
+You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions

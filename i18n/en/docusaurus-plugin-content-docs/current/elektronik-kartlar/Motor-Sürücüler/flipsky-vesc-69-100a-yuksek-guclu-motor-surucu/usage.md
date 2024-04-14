@@ -61,3 +61,8 @@ VESC IMU is suitable for use with single-wheeled vehicles that provide accelerom
 You can watch below how to program Vesc for electric skateboards.
 
 <iframe width="100%" height="574" src="https://www.youtube.com/embed/lDuV8cnPRmI" title="VESC® Tool 2020 Tutorial - How to Program Vesc for DIY Electric Skateboards" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+
+**You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**

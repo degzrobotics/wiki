@@ -24,3 +24,7 @@ sidebar_position : 3
 ## Usage Diagram
 
 ![Usage Diagram](./image/Sublink-L-Diagram-Datasheet.jpeg)
+
+
+**You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**
+

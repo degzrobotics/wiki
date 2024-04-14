@@ -26,3 +26,7 @@ The camera is not included in the system, if you purchase the camera you want ad
 - Female 2 Pin Jumper (2 pcs)
 - Male 2 Pin Jumper (2 pcs)
 - LM2596 Adjustable Regulator
+
+**You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**
+
+

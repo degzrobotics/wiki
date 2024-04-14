@@ -22,4 +22,4 @@ sidebar_position : 2
 - Lens Sabitleme ve Vidaları
 
 
-**Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).**  
+**Soru ve önerileriniz için bize [forumdan](https://forum.degzrobotics.com/)    ulaşabilirsiniz .**  

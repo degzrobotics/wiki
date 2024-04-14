@@ -26,3 +26,6 @@ The BLU 30A ESC brushless motor drive can be operated together with the Suibo bo
 The usage diagram of the BLU 30A ESC brushless motor driver together with the Hi Base board is as follows.
 
 ![BLU 30 A ESC Brushless Motor Driver Diagram](./image/esc2.png)
+
+
+**You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**

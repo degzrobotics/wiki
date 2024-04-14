@@ -27,5 +27,4 @@ BLU 30A ESC fırçasız motor sürücüsünün Hi Base kartı ile birlikte kulla
 
 ![BLU 30 A ESC Fırçasız Motor Sürücü Diyagram](./image/esc2.png)
 
-
-**Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).**  
+**Soru ve önerileriniz için bize [forumdan](https://forum.degzrobotics.com/)    ulaşabilirsiniz .**

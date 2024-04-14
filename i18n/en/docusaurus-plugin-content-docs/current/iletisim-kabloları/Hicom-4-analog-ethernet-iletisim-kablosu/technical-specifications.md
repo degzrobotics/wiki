@@ -21,3 +21,6 @@ sidebar_position : 2
 | Insulation Resistance @ 500 VDC | > 1640 MΩ/km | - |
 | Voltage rating | 300 VDC | | |
 
+
+
+**You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**

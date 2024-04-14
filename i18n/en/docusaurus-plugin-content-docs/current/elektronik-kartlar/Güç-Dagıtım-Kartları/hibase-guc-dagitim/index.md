@@ -37,4 +37,6 @@ Hi Base board is an electronic circuit board that allows users to monitor their 
 
 ![Hi-Base](./image/hibase-pin-diyagramı.png) 
 
+**You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**
+
 <DocCardList />

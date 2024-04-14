@@ -20,4 +20,7 @@ Analog görüntülerin aktarıldığı kablolar elektromanyetik gürültüden ci
 
 ![Analog Kamera](./image/ANALOG-COZUCU--e1651094050258.jpg)
 
+
+**You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**
+
 <DocCardList />

@@ -30,3 +30,6 @@ Subdrive Lo-Base Power Distribution Board is a tool used to control the energy m
 | Regulator Voltage | 5 Vdc - 12Vdc |
 | Regulator Current | 3a @ 5Vdc - 1a @ 12Vdc
 
+
+
+**You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**

@@ -15,5 +15,4 @@ Sublink – Hi-com yüksek hızlı modülü insansız sualtı araçları üzerin
 ![Sublink Hi-com iletişim modülü](./image/EthernetUSB.001-711x400.jpeg)
 
 
-
-**Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).**  
+**Soru ve önerileriniz için bize [forumdan](https://forum.degzrobotics.com/)    ulaşabilirsiniz .**

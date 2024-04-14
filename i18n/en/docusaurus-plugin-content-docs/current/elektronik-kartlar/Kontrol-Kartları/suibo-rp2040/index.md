@@ -85,5 +85,5 @@ Suibo is an advanced control board designed for use in various robotics and auto
 
 
 
-
+**You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**
 <DocCardList />

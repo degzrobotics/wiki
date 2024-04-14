@@ -38,7 +38,9 @@ Sublink Hi-com is a communication module that can be powered via USB and is desi
 | Compatibility with Sublink Lo-com | Not Compatible |
 
 
-**Click here to buy this product [click here](https://degzrobotics.com/product/sublink-hi-com-usb/).** 
+**Click here to buy this product [click here](https://degzrobotics.com/product/sublink-hi-com-usb/).**
+
+**You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**
 
 
 <DocCardList />

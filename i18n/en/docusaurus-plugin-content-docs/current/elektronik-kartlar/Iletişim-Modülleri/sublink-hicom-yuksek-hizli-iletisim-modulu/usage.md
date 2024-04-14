@@ -18,3 +18,5 @@ Sublink Hi-com communication module is a communication module developed for high
 
 
 ![Sublink Hi-com communication module](./image/EthernetUSB.001-711x400.jpeg)
+
+**You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**

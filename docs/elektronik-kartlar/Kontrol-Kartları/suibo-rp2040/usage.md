@@ -60,5 +60,4 @@ Bu adımlar, Suibo'yu programlamak için izlemeniz gereken genel süreci özetle
 
 ![Suibo Arduino Yazılım Yapılandırması ](./image/arduino6.png) 
 
-
-**Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).**  
+**Soru ve önerileriniz için bize [forumdan](https://forum.degzrobotics.com/)    ulaşabilirsiniz .** 

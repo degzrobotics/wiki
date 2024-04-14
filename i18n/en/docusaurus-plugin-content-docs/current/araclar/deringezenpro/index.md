@@ -12,4 +12,5 @@ Designed for industrial use, Deringezen-Pro will make your work easier and incre
 
 [Click here] to buy this product
 
+You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions
 <DocCardList />

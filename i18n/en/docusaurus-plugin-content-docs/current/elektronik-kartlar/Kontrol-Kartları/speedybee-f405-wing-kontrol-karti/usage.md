@@ -25,3 +25,6 @@ If the installation is successful, you can access the board via MissionPlanner o
 [click here](https://store-fhxxhuiq8q.mybigcommerce.com/product_images/img_SpeedyBee_F405_WING_APP/SpeedyBee_F405_WING_APP_Manual_V1.1-EN.pdf)
 
 <iframe width="100%" height="574" src="https://www.youtube.com/embed/xKeFuM6WxUY" title="FX-61 Phantom Upgrade - Speedybee F405 Wing - Setup and Install INAV 6.1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+**You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**

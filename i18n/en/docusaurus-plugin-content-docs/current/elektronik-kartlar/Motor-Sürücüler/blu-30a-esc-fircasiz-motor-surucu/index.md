@@ -36,4 +36,7 @@ Configuration System | Compatible with Blheli and Blheli_S Configuration System.
 
 **[click here](https://degzrobotics.com/product/a30-esc-fircasiz-motor-surucu/).** 
 
+
+**You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**
+
 <DocCardList />

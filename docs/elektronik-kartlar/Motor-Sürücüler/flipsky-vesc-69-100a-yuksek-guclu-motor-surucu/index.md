@@ -46,8 +46,7 @@ Programlayıcıyı indirmek için [bu linki](https://vesc-project.com/vesc_tool)
 
 **Bu ürünü almak için [tıklayınız](https://degzrobotics.com/product/vesc-6-6-yuksek-guclu-motor-surucu-flipsky/).**
 
-**Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).**  
-
+**Soru ve önerileriniz için bize [forumdan](https://forum.degzrobotics.com/)    ulaşabilirsiniz .**
 
 
 <DocCardList />

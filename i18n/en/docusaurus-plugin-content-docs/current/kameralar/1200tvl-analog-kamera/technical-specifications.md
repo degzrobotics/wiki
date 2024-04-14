@@ -19,3 +19,7 @@ sidebar_position : 2
 - LM7512 Linear Regulator
 - Lens
 - Lens Fixing and Screws
+
+
+
+**You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**

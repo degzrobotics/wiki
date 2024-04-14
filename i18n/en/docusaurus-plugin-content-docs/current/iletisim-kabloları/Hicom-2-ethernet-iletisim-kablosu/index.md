@@ -21,5 +21,7 @@ The cable contains Kevlar wires for strength and Dacron fibers for gap filling. 
 
 The flexibility of the cable is designed to be high enough to give the Deringezen plenty of freedom, but stiff enough not to tangle easily.
 
+**You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**
+
 
 <DocCardList />

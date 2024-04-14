@@ -35,3 +35,5 @@ sidebar_position : 2
 :::info
  Kemi vehicle has 180-degree moving camera, easy locking, autonomous homing, autonomous orientation, autonomous mission features. 
 :::
+
+You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions

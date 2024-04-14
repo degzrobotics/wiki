@@ -49,6 +49,7 @@ You can also set both outputs to 5V or 12V at the same time. However, the voltag
 
 
 
-Click here [click here](https://degzrobotics.com/product/5v-12v-gerilim-regulatoru/) to buy this product.  
+Click here [click here](https://degzrobotics.com/product/5v-12v-gerilim-regulatoru/) to buy this product. 
+**You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions** 
 
 <DocCardList />

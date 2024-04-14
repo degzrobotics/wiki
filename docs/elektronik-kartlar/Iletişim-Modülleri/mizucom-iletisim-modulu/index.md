@@ -43,4 +43,4 @@ Bu ürün satıştan kalkmıştır. Bu yüzden güncellenen [Degz Sublink](https
 :::
 
 
-**Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).**  
+**Soru ve önerileriniz için bize [forumdan](https://forum.degzrobotics.com/)    ulaşabilirsiniz .**

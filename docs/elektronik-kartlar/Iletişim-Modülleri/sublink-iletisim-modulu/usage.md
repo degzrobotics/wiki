@@ -25,4 +25,4 @@ sidebar_position : 3
 
 ![Kullanım Diagramı](./image/Sublink-L-Diagram-Datasheet.jpeg)
 
-**Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).**  
+**Soru ve önerileriniz için bize [forumdan](https://forum.degzrobotics.com/)    ulaşabilirsiniz .**

@@ -15,3 +15,6 @@ Sublink - Hi-com high speed module has been tested and developed on unmanned und
 ![Sublink Hi-com communication module](./image/EthernetUSB.001-711x400.jpeg)
 
 
+
+
+**You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**

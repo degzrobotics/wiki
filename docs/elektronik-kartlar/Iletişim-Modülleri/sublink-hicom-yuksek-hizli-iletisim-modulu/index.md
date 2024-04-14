@@ -43,8 +43,7 @@ Sublink Hi-com, kompakt boyutlarda (43×38 mm) ve düşük enerji tüketimi ile 
 
 **Bu ürünü almak için [tıklayınız](https://degzrobotics.com/product/sublink-hi-com-yuksek-hizli-iletisim-modulu/).**
 
-
-**Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).**  
+**Soru ve önerileriniz için bize [forumdan](https://forum.degzrobotics.com/)    ulaşabilirsiniz .**
 
 <DocCardList />
 

@@ -44,3 +44,6 @@ Camera access passwords are one of the following combinations.
 :::
 
 [click here](https://degzrobotics.com/wp-content/uploads/2022/04/IP-Kamera.pdf).
+
+
+**You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**

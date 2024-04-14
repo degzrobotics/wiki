@@ -37,5 +37,5 @@ AHD Kameralar, analog kameralar gibi gürültüden etkilenebilir, bu yüzden ana
 
 
 
-**Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).**  
+**Soru ve önerileriniz için bize [forumdan](https://forum.degzrobotics.com/)    ulaşabilirsiniz .** 
 <DocCardList />

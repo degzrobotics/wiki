@@ -26,4 +26,6 @@ You can quickly pick up objects underwater. Easily grasping objects up to 10 cm 
 
 <iframe width="100%" height="574" src="https://www.youtube.com/embed/rv21GLY30Vw" title="180 NEWTON GRIP POWER | Degz Underwater Pinomatic Gripper Arm Reviewed !" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
+**You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**
 <DocCardList />

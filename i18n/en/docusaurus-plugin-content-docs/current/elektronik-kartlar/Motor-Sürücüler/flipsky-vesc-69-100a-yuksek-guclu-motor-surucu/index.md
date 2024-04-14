@@ -47,5 +47,6 @@ You can use [this link](https://vesc-project.com/vesc_tool) to download the prog
 **To buy this product [click here](https://degzrobotics.com/product/vesc-6-6-yuksek-guclu-motor-surucu-flipsky/).** 
 
 
+**You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**
 
 <DocCardList />

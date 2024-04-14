@@ -21,6 +21,5 @@ Dahili olarak bir mikrodenetleyicileri ile paket yapısı kullanılarak görünt
 ![5 MP IP Kamera](./image/IP-KAMERA-YAN--e1651089436888.jpg)
 
 
-**Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).**  
-
+**Soru ve önerileriniz için bize [forumdan](https://forum.degzrobotics.com/)    ulaşabilirsiniz .**
 <DocCardList />

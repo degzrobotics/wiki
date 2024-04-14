@@ -40,4 +40,6 @@ Kablonun esnekliği, Deringezen’lere bolca özgürlük sağlayacak kadar yüks
 | Voltaj derecesi              | 300 VDC                |               |
 
 
+
+**You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**
 <DocCardList />

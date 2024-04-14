@@ -30,3 +30,4 @@ Subdrive Lo-Base Güç Dağıtım Kartı, elektronik cihazların enerji yönetim
 | Regülatör Voltajı        | 5 Vdc – 12Vdc         |
 | Regülatör Akımı          | 3a @ 5Vdc – 1a @12Vdc |
 
+**Soru ve önerileriniz için bize [forumdan](https://forum.degzrobotics.com/)    ulaşabilirsiniz .**

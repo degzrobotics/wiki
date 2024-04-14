@@ -36,6 +36,6 @@ Konfigrasyon Sistemi | Blheli ve Blheli_S Konfigrasyon Sistemine uyumlu.|
 
 **Bu ürünü almak için [tıklayınız](https://degzrobotics.com/product/a30-esc-fircasiz-motor-surucu/).** 
 
-**Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).**  
+**Soru ve önerileriniz için bize [forumdan](https://forum.degzrobotics.com/)    ulaşabilirsiniz .**
 
 <DocCardList />

@@ -19,5 +19,6 @@ They transmit the image using a packet structure with a microcontroller built in
  Noise on the line causes packets to be delayed, which is reflected in a delayed image. Since IP Class Cat5-6 cables are twisted pair, the effect of interference is lower than analog cameras. Cat 6e or Cat 7 cable type can be preferred to reduce the interference effect.
 
 ![5 MP IP Camera](./image/IP-KAMERA-YAN--e1651089436888.jpg)
+**You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**
 
 <DocCardList />

@@ -14,4 +14,6 @@ Our sealed chamber has been developed to protect the electronic system in underw
 
  It protects your electronic system in case your underwater vehicle hits a hard surface in the water. Sea and pool tested. Suitable for manual and autonomous underwater vehicles. You can start using it quickly by watching the assembly and soldering videos of our reservoir.
  
+
+ **You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**
 <DocCardList />

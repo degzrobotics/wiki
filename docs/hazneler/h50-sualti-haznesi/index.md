@@ -15,6 +15,6 @@ Sızdırmaz haznemiz sualtı araçlarında elektronik sistemi korumak amacıyla 
  Sualtı aracınızın su içerisinde sert bir yüzeye çarpması sonucunda elektronik sisteminizi korumaktadır. Denizde ve havuzda test edilmiştir. Manuel ve otonom sualtı araçları için uygundur. Haznemizin montaj ve lehimleme videolarını izleyerek hızlı bir şekilde kullanmaya başlayabilirsiniz.
 
 
- **Bu ürünü kullanırken karşılaştığınız  sorunları  bize sormak için  [tıklayınız](https://forum.degzrobotics.com/).**  
+**Soru ve önerileriniz için bize [forumdan](https://forum.degzrobotics.com/)    ulaşabilirsiniz .**
 
 <DocCardList />

@@ -31,4 +31,6 @@ This product is being updated. Camera module price is not included in the produc
 ![Rolica Motion System](./image/rolica-14.jpg)
 
 
+
+**You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**
 <DocCardList />

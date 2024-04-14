@@ -11,4 +11,5 @@ import DocCardList from '@theme/DocCardList';
 
 [Click here] to buy this product
 
+You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions
 <DocCardList />

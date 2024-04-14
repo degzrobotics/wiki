@@ -80,3 +80,6 @@ Protect the reservoir from being dropped, hit by hard objects, high temperatures
 :::
 
 <iframe width="100%" height="574" src="https://www.youtube.com/embed/GYWZvBBVTVA" title="Innovative Transfer Method | Degz Underwater Hopper H-100" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+**You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**

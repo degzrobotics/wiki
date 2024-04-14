@@ -26,3 +26,5 @@ sidebar_position : 2
 - 2×37 O-ring (7 pcs)
 - Gress
 - M3x12 Cap Screw (10 pcs)
+  
+  **You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**
