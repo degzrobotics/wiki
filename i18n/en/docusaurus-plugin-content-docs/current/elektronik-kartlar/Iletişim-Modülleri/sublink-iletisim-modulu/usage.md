@@ -21,9 +21,10 @@ sidebar_position : 3
 |VBUS|USB power line and carries the 5V supply voltage through the USB connection.
 
 
-## Usage Diagram
 
-![Usage Diagram](./image/Sublink-L-Diagram-Datasheet.jpeg)
+## Wiring Diagram of Suibo and Sublink Cards
+
+![Sublink iletişim Modülü ve Suibo bağlantı şeması ](./image/suibo-sublink.png)
 
 
 **You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**

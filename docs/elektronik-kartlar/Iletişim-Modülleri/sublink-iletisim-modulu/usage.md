@@ -21,8 +21,12 @@ sidebar_position : 3
 |VBUS|USB güç hattıdır ve USB bağlantısı üzerinden 5V besleme voltajını taşır.|
 
 
-## Kullanım Diyagramı
 
-![Kullanım Diagramı](./image/Sublink-L-Diagram-Datasheet.jpeg)
+
+## Suibo ve Sublink Kartlarının Bağlantı Şeması 
+
+![Sublink iletişim Modülü ve Suibo bağlantı şeması ](./image/suibo-sublink.png)
+
+
 
 **Soru ve önerileriniz için bize [forumdan](https://forum.degzrobotics.com/)    ulaşabilirsiniz .**
