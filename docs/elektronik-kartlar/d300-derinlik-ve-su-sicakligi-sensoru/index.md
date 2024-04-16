@@ -41,3 +41,6 @@ Bu cihaz 3.3V i2C Gerilimi ile çalıştığı için 5V i2C gerilimi ile çalı�
 **Bu ürünü almak için [tıklayınız](https://degzrobotics.com/product/derinlik-ve-sicaklik-sensoru/).** 
 
 **Soru ve önerileriniz için bize [forumdan](https://forum.degzrobotics.com/)    ulaşabilirsiniz .**
+
+
+<DocCardList />

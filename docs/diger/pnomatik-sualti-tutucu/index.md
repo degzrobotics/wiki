@@ -29,7 +29,7 @@ Sualtındaki nesneleri hızlı bir şekilde toplayabilirsiniz. 10 cm boyuta kada
 
 
 **Soru ve önerileriniz için bize [forumdan](https://forum.degzrobotics.com/)    ulaşabilirsiniz .**
-<DocCardList />
+
 
 
 

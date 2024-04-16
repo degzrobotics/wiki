@@ -22,3 +22,5 @@ Bu penetratörün tasarımında, iç çapı özenle 5mm olarak belirlenmiştir. 
 ![Neo-penetratör](./image/penetrator-kullanım.png)
 
 **Soru ve önerileriniz için bize [forumdan](https://forum.degzrobotics.com/)    ulaşabilirsiniz .**
+
+

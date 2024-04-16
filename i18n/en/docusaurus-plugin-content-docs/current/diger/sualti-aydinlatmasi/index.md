@@ -3,6 +3,7 @@ sidebar_position : 1
 pagination_next: null
 pagination_prev: null
 ---
+import DocCardList from '@theme/DocCardList'; 
 
 # About the Product
 
@@ -23,3 +24,5 @@ This underwater lighting uses 1500 lumen Cree LEDs to provide powerful illuminat
 ![Aydınlatıcı](./image/aydınlatıcı-pin.png)
 
 **You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**
+
+<DocCardList />

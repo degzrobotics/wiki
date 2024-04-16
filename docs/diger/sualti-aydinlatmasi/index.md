@@ -3,6 +3,7 @@ sidebar_position : 1
 pagination_next: null
 pagination_prev: null
 ---
+import DocCardList from '@theme/DocCardList';
 
 # Ürün Hakkında
 
@@ -29,5 +30,7 @@ Bu su altı aydınlatması, 1500 lümenlik Cree LED'ler kullanarak güçlü bir 
 
 Soru ve önerileriniz için bize [forumdan](https://forum.degzrobotics.com/)    ulaşabilirsiniz .
 
+
+<DocCardList />
 
 

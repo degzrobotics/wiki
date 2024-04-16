@@ -28,4 +28,4 @@ You can quickly pick up objects underwater. Easily grasping objects up to 10 cm 
 
 
 **You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**
-<DocCardList />
+
