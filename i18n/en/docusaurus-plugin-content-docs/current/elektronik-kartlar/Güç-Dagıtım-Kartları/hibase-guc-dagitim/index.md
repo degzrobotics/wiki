@@ -21,7 +21,7 @@ Hi Base board is an electronic circuit board that allows users to monitor their 
 |Magnetic switching|Allows the device to turn on and off through a magnetic field, without requiring physical contact.
 |External switch|Allows users to control the device via an external switch.
 |****Electrical Characteristic**|
-|Maximum Current| 120 Amps (tested up to 120 amps.)
+|Maximum Current| 200 Amps (tested up to 120 amps.)
 |Continuous Current| 60 Amps
 |Input Voltage| 6-48 Vdc|
 |Battery Types| 2s - 12s
@@ -32,6 +32,9 @@ Hi Base board is an electronic circuit board that allows users to monitor their 
 
 
 ![Hi-Base](./image/hibase01.png) 
+:::note
+The maximum current of the Hi base board is 200 amps, but it has been tested up to 120 amps
+:::
 
 ## Pin Diagram
 

@@ -13,9 +13,9 @@ Degz Neo Penetrator is an innovative fastener used in underwater technology. It 
 
 ## Penetrometer graphic drawing
 
-![Neo-penetratör](./image/penetrator-grafik.png)
+![Neo-penetratör](./image/penetrator-ing.png)
 
-This penetrometer has been meticulously designed with an inner diameter of 5mm. However, to accommodate the diverse application needs of our customers, it is possible to expand this diameter to 6mm using a drill. When performing the drilling operation, the drill should be used from the head towards the body as shown in the photographs. Moreover, securing the head of the penetrometer with a suitable wrench during the operation will facilitate your work. Please be reminded that, for safety and product performance standards, the inner diameter should not be expanded beyond 6mm.
+This Penetrator has been meticulously designed with an inner diameter of 5mm. However, to accommodate the diverse application needs of our customers, it is possible to expand this diameter to 6mm using a drill. When performing the drilling operation, the drill should be used from the head towards the body as shown in the photographs. Moreover, securing the head of the Penetrator with a suitable wrench during the operation will facilitate your work. Please be reminded that, for safety and product performance standards, the inner diameter should not be expanded beyond 6mm.
 
 ![Neo-penetratör](./image/penetrator-kullanım.png)
 

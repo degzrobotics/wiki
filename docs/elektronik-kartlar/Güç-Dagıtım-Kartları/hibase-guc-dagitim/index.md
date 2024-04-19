@@ -21,7 +21,7 @@ Hi Base kartı, kullanıcıların enerji tüketimlerini anlık olarak izlemeleri
 |Manyetik anahtarlama|Fiziksel temas gerektirmeden, manyetik bir alan aracılığıyla cihazın açılıp kapanmasını sağlar.|
 |Harici anahtar|Kullanıcıların cihazı dışarıdan bir anahtar aracılığıyla kontrol etmesine olanak tanır.|
 |**Elektriksel Karakteristik**|
-|Azami Akım| 120 Amper(120 ampere kadar test edilmiştir.)|
+|Azami Akım| 200 Amper(120 ampere kadar test edilmiştir.)|
 |Sürekli Akım| 60 Amper|
 |Giriş Gerilimi| 6-48 Vdc|
 |Pil Türleri| 2s – 12s|
@@ -33,6 +33,9 @@ Hi Base kartı, kullanıcıların enerji tüketimlerini anlık olarak izlemeleri
 
 ![Hi-Base](./image/hıbase-tablo.png) 
 
+:::note
+Hi base kartının maksimum akımı 200 amperdir fakat 120 ampere kadar test edilmiştir 
+:::
 
 ## Pin Diyagramı
 
