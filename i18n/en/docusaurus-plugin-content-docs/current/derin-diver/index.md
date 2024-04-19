@@ -36,7 +36,7 @@ Derin Diver is currently in closed beta development. If you want to be involved 
 
 ## Can I Use Derin Diver in Competitions?
 
-Yes, you can use Derin Diver and Degz Suibo Control card in competitions such as Teknofest. These systems are produced as an alternative to their counterparts in the market for people who want to develop underwater robotics. Our aim is to make underwater robotics more accessible and to produce domestic and national solutions in this field.
+Yes, you can use Derin Diver and Degz Suibo Control board in competitions such as Teknofest. These systems are produced as an alternative to their counterparts in the market for people who want to develop underwater robotics. Our aim is to make underwater robotics more accessible and to produce domestic and national solutions in this field.
 
 ## Dictionary of Terms in the Derin Diver Ecosystem
 

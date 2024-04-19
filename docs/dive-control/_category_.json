@@ -1,0 +1,9 @@
+{
+    "label": "Dive Control", 
+    "position": 4,
+    "link": {
+      "type": "generated-index",
+      "description": "Dive Control - Su altı aracı arayüzü"
+    }
+}
+  

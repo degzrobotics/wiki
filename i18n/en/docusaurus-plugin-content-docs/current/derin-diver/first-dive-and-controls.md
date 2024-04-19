@@ -8,8 +8,7 @@ import DocCardList from '@theme/DocCardList';
 
 # First Dive and Controls
 
-After completing the installation and calibration steps, you can start preparing for your first dive. 
-If you are sure that you have completed thruster calibrations and sensor calibrations, you are ready for your first dive!
+After completing the installation and calibration steps, you can start preparing for your first dive. If you are sure that you have completed thruster calibrations and sensor calibrations, you are ready for your first dive!
 
 ## Things to Check Before Diving
 
