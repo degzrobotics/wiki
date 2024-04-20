@@ -2,8 +2,9 @@
 sidebar_position : 2
 ---
 
-# Connection Diagram of the Product
+# Use  of the Product
 
+## Connection Diagram of the Product 
 
 ![Rolica Hareket Sistemi](./image/rolika-genel.png)
 
