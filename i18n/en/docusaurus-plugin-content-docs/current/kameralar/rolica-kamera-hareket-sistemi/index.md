@@ -8,27 +8,30 @@ import DocCardList from '@theme/DocCardList';
 
 # About the Product
 
-For a simple and free experience, Rolica Motion Camera System is under your control with 180 degree rotation angle! Compatible with all Degz camera modules, you can easily move your camera with standard PWM signals.
+
 
 ![Rolica Motion System](./image/rolica-12.jpg)
 
-:::info
-This product is being updated. Camera module price is not included in the product price, you can choose externally.
-:::
+The Rolica Motion Camera System provides superior imaging even in dark environments with a 180-degree free rotation angle and 1000lm illumination intensity. Operating with standard PWM signals, this system is compatible with all camera modules within Degz, allowing users to easily adjust the camera direction. With a 12V operating voltage and a maximum depth capacity of 150 meters, Rolica offers a flexible and scalable solution. The system does not include a camera and can be customized with optional additional camera modules.
 
-![Rolica Motion System](./image/rolica-7.jpg)
 
- Its built-in directional illumination allows you to work smoothly even in dark environments. Explore the world in 180 degrees with Roli Camera!
+## Product Technical Specifications
+|Features	|Description|
+|--------------------------|-----------------------|
+|Operating Voltage|	12V|
+|Camera Rotation Angle|	180 Degree Free|
+|Illumination Intensity|	1000lm|
+|Illumination Rotation Angle|	Fixed to camera - 180 degrees|
+|Maximum Depth	|150 meters|
+|1500 ms PWM	|Fixed|
+|Up to 2000 ms PWM|	Clockwise|
+|Up to 1000 ms PWM                                 |Counter-clockwise|
 
-- Simple and free, master 180 degrees with Rolica!
-  
-- Compatible with all Degz camera modules.
-  
-- You can move your camera 180 degrees with standard pwm signals.
-  
-- Thanks to its built-in steerable illumination, darkness cannot prevent you from working!
+## Product Pin Diagram 
 
-![Rolica Motion System](./image/rolica-14.jpg)
+![Rolica Hareket Sistemi](./image/rolika-sematic.png)
+
+
 
 
 
