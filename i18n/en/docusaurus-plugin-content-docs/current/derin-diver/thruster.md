@@ -17,7 +17,7 @@ Derin Diver supports multiple thruster configurations. These configurations incl
 
 ## Supported Thruster Configurations (Derin Diver v0.9.0 and above)
 
-Thruster configurations should take into account the directions of the motors, the directions in which they give their maximum thrust and the directions of rotation. Thrusters shown in blue should rotate clockwise and thrusters shown in orange should rotate counterclockwise.
+Thruster configurations should take into account the directions of the motors, the directions in which they give their maximum thrust and the directions of rotation. Thrusters shown in blue should rotate clockwise and thrusters shown in orange should rotate counterclockwise. On Dive Control, you can set the pins of the thrusters with the parameters **`MOTOR_1_PIN`** and their directions with the parameters **`MOTOR_1_REVERSE`**. The images below show which motor corresponds to which number.
 
 ### Crab 6 Thruster Configuration
 

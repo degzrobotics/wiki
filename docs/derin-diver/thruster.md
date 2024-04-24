@@ -19,7 +19,7 @@ Derin Diver birden fazla itici konfigürasyonunu desteklemektedir. Bu konfigüra
 
 ## Desteklenen İtici Konfigürasyonları (Derin Diver v0.9.0 ve üzeri)
 
-İtici konfigürasyonlarında motorların yönleri maksimum itkilerini verdikleri yönler ve dönüş yönleri göz önünde bulundurulmalıdır. Mavi ile gösterilen iticiler saat yönünde, turuncu ile gösterilen iticiler saat yönünün tersine dönmesi gerekmektedir.
+İtici konfigürasyonlarında motorların yönleri maksimum itkilerini verdikleri yönler ve dönüş yönleri göz önünde bulundurulmalıdır. Mavi ile gösterilen iticiler saat yönünde, turuncu ile gösterilen iticiler saat yönünün tersine dönmesi gerekmektedir. Dive Control üzerinde, iticilerin pinlerini **`MOTOR_1_PIN`** şeklindeki parametreler ile, yönlerini de **`MOTOR_1_REVERSE`** şeklindeki parametreler ile ayarlayabilirsiniz. Aşağıdaki görsellerde hangi motorun hangi numaraya denk geldiği gösterilmiştir.
 
 ### Yengeç 6 İtici Konfigürasyonu
 
