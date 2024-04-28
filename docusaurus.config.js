@@ -194,12 +194,12 @@ const config = {
 
         }
       },
-      announcementBar: {
-        id: 'duyuru-6', // Güncelleme yaptıkça id arttırılacak
-        content:
-        'Degz\'in yeni ürettiği <b>Suibo, Sublink, Hi-Base</b> ve birçok yeni ürün satışta! <a target="_blank" rel="noopener noreferrer" href="https://degzrobotics.com/komponentler/">Satın almak için mağazaya git!</a>',
-      isCloseable: true,
-      }
+      // announcementBar: {
+      //   id: 'duyuru-6', // Güncelleme yaptıkça id arttırılacak
+      //   content:
+      //   'Degz\'in yeni ürettiği <b>Suibo, Sublink, Hi-Base</b> ve birçok yeni ürün satışta! <a target="_blank" rel="noopener noreferrer" href="https://degzrobotics.com/komponentler/">Satın almak için mağazaya git!</a>',
+      // isCloseable: true,
+      // }
 
     }),
 };
