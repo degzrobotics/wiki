@@ -3,9 +3,9 @@ sidebar_position : 3
 
 ---
 
-# Ürünün Kullanımı
+# Usage
 
 :::info
-Detay Eklenecektir.
+More info will be added
 :::
 You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions

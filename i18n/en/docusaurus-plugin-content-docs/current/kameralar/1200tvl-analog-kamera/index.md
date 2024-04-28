@@ -6,20 +6,19 @@ pagination_prev: null
 
 import DocCardList from '@theme/DocCardList';
 
-# Ürün Hakkında
+# About the Product
 
-1200TVL Analog Kamera, kritik robotik sistemlerde düşük gecikme ve maliyet avantajlarıyla öne çıkan bir tercihtir.
+The 1200TVL Analog Camera is a prominent choice with its low latency and cost advantages in critical robotic systems.
 
 ![Analog Kamera](./image/ANALOG-e1651091586625.jpg)
 
-Elektromanyetik gürültüye karşı dayanıklılığıyla bilinen bu kameralar, herhangi bir gürültü durumunda kesinti veya gecikme yaşatmaz; ancak, bu durum görüntü kalitesini etkileyebilir.
+Known for their resistance to electromagnetic noise, these cameras will not interrupt or delay in the event of any noise, but this can affect image quality.
 
 ![Analog Kamera](./image/ANALOG-COZUCU-e1651093999299.jpg)
 
-Analog görüntülerin aktarıldığı kablolar elektromanyetik gürültüden ciddi şekilde etkilenir. Bu kablo eğer bir güç hattının yanından geçiyorsa (özellikle kablodan yüksek akım geçişi varsa) sinyali ileten kablonun dış ekranı(kablo içine örülü metalden yapılmış bir kafes) olması oldukça faydalı olur.
+Cables that transmit analog images are severely affected by electromagnetic noise. If this cable runs next to a power line (especially if there is a high current flow through the cable), it is very useful to have an outer shield (a lattice made of metal woven into the cable) of the cable that transmits the signal.
 
 ![Analog Kamera](./image/ANALOG-COZUCU--e1651094050258.jpg)
-
 
 **You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**
 

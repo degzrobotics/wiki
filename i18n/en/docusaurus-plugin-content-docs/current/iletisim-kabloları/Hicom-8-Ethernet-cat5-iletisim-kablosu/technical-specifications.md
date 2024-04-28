@@ -2,25 +2,25 @@
 sidebar_position : 2
 ---
 
-# Ürünün Teknik Özellikleri
+# Technical Specifications of the product
 
-
-| Özellik                      | Değer                  |               |
+| Feature | Value | |
 |------------------------------|------------------------|---------------|
-| Dış Kaplama                  | Poliüretan             |               |
-| İç Tel Kalınlığı             | 26 AWG                 |               |
-| Çap                          | 6.6 mm                 | 0.26 in       |
-| Uzunluk                      | 30 – 200 m             | 100 – 650 ft  |
-| Çalışma Mukavemeti           | 45 kgf                 | 100 lbf       |
-| Kırılma Dayanımı             | >100 kg/f              | 2200 lbf      |
-| Minimum Çalışma Bükülme Çapı | 75mm                   | 25mm          |
-| Tatlı Suda Kaldırma Kuvveti  | Nötr                   |               |
-| Tuzlu Suda Kaldırma Kuvveti  | Hafif Pozitif          |               |
-| İletkenler                   | 4 Çift Bükümlü, 26 AWG |               |
-| Elektriksel Özellikler       |                        |               |
-| DC Direnci @ 20°C            | 0,127 Ω/m              | 0,146Ω/m      |
-| Yalıtım Direnci @ 500 VDC    | > 1640 MΩ/km           | –             |
-| Voltaj derecesi              | 300 VDC                |               |
+| Outer Coating | Polyurethane | |
+| Inner Wire Thickness | 26 AWG | |
+| Diameter | 6.6 mm | 0.26 in |
+| Length | 30 - 200 m | 100 - 650 ft |
+| Operating Strength | 45 kgf | 100 lbf |
+| Crushing Strength | >100 kg/f | 2200 lbf |
+| Minimum Working Bending Diameter | 75mm | 25mm |
+| Fresh Water Buoyancy | Neutral | |
+| Buoyancy in Salt Water | Slightly Positive | |
+| Conductors | 4 Pair Twisted, 26 AWG | | |
+| Electrical Properties | | |
+| DC Resistance @ 20°C | 0.127 Ω/m | 0.146Ω/m |
+| Insulation Resistance @ 500 VDC | > 1640 MΩ/km | - |
+| Voltage rating | 300 VDC | | |
 
+Translated with DeepL.com (free version)
 
 **You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**
