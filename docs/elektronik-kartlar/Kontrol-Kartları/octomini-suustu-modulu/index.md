@@ -6,7 +6,7 @@ pagination_prev: null
 
 import DocCardList from '@theme/DocCardList';
 
-# Ürün Hakkında
+# Octomini - Su Üstü Modülü
 
 :::warning
 Bu ürün satıştan kalkmıştır. Bu yüzden güncellenen [Degz Suibo](/elektronik-kartlar/Kontrol-Kartları/suibo-rp2040/)'ya bakabilirsiniz.  

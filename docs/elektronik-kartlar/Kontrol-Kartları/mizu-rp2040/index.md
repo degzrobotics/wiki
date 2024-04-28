@@ -6,7 +6,7 @@ sidebar_position : 1
 
 import DocCardList from '@theme/DocCardList';
     
-# Ürün Hakkında
+# Mizu RP2040
 
 ## Mizu dalışa hazır
 

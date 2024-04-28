@@ -5,7 +5,7 @@ pagination_prev: null
 ---
 import DocCardList from '@theme/DocCardList'; 
 
-# About the Product
+# Underwater Illumination 1500 Lumens
 
 ![Aydınlatıcı](./image/aydınlatıcı.png)
 

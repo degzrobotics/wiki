@@ -5,7 +5,7 @@ pagination_prev: null
 ---
 import DocCardList from '@theme/DocCardList';
 
-# Ürün Hakkında
+# Su Altı Aydınlatması 1500 Lümen
 
 ![Aydınlatıcı](./image/aydınlatıcı.png)
 
