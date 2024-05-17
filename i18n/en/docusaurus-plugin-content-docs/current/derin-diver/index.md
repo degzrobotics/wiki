@@ -28,7 +28,7 @@ Derin Diver has been developed specifically for underwater vehicles and aims to 
 
 ## How can I get Derin Diver?
 
-You can get the compiled version of Derin Diver on the Degzrobotics Github page. Derin Diver is constantly being updated and tested. New versions will be released on Github. Discussions about the development process of Derin Diver are held on forum.degzrobotics.com.
+You can get the compiled version of Derin Diver on the [Degzrobotics Github page](https://github.com/degzrobotics/Derin-Diver). Derin Diver is constantly being updated and tested. New versions will be released on Github. Discussions about the development process of Derin Diver are held on forum.degzrobotics.com.
 
 ## How Can I Access the Source Code of Derin Diver?
 

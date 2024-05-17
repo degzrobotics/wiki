@@ -13,7 +13,7 @@ After installing your control board that is compatible with Derin Diver, you can
 ## Dive Control Installation - Windows
 
 - If you have not installed CH340 drivers, install them from [this link](https://learn.sparkfun.com/tutorials/how-to-install-ch340-drivers/all).
-- Download the latest released version of Dive Control as a ZIP file from Github
+- Download the latest released version of Dive Control as a ZIP file from [Degz Robotics Github page](https://github.com/degzrobotics/Dive-Control)
 - Extract the ZIP file you downloaded.
 - Run DiveControl.exe.
 - Windows may give a warning because your file was downloaded from the internet, click OK to continue.

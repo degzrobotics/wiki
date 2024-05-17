@@ -28,7 +28,7 @@ The features specified with ** are in the testing phase and will be released as 
 
 ## How can I get Dive Control?
 
-You can get Dive Control on the Degz Robotics Github page. Dive Control is under active development and is constantly receiving new updates. You can get the latest version via the latest release on Github. Simply download the appropriate .zip file for your system, extract it from the archive and run DiveControl.exe (instructions for other systems will be added).
+You can get Dive Control on the [Degz Robotics Github page](https://github.com/degzrobotics/Dive-Control). Dive Control is under active development and is constantly receiving new updates. You can get the latest version via the latest release on Github. Simply download the appropriate .zip file for your system, extract it from the archive and run DiveControl.exe (instructions for other systems will be added).
 
 ## Can I Use Dive Control in Competitions?
 

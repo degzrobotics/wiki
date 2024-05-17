@@ -13,7 +13,7 @@ Derin Diver ile uyumlu olan kontrol kartınıza kurulum yaptıktan sonra kartın
 ## Dive Control Kurulumu - Windows
 
 - CH340 sürücülerini kurmadıysanız [bu linkten](https://akademi.robolinkmarket.com/ch340-driver-kurulumu/) kurun.
-- Dive Control'un en son yayınlanmış sürümünü Github linki üzerinden ZIP dosyası olarak indirin
+- Dive Control'un en son yayınlanmış sürümünü [Degz Robotics Github](https://github.com/degzrobotics/Dive-Control) linki üzerinden ZIP dosyası olarak indirin
 - İndirdiğiniz ZIP dosyasını ayıklayın.
 - DiveControl.exe'yi çalıştırın.
 - Dosyanız internetten indirilmiş olduğu için Windows uyarı verebilir, tamam diyerek devam edin.

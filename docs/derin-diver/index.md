@@ -28,7 +28,7 @@ Derin Diver su altı araçları için özel olarak geliştirilmiş olup bir su a
 
 ## Derin Diver'ı Nasıl Edinebilirim?
 
-Derin Diver'ın derlenmiş halini Degzrobotics Github sayfası üzerinden elde edebilirsiniz. Derin Diver sürekli olarak güncellenmekte ve test edilmektedir. Yeni versiyonlar Github üzerinden yayınlanacaktır. Derin Diver'ın gelişme süreci hakkında tartışmalar forum.degzrobotics.com üzerinden yapılmaktadır.
+Derin Diver'ın derlenmiş halini [Degzrobotics Github sayfası](https://github.com/degzrobotics/Derin-Diver) üzerinden elde edebilirsiniz. Derin Diver sürekli olarak güncellenmekte ve test edilmektedir. Yeni versiyonlar Github üzerinden yayınlanacaktır. Derin Diver'ın gelişme süreci hakkında tartışmalar forum.degzrobotics.com üzerinden yapılmaktadır.
 
 ## Derin Diver'ın Kaynak Kodlarına Nasıl Ulaşabilirim?
 

@@ -28,7 +28,7 @@ Dive Control su altı araçları için özel olarak geliştirilmiş olup bir su 
 
 ## Dive Control'ü Nasıl Edinebilirim?
 
-Dive Control'ü Degz Robotics Github sayfası üzerinden edinebilirsiniz. Dive Control aktif olarak gelişme sürecinde olup sürekli olarak yeni güncellemeler almaktadır. En güncel verisyonu Github'daki son release üzerinden edinebilirsiniz. Sisteminize uygun .zip dosyasını indirdikten sonra arşivden çıkartıp DiveControl.exe'yi (diğer sistemlere göre nasıl yapılacağı eklenecektir) çalıştırmanız yeterlidir.
+Dive Control'ü [Degz Robotics Github](https://github.com/degzrobotics/Dive-Control) sayfası üzerinden edinebilirsiniz. Dive Control aktif olarak gelişme sürecinde olup sürekli olarak yeni güncellemeler almaktadır. En güncel verisyonu Github'daki son release üzerinden edinebilirsiniz. Sisteminize uygun .zip dosyasını indirdikten sonra arşivden çıkartıp DiveControl.exe'yi (diğer sistemlere göre nasıl yapılacağı eklenecektir) çalıştırmanız yeterlidir.
 
 ## Dive Control'u Yarışmalarda Kullanabilir miyim?
 
