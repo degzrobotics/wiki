@@ -46,4 +46,8 @@ Yengeç 6 konfigürasyonu ile aynı olup yükseliş motorlarının roll ekseni y
 ![İtici Yön](./image/mitrasyone.png)
 ![İtici Yön](./image/mitrasyonee.png)
 
+## İtici Ayarlarının Yapılması
+
+İticilerin pinlerinin ayarlanması için iticilerin bağlı olduğu pinler **`MOTOR_1_PIN`** şeklindeki parametreler ile ayarlanabilir. Hangi motorun hangi pine bağlı olduğunu rahatça anlayabilmek için Dive Control üzerinden ayarlar kısmına girip System Test sekmesinde tüm motorları teker teker deneyebilirsiniz.
+
 <DocCardList />

@@ -44,4 +44,8 @@ To understand the direction of the thrusters, you can look at the angles of the 
 ![İtici Yön](./image/mitrasyone.png)
 ![İtici Yön](./image/mitrasyonee.png)
 
+## Adjusting Thruster Settings
+
+To set the pins of the thrusters, the pins to which the thrusters are connected can be set with the parameters **`MOTOR_1_PIN`**. In order to easily understand which motor is connected to which pin, you can enter the settings section on Dive Control and try all motors one by one in the System Test tab.
+
 <DocCardList />
