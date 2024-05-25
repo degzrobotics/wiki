@@ -19,4 +19,9 @@ This Penetrator has been meticulously designed with an inner diameter of 5mm. Ho
 
 ![Neo-penetratör](./image/penetrator-kullanım.png)
 
+
+
+ Valve Penetrator to lower the handle  [click](https://drive.google.com/file/d/1MiMCZR9ImO0EURkuh9rMNSrBONPoWTtd/view?usp=drive_link) 
+
+
 **You can reach us through the [forum](https://forum.degzrobotics.com/) for questions and suggestions**

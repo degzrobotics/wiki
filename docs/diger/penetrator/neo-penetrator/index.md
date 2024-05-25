@@ -21,6 +21,9 @@ Bu penetratörün tasarımında, iç çapı özenle 5mm olarak belirlenmiştir. 
 
 ![Neo-penetratör](./image/penetrator-kullanım.png)
 
+
+ Valf Penetratör tutma kolunu indirmek  için [tıklayınız](https://drive.google.com/file/d/1MiMCZR9ImO0EURkuh9rMNSrBONPoWTtd/view?usp=drive_link) 
+
 **Soru ve önerileriniz için bize [forumdan](https://forum.degzrobotics.com/)    ulaşabilirsiniz .**
 
 
