@@ -22,9 +22,9 @@ Guide to make connection for Degz IP Camera.
 
 4. Enter the IP values from the picture and click OK and then click OK.
 
-![5MP IP CAMERA](./image/chrome_HfvzOi6XCH.png)
+![5MP IP CAMERA](./image/ipcam.png)
 
-5. We find the IP Camera address using an IP scanning program like Advanced IP Scanner.
+1. We find the IP Camera address using an IP scanning program like Advanced IP Scanner.
 
 ![5MP IP CAMERA](./image/chrome_Z8RzVybFf4.png)
 

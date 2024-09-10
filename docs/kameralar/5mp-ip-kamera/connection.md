@@ -20,9 +20,9 @@ Degz IP Kamera için bağlantı yapmak için rehber.
 
 ![5MP IP KAMERA](./image/chrome_2vX4RoG13p.png)
 
-4. Resimdeki IP değerlerini girerek Tamam ve daha sonra Tamam’a tıklıyoruz.
+1. Resimdeki IP değerlerini girerek Tamam ve daha sonra Tamam’a tıklıyoruz.
 
-![5MP IP KAMERA](./image/chrome_HfvzOi6XCH.png)
+![5MP IP KAMERA](./image/ipcam.png)
 
 5. Advanced IP Scanner gibi bir IP tarama program kullanarak IP Kamera adresini buluyoruz.
 
