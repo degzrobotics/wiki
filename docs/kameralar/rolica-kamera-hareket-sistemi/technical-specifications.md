@@ -2,7 +2,7 @@
 sidebar_position : 2
 ---
 
-# Ürünün Kullanımı
+# Ürünün Kullanımı (Step)
 
 ## Ürünün Bağlantı Şeması 
 
