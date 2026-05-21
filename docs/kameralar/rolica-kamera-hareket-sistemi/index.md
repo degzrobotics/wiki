@@ -36,6 +36,9 @@ Rolica Hareketli Kamera Sistemi, 180 derece serbest dönüş ile üstün görün
 - Servo motorlu sistem için bağlantılarda; RX pini yerine, PWM kablosunu; TX pini yerine GND kablosunu bağlamanız gerekmektedir.
 ![Rolica Hareket Sistemi](./image/rolika-sematic.png)
 
+- Görselde görünen pin diyagramı 4 ping girişli rolica sistemi içindir.
+![Rolica Hareket Sistemi](./image/rolica-sematik-2.png)
+
 
 **Soru ve önerileriniz için bize [forumdan](https://forum.degzrobotics.com/)    ulaşabilirsiniz .**
 
